@@ -150,8 +150,11 @@ class AgentSimulation:
         try:
             while self.trading_simulator.can_go_next_day():
                 current_date = self.trading_simulator.get_current_date()
+                prices = self.trading_simulator.current_prices
                 
                 self._execute_daily_logic(current_date)
+                
+                self.agent_portfolio.record_daily_value(current_date, prices)
                 
                 self.trading_simulator.next_day()
                 simulation_day += 1
@@ -168,6 +171,8 @@ class AgentSimulation:
             
             self._finalize_simulation()
             
+            print(f"DEBUG: Końcowa liczba rekordów w daily_portfolio_value: {len(self.agent_portfolio.daily_portfolio_value)}")
+            
             return True, "Symulacja agenta zakończona pomyślnie"
             
         except Exception as e:
@@ -179,12 +184,12 @@ class AgentSimulation:
         prices = self.trading_simulator.current_prices
         
         self._check_sell_signals(current_date, prices)
-        
         self._check_buy_signals(current_date, predictions, prices)
+        
+        self.agent_portfolio.record_daily_value(current_date, prices)
         
         portfolio_summary = self.agent_portfolio.get_portfolio_summary(prices)
         self.agent_logger.log_daily_portfolio(current_date, portfolio_summary, predictions)
-    
     def _check_sell_signals(self, current_date, prices):
         positions_to_sell = []
         

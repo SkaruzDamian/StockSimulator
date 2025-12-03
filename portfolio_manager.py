@@ -151,7 +151,7 @@ class PortfolioManager:
             'value': portfolio_value,
             'return': calculate_returns(self.initial_capital, portfolio_value)
         })
-    
+        print(f"DEBUG: Zapisano wartość portfolio na {date}: ${portfolio_value:.2f}")
     def get_transaction_history(self):
         return pd.DataFrame(self.transaction_history)
     

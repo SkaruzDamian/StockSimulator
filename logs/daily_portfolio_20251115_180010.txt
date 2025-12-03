@@ -1,0 +1,19 @@
+================================================================================
+TRADING SIMULATOR - DZIENNY STAN PORTFOLIO
+Utworzony: 2025-11-15 18:00:10
+================================================================================
+
+[2020-01-02 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+  GOOGL: HOLD/SELL (wartość: 0)
+  MSFT: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
