@@ -55,12 +55,12 @@ class AgentWindow:
         self.update_strategy_description()
         
         info_text = f"""
-Parametry symulacji:
-- Kapitał początkowy: {format_currency(self.trading_simulator.initial_capital)}
-- Prowizja: {self.trading_simulator.commission*100:.2f}%
-- Dni do przodu: {self.trading_simulator.days_ahead}
-- Spółki: {', '.join(self.trading_simulator.tickers)}
-- Okres: {self.trading_simulator.start_date.strftime('%Y-%m-%d')} - {self.trading_simulator.end_date.strftime('%Y-%m-%d')}
+    Parametry symulacji:
+    - KapitaÅ‚ poczÄ…tkowy: {format_currency(self.trading_simulator.initial_capital)}
+    - Prowizja: {self.trading_simulator.commission*100:.2f}%
+    - Dni do przodu: {self.trading_simulator.days_ahead}
+    - SpÃ³Å‚ki: {', '.join(self.trading_simulator.tickers)}
+    - Okres: {self.trading_simulator.start_date.strftime('%Y-%m-%d')} - {self.trading_simulator.end_date.strftime('%Y-%m-%d')}
         """
         
         info_label = ttk.Label(config_frame, text=info_text.strip(), foreground="blue")
@@ -73,30 +73,17 @@ Parametry symulacji:
         buttons_frame = ttk.Frame(control_frame)
         buttons_frame.pack(fill=tk.X)
         
-        self.start_button = ttk.Button(buttons_frame, text="Rozpocznij symulację", command=self.start_simulation, style="Accent.TButton")
+        self.start_button = ttk.Button(buttons_frame, text="Rozpocznij symulacjÄ™", command=self.start_simulation, style="Accent.TButton")
         self.start_button.pack(side=tk.LEFT, padx=(0, 10))
         
-        self.compare_button = ttk.Button(buttons_frame, text="Porównaj wszystkie strategie", command=self.start_comparison, style="Accent.TButton")
+        self.compare_button = ttk.Button(buttons_frame, text="PorÃ³wnaj wszystkie strategie", command=self.start_comparison, style="Accent.TButton")
         self.compare_button.pack(side=tk.LEFT, padx=(0, 10))
         
         self.stop_button = ttk.Button(buttons_frame, text="Zatrzymaj", command=self.stop_simulation, state="disabled")
         self.stop_button.pack(side=tk.LEFT, padx=(0, 10))
         
-        ttk.Button(buttons_frame, text="Pokaż logi agenta", command=self.show_agent_logs).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(buttons_frame, text="PokaÅ¼ logi agenta", command=self.show_agent_logs).pack(side=tk.LEFT, padx=(0, 10))
         ttk.Button(buttons_frame, text="Zamknij", command=self.window.destroy).pack(side=tk.RIGHT)
-        
-        progress_frame = ttk.LabelFrame(main_frame, text="Postęp symulacji", padding=15)
-        progress_frame.pack(fill=tk.X, pady=(0, 20))
-        
-        self.status_label = ttk.Label(progress_frame, text="Symulacja nie została rozpoczęta")
-        self.status_label.pack(pady=(0, 10))
-        
-        self.progress_var = tk.DoubleVar()
-        self.progress_bar = ttk.Progressbar(progress_frame, variable=self.progress_var, maximum=100, length=400)
-        self.progress_bar.pack(fill=tk.X, pady=(0, 10))
-        
-        self.progress_text = ttk.Label(progress_frame, text="0%")
-        self.progress_text.pack()
     
     def update_strategy_description(self, event=None):
         selected_strategy = self.strategy_combo.get()
@@ -105,11 +92,7 @@ Parametry symulacji:
             self.strategy_desc_label.config(text=description)
     
     def progress_callback(self, current_day, total_days, progress):
-        def update_ui():
-            self.progress_var.set(progress)
-            self.progress_text.config(text=f"{progress:.1f}%")
-            self.status_label.config(text=f"Dzień {current_day} z {total_days}")
-        self.window.after(0, update_ui)
+        pass
     
     def start_simulation(self):
         if self.simulation_thread and self.simulation_thread.is_alive():
@@ -140,15 +123,10 @@ Parametry symulacji:
                 self.strategy_combo.config(state="readonly")
                 
                 if success:
-                    self.status_label.config(text="Symulacja zakończona pomyślnie!")
-                    self.progress_var.set(100)
-                    self.progress_text.config(text="100%")
-                    
                     result = messagebox.askyesno("Sukces", f"{message}\n\nCzy chcesz zobaczyć wykresy wyników?")
                     if result:
                         self.show_results_window()
                 else:
-                    self.status_label.config(text="Błąd podczas symulacji")
                     messagebox.showerror("Błąd", message)
             
             self.window.after(0, update_ui_after_completion)
@@ -159,10 +137,9 @@ Parametry symulacji:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
-                self.status_label.config(text="Błąd podczas symulacji")
                 messagebox.showerror("Błąd", f"Nieoczekiwany błąd: {str(e)}")
             self.window.after(0, show_error)
-    
+        
     def start_comparison(self):
         if self.simulation_thread and self.simulation_thread.is_alive():
             messagebox.showwarning("Uwaga", "Symulacja już trwa!")
@@ -188,10 +165,6 @@ Parametry symulacji:
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
                 
-                self.status_label.config(text="Porównanie strategii zakończone pomyślnie!")
-                self.progress_var.set(100)
-                self.progress_text.config(text="100%")
-                
                 result = messagebox.askyesno("Sukces", "Porównanie strategii zakończone!\n\nCzy chcesz zobaczyć wyniki?")
                 if result:
                     self.show_comparison_window(results)
@@ -204,7 +177,6 @@ Parametry symulacji:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
-                self.status_label.config(text="Błąd podczas porównania")
                 messagebox.showerror("Błąd", f"Nieoczekiwany błąd: {str(e)}")
             self.window.after(0, show_error)
     

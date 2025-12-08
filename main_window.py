@@ -140,7 +140,8 @@ class MainWindow:
         self.progress_label = ttk.Label(progress_section, textvariable=self.progress_var)
         self.progress_label.pack(pady=(0, 10))
         
-        self.progress_bar = ttk.Progressbar(progress_section, mode='indeterminate')
+        self.progress_percentage = tk.DoubleVar()
+        self.progress_bar = ttk.Progressbar(progress_section, mode='determinate', maximum=100, variable=self.progress_percentage)
         self.progress_bar.pack(fill=tk.X)
         
         main_frame.columnconfigure(1, weight=1)
@@ -246,9 +247,8 @@ class MainWindow:
             'selected_features': selected_features
         }
     
-    def setup_simulator(self, config):
-        self.progress_var.set("Initializing simulator...")
-        self.progress_bar.start()
+    def setup_simulator(self, config, progress_callback):
+        progress_callback(0, "Initializing simulator")
         
         simulator = TradingSimulator(
             tickers=config['tickers'],
@@ -262,17 +262,25 @@ class MainWindow:
             selected_features=config['selected_features']  
         )
         
-        self.progress_var.set("Loading data...")
+        progress_callback(10, "Loading data")
         simulator.setup()
         
-        self.progress_var.set("Training models...")
+        progress_callback(60, "Training models")
         simulator.train_models()
         
-        self.progress_var.set("Getting initial predictions...")
+        progress_callback(90, "Getting initial predictions")
         simulator.get_predictions_for_current_date()
         
+        progress_callback(100, "Complete")
+        
         return simulator
-    
+
+    def update_progress_safe(self, percentage, message):
+        def update():
+            self.progress_percentage.set(percentage)
+            self.progress_var.set(f"{message} ({percentage}%)")
+        self.root.after(0, update)
+
     def start_manual_simulation(self):
         if not self.validate_inputs():
             return
@@ -284,11 +292,10 @@ class MainWindow:
         
         def setup_manual_simulation():
             try:
-                simulator = self.setup_simulator(config)
+                simulator = self.setup_simulator(config, self.update_progress_safe)
                 self.simulator = simulator  
                 
                 def open_manual_window():
-                    self.progress_bar.stop()
                     self.progress_var.set("Manual simulation ready!")
                     self.manual_button.config(state='normal')
                     self.agent_button.config(state='normal')
@@ -301,7 +308,7 @@ class MainWindow:
             except Exception as e:
                 error_msg = str(e)
                 def show_error():
-                    self.progress_bar.stop()
+                    self.progress_percentage.set(0)
                     self.progress_var.set("Error occurred")
                     self.manual_button.config(state='normal')
                     self.agent_button.config(state='normal')
@@ -327,11 +334,10 @@ class MainWindow:
         
         def setup_agent_simulation():
             try:
-                simulator = self.setup_simulator(config)
+                simulator = self.setup_simulator(config, self.update_progress_safe)
                 self.simulator = simulator  
                 
                 def open_agent_window():
-                    self.progress_bar.stop()
                     self.progress_var.set("Agent simulation ready!")
                     self.manual_button.config(state='normal')
                     self.agent_button.config(state='normal')
@@ -344,7 +350,7 @@ class MainWindow:
             except Exception as e:
                 error_msg = str(e)
                 def show_error():
-                    self.progress_bar.stop()
+                    self.progress_percentage.set(0)
                     self.progress_var.set("Error occurred")
                     self.manual_button.config(state='normal')
                     self.agent_button.config(state='normal')
@@ -353,6 +359,6 @@ class MainWindow:
                 self.root.after(0, show_error)
         
         threading.Thread(target=setup_agent_simulation, daemon=True).start()
-    
+        
     def run(self):
         self.root.mainloop()

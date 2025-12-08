@@ -1,0 +1,38 @@
+================================================================================
+PODSUMOWANIE SYMULACJI AGENTA
+================================================================================
+
+Strategia: Conservative Strategy
+Opis: Mniejsze pozycje, dłuższe trzymanie, stop-loss
+
+WYNIKI FINANSOWE:
+----------------------------------------
+Kapitał początkowy: $10,000.00
+Wartość końcowa: $45,861.70
+Całkowity zwrot: $35,861.70
+Zwrot procentowy: 358.62%
+
+STATYSTYKI TRANSAKCJI:
+----------------------------------------
+Łączne transakcje: 2872
+Transakcje kupna: 1436
+Transakcje sprzedaży: 1436
+Zyskowne transakcje: 1012
+Stratne transakcje: 424
+Najlepszy trade: $897.55
+Najgorszy trade: $-479.94
+
+SKUTECZNOŚĆ MODELU:
+----------------------------------------
+Dokładność przewidywań: 70.47%
+Poprawne przewidywania: 1012
+Łączne przewidywania: 1436
+Błędne przewidywania: 424
+
+CZAS SYMULACJI:
+----------------------------------------
+Rozpoczęcie: 2025-12-08 15:30:09
+Zakończenie: 2025-12-08 15:30:41
+Czas trwania: 0:00:32.095678
+
+================================================================================

@@ -1,14 +1,23 @@
 from sklearn.svm import SVC
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+if current_dir not in sys.path:
+    sys.path.insert(0, current_dir)
+
+try:
+    from model_config_loader import load_model_params
+except ImportError:
+    def load_model_params(model_name):
+        print(f"⚠️  WARNING: model_config_loader not found, using sklearn defaults for {model_name}")
+        return {}
 
 class SVMModel:
     @staticmethod
     def build_model():
-        model = SVC(
-            kernel='rbf', 
-            C=1.0, 
-            gamma='scale', 
-            random_state=42
-        )
+        params = load_model_params('SVM')
+        model = SVC(**params)
         return model
     
     @staticmethod
