@@ -5,7 +5,7 @@ import pandas as pd
 class TransactionLogger:
     def __init__(self, log_directory="logs"):
         self.log_directory = os.path.abspath(log_directory)
-        print(f"DEBUG: Inicjalizuję logger w folderze: {self.log_directory}")
+
         
         try:
             self.ensure_log_directory()
@@ -14,19 +14,14 @@ class TransactionLogger:
             self.transaction_file = os.path.join(self.log_directory, f"transactions_{timestamp}.txt")
             self.performance_file = os.path.join(self.log_directory, f"model_performance_{timestamp}.txt")
             self.daily_portfolio_file = os.path.join(self.log_directory, f"daily_portfolio_{timestamp}.txt")
-            
-            print(f"DEBUG: Pliki logów:")
-            print(f"  - Transakcje: {self.transaction_file}")
-            print(f"  - Wydajność: {self.performance_file}")
-            print(f"  - Portfolio: {self.daily_portfolio_file}")
-            
+
             self.initialize_files()
             
             self.model_predictions = {}
             self.actual_outcomes = {}
             self.daily_accuracy = {}
             
-            print("DEBUG: Logger zainicjalizowany pomyślnie")
+   
             
         except Exception as e:
             print(f"BŁĄD inicjalizacji loggera: {e}")
@@ -36,16 +31,12 @@ class TransactionLogger:
         try:
             if not os.path.exists(self.log_directory):
                 os.makedirs(self.log_directory)
-                print(f"DEBUG: Utworzony folder: {self.log_directory}")
-            else:
-                print(f"DEBUG: Folder już istnieje: {self.log_directory}")
         except Exception as e:
             print(f"BŁĄD tworzenia folderu {self.log_directory}: {e}")
             raise
     
     def initialize_files(self):
         try:
-            print(f"DEBUG: Tworzę plik transakcji: {self.transaction_file}")
             with open(self.transaction_file, 'w', encoding='utf-8') as f:
                 f.write("=" * 80 + "\n")
                 f.write("TRADING SIMULATOR - LOG TRANSAKCJI\n")
@@ -53,7 +44,6 @@ class TransactionLogger:
                 f.write("=" * 80 + "\n\n")
                 f.flush()  
                 
-            print(f"DEBUG: Tworzę plik wydajności: {self.performance_file}")
             with open(self.performance_file, 'w', encoding='utf-8') as f:
                 f.write("=" * 80 + "\n")
                 f.write("TRADING SIMULATOR - SKUTECZNOŚĆ MODELU\n")
@@ -61,23 +51,19 @@ class TransactionLogger:
                 f.write("=" * 80 + "\n\n")
                 f.flush()
                 
-            print(f"DEBUG: Tworzę plik portfolio: {self.daily_portfolio_file}")
             with open(self.daily_portfolio_file, 'w', encoding='utf-8') as f:
                 f.write("=" * 80 + "\n")
                 f.write("TRADING SIMULATOR - DZIENNY STAN PORTFOLIO\n")
                 f.write(f"Utworzony: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
                 f.write("=" * 80 + "\n\n")
                 f.flush()
-                
-            print("DEBUG: Wszystkie pliki utworzone pomyślnie")
+ 
             
         except Exception as e:
-            print(f"BŁĄD tworzenia plików: {e}")
             raise
     
     def log_transaction(self, date, ticker, action, shares, price, commission, total_amount, success=True):
         try:
-            print(f"DEBUG: Loguję transakcję: {action} {ticker} {shares} akcji po ${price}")
             with open(self.transaction_file, 'a', encoding='utf-8') as f:
                 status = "SUKCES" if success else "BŁĄD"
                 f.write(f"[{date}] {status} - {action}\n")
@@ -88,13 +74,12 @@ class TransactionLogger:
                 f.write(f"  Łączna kwota: ${total_amount:.2f}\n")
                 f.write("-" * 50 + "\n\n")
                 f.flush()
-            print("DEBUG: Transakcja zalogowana pomyślnie")
+ 
         except Exception as e:
             print(f"BŁĄD logowania transakcji: {e}")
     
     def log_prediction(self, date, ticker, prediction, actual_price_change=None):
         try:
-            print(f"DEBUG: Loguję przewidywanie: {ticker} prediction={prediction}")
             
             if ticker not in self.model_predictions:
                 self.model_predictions[ticker] = []
@@ -113,13 +98,11 @@ class TransactionLogger:
                     'price_change': actual_price_change
                 })
                 
-            print("DEBUG: Przewidywanie zalogowane pomyślnie")
         except Exception as e:
             print(f"BŁĄD logowania przewidywania: {e}")
     
     def log_daily_portfolio(self, date, portfolio_summary, predictions):
         try:
-            print(f"DEBUG: Loguję dzienny stan portfolio na {date}")
             with open(self.daily_portfolio_file, 'a', encoding='utf-8') as f:
                 f.write(f"[{date}]\n")
                 f.write(f"Gotówka: ${portfolio_summary['cash']:,.2f}\n")
@@ -141,7 +124,6 @@ class TransactionLogger:
                 
                 f.write("-" * 60 + "\n\n")
                 f.flush()
-            print("DEBUG: Dzienny stan portfolio zalogowany pomyślnie")
         except Exception as e:
             print(f"BŁĄD logowania dziennego portfolio: {e}")
     
@@ -209,15 +191,23 @@ class TransactionLogger:
             f.write("\n" + "=" * 60 + "\n")
     
     def update_actual_outcome(self, ticker, date, price_change):
-        if ticker in self.actual_outcomes:
-            for i, pred in enumerate(self.model_predictions[ticker]):
-                if pred['date'] == date and i < len(self.actual_outcomes[ticker]):
-                    actual_outcome = 1 if price_change > 0 else 0
-                    self.actual_outcomes[ticker][i] = {
-                        'date': date,
-                        'actual': actual_outcome,
-                        'price_change': price_change
-                    }
+
+        if ticker not in self.actual_outcomes:
+            self.actual_outcomes[ticker] = []
+        
+        if ticker in self.model_predictions:
+            for pred in self.model_predictions[ticker]:
+                if pred['date'] == date:
+                    already_exists = any(outcome['date'] == date for outcome in self.actual_outcomes[ticker])
+                    
+                    if not already_exists:
+                        actual_outcome = 1 if price_change > 0 else 0
+                        self.actual_outcomes[ticker].append({
+                            'date': date,
+                            'actual': actual_outcome,
+                            'price_change': price_change
+                        })
+                
                     break
     
     def finalize_logs(self, final_portfolio_summary):

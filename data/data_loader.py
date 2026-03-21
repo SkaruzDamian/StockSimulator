@@ -1,11 +1,15 @@
 import yfinance as yf
 import pandas as pd
+import tempfile
+import os
+import time
 
 class DataLoader:
     def __init__(self, ticker):
         self.ticker = ticker 
 
     def load_data(self):
+  
         data = yf.download(self.ticker, period="max", auto_adjust=True, prepost=True, threads=True)
         
         if isinstance(data.columns, pd.MultiIndex):

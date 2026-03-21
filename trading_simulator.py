@@ -128,7 +128,9 @@ class TradingSimulator:
             except Exception as e:
                 print(f"Błąd podczas trenowania modelu dla {ticker}: {str(e)}")
                 del self.ticker_models[ticker]
-        
+        if not self.ticker_models:
+            raise ValueError("Nie udało się wytrenować żadnego modelu")
+
         self.is_trained = True
         print("Trenowanie modeli zakończone!")
     
@@ -144,9 +146,7 @@ class TradingSimulator:
         current_date = self.get_current_date()
         if current_date is None:
             return {}
-        
-        print(f"Getting predictions for date: {current_date}")
-        
+ 
         predictions = {}
         prices = {}
         
@@ -171,9 +171,7 @@ class TradingSimulator:
                     
                     self.logger.log_prediction(current_date, ticker, predictions[ticker])
                     
-                    print(f"{ticker}: prediction={predictions[ticker]}, price={prices[ticker]}")
-                else:
-                    print(f"No data for {ticker} on {current_date}")
+            
                 
             except Exception as e:
                 print(f"Błąd predykcji dla {ticker}: {str(e)}")
@@ -186,8 +184,7 @@ class TradingSimulator:
         portfolio_summary = self.get_portfolio_summary()
         self.logger.log_daily_portfolio(current_date, portfolio_summary, predictions)
         
-        print(f"Final predictions: {predictions}")
-        print(f"Final prices: {prices}")
+
         
         return predictions
     
@@ -320,6 +317,9 @@ class TradingSimulator:
             return None
         
         data = self.ticker_data[ticker].copy()
+        
+        if date is None:
+            return data
         
         if 'Date' in data.columns:
             data = data[data['Date'] <= pd.to_datetime(date)]

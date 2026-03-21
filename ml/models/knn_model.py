@@ -10,7 +10,7 @@ try:
     from model_config_loader import load_model_params
 except ImportError:
     def load_model_params(model_name):
-        print(f"⚠️  WARNING: model_config_loader not found, using sklearn defaults for {model_name}")
+        print(f"⚠️  OSTRZEŻENIE, nie znaleziono pliku konfiguracyjnego dla modelu {model_name}. Używane są domyślne parametry.")
         return {}
 
 class KNNModel:

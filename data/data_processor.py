@@ -12,7 +12,7 @@ class DataProcessor:
         data_copy = data_copy.dropna()
         
         if len(data_copy) < 50:
-            raise ValueError("Not enough data points for technical indicators")
+            raise ValueError("Nie wystarczająca ilość danych do obliczenia wskaźników technicznych")
         
         try:
             high = data_copy['High'].astype(float).values if 'High' in data_copy.columns else None
@@ -21,7 +21,7 @@ class DataProcessor:
             volume = data_copy['Volume'].astype(float).values if 'Volume' in data_copy.columns else None
             open_price = data_copy['Open'].astype(float).values if 'Open' in data_copy.columns else None
         except Exception as e:
-            raise ValueError(f"Error converting data to float: {str(e)}")
+            raise ValueError(f"Błąd konwersji danych na typ float: {str(e)}")
         
         for indicator in indicators:
             try:
@@ -105,10 +105,10 @@ class DataProcessor:
         data_copy = data.copy()
         
         if len(data_copy) <= days_ahead:
-            raise ValueError(f"Not enough data to create target with {days_ahead} days ahead")
+            raise ValueError(f"Nie wystarczająca ilość danych do utworzenia etykiet z {days_ahead} dniowym wyprzedzeniem")
         
         if 'Close' not in data_copy.columns:
-            raise ValueError("Close price is required for target creation")
+            raise ValueError("Cena zamknięcia jest wymagana do utworzenia etykiet")
             
         future_close = data_copy['Close'].iloc[days_ahead:].values
         current_close = data_copy['Close'].iloc[:-days_ahead].values
@@ -141,7 +141,7 @@ class DataProcessor:
         test_data = data_copy[test_mask].copy()
         
         if len(test_data) == 0:
-            raise ValueError(f"No data found between {date_start} and {date_end}")
+            raise ValueError(f"Nie znaleziono danych pomiędzy {date_start} i {date_end}")
         
         first_test_position = data_copy[test_mask].index[0]
         
@@ -149,7 +149,7 @@ class DataProcessor:
             train_end_position = first_test_position - days_ahead
             train_data = data_copy.iloc[:train_end_position].copy()
         else:
-            raise ValueError(f"Not enough data before test period. Need at least {days_ahead} days.")
+            raise ValueError(f"Niewystarczająca ilość danych przed okresem testowym.")
         
         test_start_idx_in_data_copy = test_data.index[0] if len(test_data) > 0 else None
         test_end_idx_in_data_copy = test_data.index[-1] if len(test_data) > 0 else None

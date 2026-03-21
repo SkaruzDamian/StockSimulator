@@ -87,9 +87,8 @@ def get_model_class(model_name):
     except ImportError as e:
         raise ImportError(f"Could not import {class_name}: {str(e)}")
 
-def prepare_features_for_prediction(data, drop_columns=None):
-    if drop_columns is None:
-        drop_columns = ['Target', 'Date']
+def prepare_features_for_prediction(data, selected_features=None):
+    drop_columns = ['Target', 'Date']
     
     existing_drop_columns = [col for col in drop_columns if col in data.columns]
     features = data.drop(columns=existing_drop_columns)

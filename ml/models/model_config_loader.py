@@ -21,26 +21,26 @@ class ModelConfigLoader:
             return self.config_cache
         
         if not self.config_path.exists():
-            print(f"⚠️  WARNING: Config file '{self.config_path}' not found")
-            print(f"   Using sklearn default parameters for all models")
+            print(f"⚠️  OSTRZEŻENIE: Plik konfiguracyjny '{self.config_path}' nie znaleziony")
+            print(f"   Używanie parametrów domyślnych")
             self.config_cache = {}
             return self.config_cache
         
         try:
             with open(self.config_path, 'r', encoding='utf-8') as f:
                 self.config_cache = json.load(f)
-            print(f"✓ Loaded model parameters from: {self.config_path}")
+            print(f"✓ Załadowane parametry z pliku: {self.config_path}")
             return self.config_cache
         
         except json.JSONDecodeError as e:
-            print(f"❌ ERROR: Invalid JSON in config file: {e}")
-            print(f"   Using sklearn default parameters for all models")
+            print(f"❌ BŁĄD: błędny rozkład pliku config: {e}")
+            print(f"   Używanie parametrów domyślnych")
             self.config_cache = {}
             return self.config_cache
         
         except Exception as e:
-            print(f"❌ ERROR: Failed to load config file: {e}")
-            print(f"   Using sklearn default parameters for all models")
+            print(f"❌ BŁĄD: Niezaładowano pliku config: {e}")
+            print(f"   Używanie parametrów domyślnych")
             self.config_cache = {}
             return self.config_cache
     
@@ -77,27 +77,27 @@ class ModelConfigLoader:
                 
                 if param_name in ['n_estimators', 'n_neighbors', 'max_iter']:
                     if isinstance(converted_value, int) and converted_value <= 0:
-                        print(f"⚠️  WARNING: {model_name}.{param_name} must be > 0, got {converted_value}")
-                        print(f"   Skipping parameter {param_name}")
+                        print(f"⚠️  OSTRZEŻENIE: {model_name}.{param_name} musi być większe od zera, jest: {converted_value}")
+                        print(f"   Pomijanie parametru {param_name}")
                         continue
                 
                 if param_name == 'max_depth':
                     if converted_value is not None and isinstance(converted_value, int) and converted_value <= 0:
-                        print(f"⚠️  WARNING: {model_name}.{param_name} must be > 0 or None, got {converted_value}")
-                        print(f"   Skipping parameter {param_name}")
+                        print(f"⚠️  OSTRZEŻENIE: {model_name}.{param_name} musi być większe od zera lub NONE, jest: {converted_value}")
+                        print(f"   Pomijanie parametru {param_name}")
                         continue
                 
                 if param_name == 'C':
                     if isinstance(converted_value, (int, float)) and converted_value <= 0:
-                        print(f"⚠️  WARNING: {model_name}.{param_name} must be > 0, got {converted_value}")
-                        print(f"   Skipping parameter {param_name}")
+                        print(f"⚠️  OSTRZEŻENIE: {model_name}.{param_name} musi być większe od zera, jest: {converted_value}")
+                        print(f"   Pomijanie parametru {param_name}")
                         continue
                 
                 validated[param_name] = converted_value
                 
             except Exception as e:
-                print(f"⚠️  WARNING: Failed to validate {model_name}.{param_name}: {e}")
-                print(f"   Skipping parameter {param_name}")
+                print(f"⚠️  OSTRZEŻENIE: Nie udało się zweryfikować {model_name}.{param_name}: {e}")
+                print(f"   Pomijanie parametru {param_name}")
                 continue
         
         return validated
@@ -105,21 +105,21 @@ class ModelConfigLoader:
     def load_model_params(self, model_name):
         config = self._load_config_file()
         
-        if model_name not in config:
-            print(f"⚠️  WARNING: Model '{model_name}' not found in config file")
-            print(f"   Using sklearn default parameters for {model_name}")
+        if model_name not in config: 
+            print(f"⚠️  OSTRZEŻENIE: Model '{model_name}' nieznaleziony w pliku konfiguracyjnym")
+            print(f"   Używanie parametrów domyślnych")
             return {}
         
         params = config[model_name]
         
         if not params:
-            print(f"ℹ️  INFO: No parameters specified for '{model_name}' in config")
-            print(f"   Using sklearn default parameters")
+            print(f"ℹ️  INFO: Brak zdefiniowanych parametrów dla modelu '{model_name}' w pliku konfiguracyjnym")
+            print(f"   Używanie parametrów domyślnych")
             return {}
         
         validated_params = self._validate_params(model_name, params)
         
-        print(f"✓ Loaded {len(validated_params)} parameters for {model_name}: {list(validated_params.keys())}")
+        print(f"✓ Załadowano {len(validated_params)} parametry dla {model_name}: {list(validated_params.keys())}")
         
         return validated_params
     

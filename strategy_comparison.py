@@ -20,7 +20,7 @@ class StrategyComparison:
         strategy_index = 0
         
         for strategy_name, strategy in self.strategies.items():
-            print(f"Running simulation for {strategy_name}...")
+            print(f"Uruchamianie strategii dla {strategy_name}...")
             
             def adjusted_progress_callback(current_day, total_days, progress):
                 overall_progress = (strategy_index * 100 + progress) / total_strategies
@@ -45,9 +45,9 @@ class StrategyComparison:
                     'stats': agent_sim.stats.copy(),
                     'initial_capital': self.trading_simulator.initial_capital
                 }
-                print(f"{strategy_name} completed successfully")
+                print(f"{strategy_name} Ukończona pomyślnie.")
             else:
-                print(f"{strategy_name} failed: {message}")
+                print(f"{strategy_name} Błąd: {message}")
                 self.results[strategy_name] = None
             
             strategy_index += 1

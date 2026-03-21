@@ -1,0 +1,3755 @@
+================================================================================
+TRADING SIMULATOR - DZIENNY STAN PORTFOLIO
+Utworzony: 2026-01-21 16:38:04
+================================================================================
+
+[2018-01-02 00:00:00]
+Gotówka: $3,000.00
+Wartość całkowita: $3,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-01-03 00:00:00]
+Gotówka: $1,747.31
+Wartość całkowita: $3,011.33
+Zwrot całkowity: $11.33 (0.38%)
+
+Pozycje:
+  BA: 1 akcji @ $281.85 (Obecna: $283.80, P&L: $1.95)
+  JPM: 4 akcji @ $86.08 (Obecna: $86.43, P&L: $1.38)
+  TSLA: 30 akcji @ $20.80 (Obecna: $21.15, P&L: $10.50)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-01-04 00:00:00]
+Gotówka: $1,747.31
+Wartość całkowita: $3,009.94
+Zwrot całkowity: $9.94 (0.33%)
+
+Pozycje:
+  BA: 1 akcji @ $281.85 (Obecna: $282.72, P&L: $0.88)
+  JPM: 4 akcji @ $86.08 (Obecna: $87.67, P&L: $6.33)
+  TSLA: 30 akcji @ $20.80 (Obecna: $20.97, P&L: $5.24)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-01-05 00:00:00]
+Gotówka: $1,747.31
+Wartość całkowita: $3,023.21
+Zwrot całkowity: $23.21 (0.77%)
+
+Pozycje:
+  BA: 1 akcji @ $281.85 (Obecna: $294.32, P&L: $12.47)
+  JPM: 4 akcji @ $86.08 (Obecna: $87.10, P&L: $4.08)
+  TSLA: 30 akcji @ $20.80 (Obecna: $21.11, P&L: $9.16)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-08 00:00:00]
+Gotówka: $1,747.31
+Wartość całkowita: $3,064.63
+Zwrot całkowity: $64.63 (2.15%)
+
+Pozycje:
+  BA: 1 akcji @ $281.85 (Obecna: $295.57, P&L: $13.72)
+  JPM: 4 akcji @ $86.08 (Obecna: $87.23, P&L: $4.59)
+  TSLA: 30 akcji @ $20.80 (Obecna: $22.43, P&L: $48.82)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-09 00:00:00]
+Gotówka: $1,747.31
+Wartość całkowita: $3,068.85
+Zwrot całkowity: $68.85 (2.30%)
+
+Pozycje:
+  BA: 1 akcji @ $281.85 (Obecna: $303.46, P&L: $21.61)
+  JPM: 4 akcji @ $86.08 (Obecna: $87.68, P&L: $6.36)
+  TSLA: 30 akcji @ $20.80 (Obecna: $22.25, P&L: $43.38)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-10 00:00:00]
+Gotówka: $1,766.44
+Wartość całkowita: $3,085.97
+Zwrot całkowity: $85.97 (2.87%)
+
+Pozycje:
+  BA: 2 akcji @ $288.92 (Obecna: $305.21, P&L: $32.57)
+  JPM: 8 akcji @ $86.75 (Obecna: $88.64, P&L: $15.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-11 00:00:00]
+Gotówka: $1,766.44
+Wartość całkowita: $3,104.74
+Zwrot całkowity: $104.74 (3.49%)
+
+Pozycje:
+  BA: 2 akcji @ $288.92 (Obecna: $312.70, P&L: $47.55)
+  JPM: 8 akcji @ $86.75 (Obecna: $89.11, P&L: $18.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-12 00:00:00]
+Gotówka: $1,766.44
+Wartość całkowita: $3,131.93
+Zwrot całkowity: $131.93 (4.40%)
+
+Pozycje:
+  BA: 2 akcji @ $288.92 (Obecna: $320.41, P&L: $62.97)
+  JPM: 8 akcji @ $86.75 (Obecna: $90.59, P&L: $30.71)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-16 00:00:00]
+Gotówka: $1,766.44
+Wartość całkowita: $3,127.36
+Zwrot całkowity: $127.36 (4.25%)
+
+Pozycje:
+  BA: 2 akcji @ $288.92 (Obecna: $319.41, P&L: $60.97)
+  JPM: 8 akcji @ $86.75 (Obecna: $90.26, P&L: $28.13)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-17 00:00:00]
+Gotówka: $1,766.44
+Wartość całkowita: $3,162.20
+Zwrot całkowity: $162.20 (5.41%)
+
+Pozycje:
+  BA: 2 akcji @ $288.92 (Obecna: $334.51, P&L: $91.18)
+  JPM: 8 akcji @ $86.75 (Obecna: $90.84, P&L: $32.76)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-18 00:00:00]
+Gotówka: $1,083.39
+Wartość całkowita: $3,148.61
+Zwrot całkowity: $148.61 (4.95%)
+
+Pozycje:
+  BA: 3 akcji @ $299.90 (Obecna: $324.17, P&L: $72.82)
+  JPM: 12 akcji @ $87.82 (Obecna: $91.06, P&L: $38.91)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-19 00:00:00]
+Gotówka: $1,083.39
+Wartość całkowita: $3,139.26
+Zwrot całkowity: $139.26 (4.64%)
+
+Pozycje:
+  BA: 3 akcji @ $299.90 (Obecna: $321.85, P&L: $65.87)
+  JPM: 12 akcji @ $87.82 (Obecna: $90.86, P&L: $36.49)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-22 00:00:00]
+Gotówka: $1,083.39
+Wartość całkowita: $3,152.76
+Zwrot całkowity: $152.76 (5.09%)
+
+Pozycje:
+  BA: 3 akcji @ $299.90 (Obecna: $322.11, P&L: $66.64)
+  JPM: 12 akcji @ $87.82 (Obecna: $91.92, P&L: $49.23)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-23 00:00:00]
+Gotówka: $1,083.39
+Wartość całkowita: $3,144.71
+Zwrot całkowity: $144.71 (4.82%)
+
+Pozycje:
+  BA: 3 akcji @ $299.90 (Obecna: $319.81, P&L: $59.75)
+  JPM: 12 akcji @ $87.82 (Obecna: $91.82, P&L: $48.07)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-24 00:00:00]
+Gotówka: $1,083.39
+Wartość całkowita: $3,156.23
+Zwrot całkowity: $156.23 (5.21%)
+
+Pozycje:
+  BA: 3 akcji @ $299.90 (Obecna: $318.96, P&L: $57.18)
+  JPM: 12 akcji @ $87.82 (Obecna: $93.00, P&L: $62.16)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-25 00:00:00]
+Gotówka: $392.23
+Wartość całkowita: $3,188.50
+Zwrot całkowity: $188.50 (6.28%)
+
+Pozycje:
+  BA: 4 akcji @ $305.02 (Obecna: $326.98, P&L: $87.84)
+  JPM: 16 akcji @ $88.95 (Obecna: $93.02, P&L: $65.15)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-01-26 00:00:00]
+Gotówka: $392.23
+Wartość całkowita: $3,196.89
+Zwrot całkowity: $196.89 (6.56%)
+
+Pozycje:
+  BA: 4 akcji @ $305.02 (Obecna: $327.09, P&L: $88.26)
+  JPM: 16 akcji @ $88.95 (Obecna: $93.52, P&L: $73.12)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-29 00:00:00]
+Gotówka: $392.23
+Wartość całkowita: $3,186.20
+Zwrot całkowity: $186.20 (6.21%)
+
+Pozycje:
+  BA: 4 akcji @ $305.02 (Obecna: $324.80, P&L: $79.11)
+  JPM: 16 akcji @ $88.95 (Obecna: $93.42, P&L: $71.58)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-30 00:00:00]
+Gotówka: $392.23
+Wartość całkowita: $3,160.32
+Zwrot całkowity: $160.32 (5.34%)
+
+Pozycje:
+  BA: 4 akcji @ $305.02 (Obecna: $321.84, P&L: $67.25)
+  JPM: 16 akcji @ $88.95 (Obecna: $92.55, P&L: $57.56)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-01-31 00:00:00]
+Gotówka: $392.23
+Wartość całkowita: $3,231.03
+Zwrot całkowity: $231.03 (7.70%)
+
+Pozycje:
+  BA: 4 akcji @ $305.02 (Obecna: $337.71, P&L: $130.76)
+  JPM: 16 akcji @ $88.95 (Obecna: $93.00, P&L: $64.76)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-01 00:00:00]
+Gotówka: $1,532.97
+Wartość całkowita: $3,233.77
+Zwrot całkowity: $233.77 (7.79%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $340.16, P&L: $137.16)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-02 00:00:00]
+Gotówka: $1,532.97
+Wartość całkowita: $3,195.51
+Zwrot całkowity: $195.51 (6.52%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $332.51, P&L: $98.90)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-05 00:00:00]
+Gotówka: $1,532.97
+Wartość całkowita: $3,100.07
+Zwrot całkowity: $100.07 (3.34%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $313.42, P&L: $3.46)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-06 00:00:00]
+Gotówka: $1,532.97
+Wartość całkowita: $3,157.39
+Zwrot całkowity: $157.39 (5.25%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $324.88, P&L: $60.78)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-07 00:00:00]
+Gotówka: $1,532.97
+Wartość całkowita: $3,191.75
+Zwrot całkowity: $191.75 (6.39%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $331.76, P&L: $95.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-08 00:00:00]
+Gotówka: $185.00
+Wartość całkowita: $3,064.59
+Zwrot całkowity: $64.59 (2.15%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $315.71, P&L: $14.93)
+  JPM: 15 akcji @ $89.69 (Obecna: $86.73, P&L: $-44.26)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-02-09 00:00:00]
+Gotówka: $185.00
+Wartość całkowita: $3,105.82
+Zwrot całkowity: $105.82 (3.53%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $318.75, P&L: $30.11)
+  JPM: 15 akcji @ $89.69 (Obecna: $88.47, P&L: $-18.21)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-12 00:00:00]
+Gotówka: $185.00
+Wartość całkowita: $3,178.85
+Zwrot całkowity: $178.85 (5.96%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $329.26, P&L: $82.64)
+  JPM: 15 akcji @ $89.69 (Obecna: $89.84, P&L: $2.29)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-13 00:00:00]
+Gotówka: $185.00
+Wartość całkowita: $3,184.11
+Zwrot całkowity: $184.11 (6.14%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $328.64, P&L: $79.57)
+  JPM: 15 akcji @ $89.69 (Obecna: $90.39, P&L: $10.61)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-14 00:00:00]
+Gotówka: $185.00
+Wartość całkowita: $3,223.56
+Zwrot całkowity: $223.56 (7.45%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $330.26, P&L: $87.67)
+  JPM: 15 akcji @ $89.69 (Obecna: $92.48, P&L: $41.97)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-15 00:00:00]
+Gotówka: $1,569.47
+Wartość całkowita: $3,276.38
+Zwrot całkowity: $276.38 (9.21%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $341.38, P&L: $143.26)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-16 00:00:00]
+Gotówka: $1,569.47
+Wartość całkowita: $3,269.58
+Zwrot całkowity: $269.58 (8.99%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $340.02, P&L: $136.46)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-20 00:00:00]
+Gotówka: $1,569.47
+Wartość całkowita: $3,261.48
+Zwrot całkowity: $261.48 (8.72%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $338.40, P&L: $128.37)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-21 00:00:00]
+Gotówka: $1,569.47
+Wartość całkowita: $3,256.79
+Zwrot całkowity: $256.79 (8.56%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $337.46, P&L: $123.68)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-22 00:00:00]
+Gotówka: $1,569.47
+Wartość całkowita: $3,273.79
+Zwrot całkowity: $273.79 (9.13%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $340.86, P&L: $140.68)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-23 00:00:00]
+Gotówka: $173.77
+Wartość całkowita: $3,296.38
+Zwrot całkowity: $296.38 (9.88%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $341.57, P&L: $144.22)
+  JPM: 15 akcji @ $92.86 (Obecna: $94.32, P&L: $21.83)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-26 00:00:00]
+Gotówka: $173.77
+Wartość całkowita: $3,346.64
+Zwrot całkowity: $346.64 (11.55%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $348.10, P&L: $176.88)
+  JPM: 15 akcji @ $92.86 (Obecna: $95.49, P&L: $39.44)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-27 00:00:00]
+Gotówka: $173.77
+Wartość całkowita: $3,335.19
+Zwrot całkowity: $335.19 (11.17%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $349.21, P&L: $182.43)
+  JPM: 15 akcji @ $92.86 (Obecna: $94.36, P&L: $22.43)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-02-28 00:00:00]
+Gotówka: $173.77
+Wartość całkowita: $3,301.12
+Zwrot całkowity: $301.12 (10.04%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $346.89, P&L: $170.80)
+  JPM: 15 akcji @ $92.86 (Obecna: $92.86, P&L: $-0.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-01 00:00:00]
+Gotówka: $173.77
+Wartość całkowita: $3,216.21
+Zwrot całkowity: $216.21 (7.21%)
+
+Pozycje:
+  BA: 5 akcji @ $312.73 (Obecna: $334.90, P&L: $110.84)
+  JPM: 15 akcji @ $92.86 (Obecna: $91.20, P&L: $-24.96)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-02 00:00:00]
+Gotówka: $3,210.12
+Wartość całkowita: $3,210.12
+Zwrot całkowity: $210.12 (7.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-05 00:00:00]
+Gotówka: $1,411.21
+Wartość całkowita: $3,257.25
+Zwrot całkowity: $257.25 (8.58%)
+
+Pozycje:
+  BA: 3 akcji @ $327.36 (Obecna: $337.83, P&L: $31.40)
+  JPM: 9 akcji @ $90.36 (Obecna: $92.51, P&L: $19.32)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-06 00:00:00]
+Gotówka: $1,411.21
+Wartość całkowita: $3,246.97
+Zwrot całkowity: $246.97 (8.23%)
+
+Pozycje:
+  BA: 3 akcji @ $327.36 (Obecna: $334.16, P&L: $20.40)
+  JPM: 9 akcji @ $90.36 (Obecna: $92.59, P&L: $20.04)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-07 00:00:00]
+Gotówka: $1,411.21
+Wartość całkowita: $3,238.46
+Zwrot całkowity: $238.46 (7.95%)
+
+Pozycje:
+  BA: 3 akcji @ $327.36 (Obecna: $332.36, P&L: $15.00)
+  JPM: 9 akcji @ $90.36 (Obecna: $92.24, P&L: $16.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-08 00:00:00]
+Gotówka: $1,411.21
+Wartość całkowita: $3,243.39
+Zwrot całkowity: $243.39 (8.11%)
+
+Pozycje:
+  BA: 3 akcji @ $327.36 (Obecna: $333.98, P&L: $19.85)
+  JPM: 9 akcji @ $90.36 (Obecna: $92.25, P&L: $17.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-09 00:00:00]
+Gotówka: $1,411.21
+Wartość całkowita: $3,283.90
+Zwrot całkowity: $283.90 (9.46%)
+
+Pozycje:
+  BA: 3 akcji @ $327.36 (Obecna: $339.52, P&L: $36.49)
+  JPM: 9 akcji @ $90.36 (Obecna: $94.90, P&L: $40.88)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-12 00:00:00]
+Gotówka: $3,280.16
+Wartość całkowita: $3,280.16
+Zwrot całkowity: $280.16 (9.34%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-13 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,214.66
+Zwrot całkowity: $214.66 (7.16%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $324.34, P&L: $-47.49)
+  JPM: 10 akcji @ $94.87 (Obecna: $93.46, P&L: $-14.07)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-14 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,180.04
+Zwrot całkowity: $180.04 (6.00%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $316.29, P&L: $-71.65)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.42, P&L: $-24.52)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-15 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,181.57
+Zwrot całkowity: $181.57 (6.05%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $316.02, P&L: $-72.46)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.65, P&L: $-22.19)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-16 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,184.58
+Zwrot całkowity: $184.58 (6.15%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $316.49, P&L: $-71.05)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.81, P&L: $-20.58)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-19 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,180.98
+Zwrot całkowity: $180.98 (6.03%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $317.73, P&L: $-67.35)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.08, P&L: $-27.90)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-20 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,198.72
+Zwrot całkowity: $198.72 (6.62%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $323.35, P&L: $-50.48)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.17, P&L: $-27.01)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-21 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,198.01
+Zwrot całkowity: $198.01 (6.60%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.84, P&L: $-52.00)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.25, P&L: $-26.21)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-22 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,109.24
+Zwrot całkowity: $109.24 (3.64%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $306.09, P&L: $-102.25)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.40, P&L: $-64.72)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-23 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,089.60
+Zwrot całkowity: $89.60 (2.99%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $307.42, P&L: $-98.26)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.03, P&L: $-88.36)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-03-26 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,139.03
+Zwrot całkowity: $139.03 (4.63%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $315.05, P&L: $-75.36)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.69, P&L: $-61.83)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-03-27 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,099.27
+Zwrot całkowity: $99.27 (3.31%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $307.54, P&L: $-97.92)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.97, P&L: $-79.03)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-03-28 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,094.74
+Zwrot całkowity: $94.74 (3.16%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $306.48, P&L: $-101.08)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.83, P&L: $-80.40)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-03-29 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,133.17
+Zwrot całkowity: $133.17 (4.44%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $314.01, P&L: $-78.49)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.41, P&L: $-64.56)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-04-02 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,100.49
+Zwrot całkowity: $100.49 (3.35%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $308.80, P&L: $-94.12)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.71, P&L: $-81.61)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-04-03 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,136.47
+Zwrot całkowity: $136.47 (4.55%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $316.83, P&L: $-70.05)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.90, P&L: $-69.71)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-04 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,140.10
+Zwrot całkowity: $140.10 (4.67%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $313.59, P&L: $-79.76)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.23, P&L: $-56.36)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-05 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,177.56
+Zwrot całkowity: $177.56 (5.92%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.17, P&L: $-54.01)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.41, P&L: $-44.64)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-06 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,125.48
+Zwrot całkowity: $125.48 (4.18%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $312.32, P&L: $-83.55)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.15, P&L: $-67.19)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-09 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,125.61
+Zwrot całkowity: $125.61 (4.19%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $308.84, P&L: $-94.01)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.21, P&L: $-56.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-10 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,178.14
+Zwrot całkowity: $178.14 (5.94%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $320.67, P&L: $-58.53)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.92, P&L: $-39.55)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-11 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,141.41
+Zwrot całkowity: $141.41 (4.71%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $313.51, P&L: $-79.99)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.39, P&L: $-54.82)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-12 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,192.71
+Zwrot całkowity: $192.71 (6.42%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $323.20, P&L: $-50.91)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.61, P&L: $-32.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-13 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,144.34
+Zwrot całkowity: $144.34 (4.81%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $315.35, P&L: $-74.47)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.13, P&L: $-57.41)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-16 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,150.76
+Zwrot całkowity: $150.76 (5.03%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $317.74, P&L: $-67.32)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.06, P&L: $-58.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-17 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,164.99
+Zwrot całkowity: $164.99 (5.50%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.48, P&L: $-53.09)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.06, P&L: $-58.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-18 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,170.09
+Zwrot całkowity: $170.09 (5.67%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $326.57, P&L: $-40.80)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.34, P&L: $-65.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-19 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,188.45
+Zwrot całkowity: $188.45 (6.28%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $326.23, P&L: $-41.83)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.28, P&L: $-45.94)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-20 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,180.77
+Zwrot całkowity: $180.77 (6.03%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $324.34, P&L: $-47.49)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.08, P&L: $-47.96)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-23 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,176.90
+Zwrot całkowity: $176.90 (5.90%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $324.51, P&L: $-47.00)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.64, P&L: $-52.32)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-24 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,144.59
+Zwrot całkowity: $144.59 (4.82%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $315.14, P&L: $-75.10)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.22, P&L: $-56.52)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-25 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,180.85
+Zwrot całkowity: $180.85 (6.03%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $328.36, P&L: $-35.45)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.88, P&L: $-59.92)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-26 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,181.54
+Zwrot całkowity: $181.54 (6.05%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $328.29, P&L: $-35.66)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.97, P&L: $-59.03)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-27 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,170.39
+Zwrot całkowity: $170.39 (5.68%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $326.46, P&L: $-41.14)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.40, P&L: $-64.68)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-04-30 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,144.35
+Zwrot całkowity: $144.35 (4.81%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $319.45, P&L: $-62.17)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.90, P&L: $-69.69)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-01 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,132.80
+Zwrot całkowity: $132.80 (4.43%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $315.60, P&L: $-73.72)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.90, P&L: $-69.69)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-02 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,110.48
+Zwrot całkowity: $110.48 (3.68%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $310.48, P&L: $-89.09)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.21, P&L: $-76.64)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-03 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,123.66
+Zwrot całkowity: $123.66 (4.12%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $316.70, P&L: $-70.42)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.66, P&L: $-82.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-04 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,144.02
+Zwrot całkowity: $144.02 (4.80%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $320.28, P&L: $-59.67)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.62, P&L: $-72.52)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-07 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,168.86
+Zwrot całkowity: $168.86 (5.63%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $326.03, P&L: $-42.44)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.38, P&L: $-64.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-08 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,176.03
+Zwrot całkowity: $176.03 (5.87%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $324.06, P&L: $-48.35)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.69, P&L: $-51.83)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-09 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,213.20
+Zwrot całkowity: $213.20 (7.11%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $329.93, P&L: $-30.74)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.64, P&L: $-32.28)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-10 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,224.00
+Zwrot całkowity: $224.00 (7.47%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $331.16, P&L: $-27.05)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.35, P&L: $-25.17)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-11 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,215.88
+Zwrot całkowity: $215.88 (7.20%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $329.61, P&L: $-31.70)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.01, P&L: $-28.64)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-14 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,222.35
+Zwrot całkowity: $222.35 (7.41%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $331.66, P&L: $-25.54)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.04, P&L: $-28.32)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-15 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,208.19
+Zwrot całkowity: $208.19 (6.94%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $329.28, P&L: $-32.68)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.34, P&L: $-35.35)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-16 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,207.38
+Zwrot całkowity: $207.38 (6.91%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $328.18, P&L: $-36.00)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.59, P&L: $-32.85)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-17 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,213.46
+Zwrot całkowity: $213.46 (7.12%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $331.23, P&L: $-26.84)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.28, P&L: $-35.92)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-18 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,219.14
+Zwrot całkowity: $219.14 (7.30%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $338.05, P&L: $-6.37)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.80, P&L: $-50.70)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-21 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,264.03
+Zwrot całkowity: $264.03 (8.80%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $350.26, P&L: $30.27)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.62, P&L: $-42.46)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-22 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,245.28
+Zwrot całkowity: $245.28 (8.18%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $341.70, P&L: $4.57)
+  JPM: 10 akcji @ $94.87 (Obecna: $91.32, P&L: $-35.51)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-23 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,253.17
+Zwrot całkowity: $253.17 (8.44%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $345.73, P&L: $16.67)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.90, P&L: $-39.71)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-24 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,242.39
+Zwrot całkowity: $242.39 (8.08%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $345.53, P&L: $16.06)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.88, P&L: $-49.90)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-25 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,240.93
+Zwrot całkowity: $240.93 (8.03%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $346.58, P&L: $19.21)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.42, P&L: $-54.50)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-29 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,180.73
+Zwrot całkowity: $180.73 (6.02%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $339.25, P&L: $-2.76)
+  JPM: 10 akcji @ $94.87 (Obecna: $85.60, P&L: $-92.72)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-30 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,216.78
+Zwrot całkowity: $216.78 (7.23%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $344.75, P&L: $13.72)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.55, P&L: $-73.17)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-05-31 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,188.54
+Zwrot całkowity: $188.54 (6.28%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $338.95, P&L: $-3.69)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.47, P&L: $-84.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-01 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,212.93
+Zwrot całkowity: $212.93 (7.10%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $343.33, P&L: $9.48)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.59, P&L: $-72.76)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-04 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,224.92
+Zwrot całkowity: $224.92 (7.50%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $347.19, P&L: $21.06)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.63, P&L: $-72.36)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-05 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,218.17
+Zwrot całkowity: $218.17 (7.27%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $346.59, P&L: $19.24)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.14, P&L: $-77.29)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-06 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,271.62
+Zwrot całkowity: $271.62 (9.05%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $357.62, P&L: $52.33)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.18, P&L: $-56.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-07 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,266.43
+Zwrot całkowity: $266.43 (8.88%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $354.70, P&L: $43.58)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.53, P&L: $-53.37)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-08 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,271.73
+Zwrot całkowity: $271.73 (9.06%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $355.63, P&L: $46.38)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.78, P&L: $-50.87)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-11 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,273.63
+Zwrot całkowity: $273.63 (9.12%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $357.02, P&L: $50.54)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.56, P&L: $-53.13)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-12 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,267.53
+Zwrot całkowity: $267.53 (8.92%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $356.71, P&L: $49.61)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.04, P&L: $-58.30)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-13 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,246.21
+Zwrot całkowity: $246.21 (8.21%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $350.20, P&L: $30.07)
+  JPM: 10 akcji @ $94.87 (Obecna: $88.86, P&L: $-60.08)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-14 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,226.40
+Zwrot całkowity: $226.40 (7.55%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $348.82, P&L: $25.94)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.30, P&L: $-75.75)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-15 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,212.24
+Zwrot całkowity: $212.24 (7.07%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $344.45, P&L: $12.83)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.19, P&L: $-76.80)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-18 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,205.44
+Zwrot całkowity: $205.44 (6.85%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $341.43, P&L: $3.76)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.42, P&L: $-74.54)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-19 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,161.02
+Zwrot całkowity: $161.02 (5.37%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $328.32, P&L: $-35.56)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.91, P&L: $-79.63)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-20 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,165.47
+Zwrot całkowity: $165.47 (5.52%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $329.83, P&L: $-31.03)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.90, P&L: $-79.71)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-21 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,150.71
+Zwrot całkowity: $150.71 (5.02%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $324.99, P&L: $-45.55)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.88, P&L: $-79.96)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-22 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,140.10
+Zwrot całkowity: $140.10 (4.67%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $326.19, P&L: $-41.95)
+  JPM: 10 akcji @ $94.87 (Obecna: $85.45, P&L: $-94.18)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-25 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,110.08
+Zwrot całkowity: $110.08 (3.67%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $318.77, P&L: $-64.21)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.68, P&L: $-101.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-26 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,110.93
+Zwrot całkowity: $110.93 (3.70%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $318.87, P&L: $-63.92)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.73, P&L: $-101.37)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-27 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,093.57
+Zwrot całkowity: $93.57 (3.12%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $317.44, P&L: $-68.19)
+  JPM: 10 akcji @ $94.87 (Obecna: $83.42, P&L: $-114.46)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-28 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,121.17
+Zwrot całkowity: $121.17 (4.04%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.09, P&L: $-54.25)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.79, P&L: $-100.80)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-06-29 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,117.75
+Zwrot całkowity: $117.75 (3.93%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.92, P&L: $-51.76)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.20, P&L: $-106.70)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-02 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,126.51
+Zwrot całkowity: $126.51 (4.22%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $323.47, P&L: $-50.12)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.91, P&L: $-99.59)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-03 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,105.54
+Zwrot całkowity: $105.54 (3.52%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $320.44, P&L: $-59.21)
+  JPM: 10 akcji @ $94.87 (Obecna: $83.72, P&L: $-111.47)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2018-07-05 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,111.70
+Zwrot całkowity: $111.70 (3.72%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $320.68, P&L: $-58.49)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.27, P&L: $-106.03)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-06 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,118.68
+Zwrot całkowity: $118.68 (3.96%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $322.08, P&L: $-54.27)
+  JPM: 10 akcji @ $94.87 (Obecna: $84.54, P&L: $-103.26)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-09 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,165.86
+Zwrot całkowity: $165.86 (5.53%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $329.09, P&L: $-33.25)
+  JPM: 10 akcji @ $94.87 (Obecna: $87.16, P&L: $-77.10)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-10 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,175.63
+Zwrot całkowity: $175.63 (5.85%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $334.13, P&L: $-18.12)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.62, P&L: $-82.47)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-11 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,154.82
+Zwrot całkowity: $154.82 (5.16%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $327.82, P&L: $-37.07)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.44, P&L: $-84.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-12 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,174.24
+Zwrot całkowity: $174.24 (5.81%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $333.05, P&L: $-21.39)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.81, P&L: $-80.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-13 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,184.00
+Zwrot całkowity: $184.00 (6.13%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $337.63, P&L: $-7.64)
+  JPM: 10 akcji @ $94.87 (Obecna: $86.41, P&L: $-84.58)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-16 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,233.62
+Zwrot całkowity: $233.62 (7.79%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $342.74, P&L: $7.69)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.84, P&L: $-50.29)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-17 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,235.22
+Zwrot całkowity: $235.22 (7.84%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $343.49, P&L: $9.94)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.78, P&L: $-50.94)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-18 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,253.26
+Zwrot całkowity: $253.26 (8.44%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $346.71, P&L: $19.61)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.61, P&L: $-42.57)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-19 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,225.79
+Zwrot całkowity: $225.79 (7.53%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $342.00, P&L: $5.47)
+  JPM: 10 akcji @ $94.87 (Obecna: $89.28, P&L: $-55.90)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-20 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,235.84
+Zwrot całkowity: $235.84 (7.86%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $341.58, P&L: $4.22)
+  JPM: 10 akcji @ $94.87 (Obecna: $90.41, P&L: $-44.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-23 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,247.95
+Zwrot całkowity: $247.95 (8.27%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $340.01, P&L: $-0.48)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.09, P&L: $-27.79)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-24 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,268.89
+Zwrot całkowity: $268.89 (8.96%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $344.83, P&L: $13.96)
+  JPM: 10 akcji @ $94.87 (Obecna: $92.74, P&L: $-21.29)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-25 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,270.47
+Zwrot całkowity: $270.47 (9.02%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $342.56, P&L: $7.17)
+  JPM: 10 akcji @ $94.87 (Obecna: $93.58, P&L: $-12.92)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-26 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,277.61
+Zwrot całkowity: $277.61 (9.25%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $345.84, P&L: $16.99)
+  JPM: 10 akcji @ $94.87 (Obecna: $93.31, P&L: $-15.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-27 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,291.03
+Zwrot całkowity: $291.03 (9.70%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $347.12, P&L: $20.83)
+  JPM: 10 akcji @ $94.87 (Obecna: $94.27, P&L: $-6.01)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-30 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,269.03
+Zwrot całkowity: $269.03 (8.97%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $337.89, P&L: $-6.86)
+  JPM: 10 akcji @ $94.87 (Obecna: $94.84, P&L: $-0.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-07-31 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,269.70
+Zwrot całkowity: $269.70 (8.99%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $342.93, P&L: $8.27)
+  JPM: 10 akcji @ $94.87 (Obecna: $93.39, P&L: $-14.79)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-01 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,265.25
+Zwrot całkowity: $265.25 (8.84%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $339.52, P&L: $-1.95)
+  JPM: 10 akcji @ $94.87 (Obecna: $93.97, P&L: $-9.02)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-02 00:00:00]
+Gotówka: $1,306.99
+Wartość całkowita: $3,260.48
+Zwrot całkowity: $260.48 (8.68%)
+
+Pozycje:
+  BA: 3 akcji @ $340.17 (Obecna: $336.61, P&L: $-10.70)
+  JPM: 10 akcji @ $94.87 (Obecna: $94.37, P&L: $-5.04)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-03 00:00:00]
+Gotówka: $3,256.57
+Wartość całkowita: $3,256.57
+Zwrot całkowity: $256.57 (8.55%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-06 00:00:00]
+Gotówka: $1,301.06
+Wartość całkowita: $3,253.31
+Zwrot całkowity: $253.31 (8.44%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $333.56, P&L: $-8.46)
+  JPM: 10 akcji @ $94.25 (Obecna: $95.16, P&L: $9.10)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-07 00:00:00]
+Gotówka: $1,301.06
+Wartość całkowita: $3,268.90
+Zwrot całkowity: $268.90 (8.96%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $337.60, P&L: $3.64)
+  JPM: 10 akcji @ $94.25 (Obecna: $95.50, P&L: $12.59)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-08 00:00:00]
+Gotówka: $1,301.06
+Wartość całkowita: $3,262.24
+Zwrot całkowity: $262.24 (8.74%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $334.73, P&L: $-4.97)
+  JPM: 10 akcji @ $94.25 (Obecna: $95.70, P&L: $14.54)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-09 00:00:00]
+Gotówka: $1,301.06
+Wartość całkowita: $3,248.03
+Zwrot całkowity: $248.03 (8.27%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $332.46, P&L: $-11.79)
+  JPM: 10 akcji @ $94.25 (Obecna: $94.96, P&L: $7.15)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-10 00:00:00]
+Gotówka: $1,301.06
+Wartość całkowita: $3,226.18
+Zwrot całkowity: $226.18 (7.54%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $328.29, P&L: $-24.29)
+  JPM: 10 akcji @ $94.25 (Obecna: $94.03, P&L: $-2.19)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-13 00:00:00]
+Gotówka: $2,239.44
+Wartość całkowita: $3,221.25
+Zwrot całkowity: $221.25 (7.38%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $327.27, P&L: $-27.34)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-14 00:00:00]
+Gotówka: $1,298.68
+Wartość całkowita: $3,214.25
+Zwrot całkowity: $214.25 (7.14%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $328.03, P&L: $-25.08)
+  JPM: 10 akcji @ $93.89 (Obecna: $93.15, P&L: $-7.39)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-15 00:00:00]
+Gotówka: $1,298.68
+Wartość całkowita: $3,185.11
+Zwrot całkowity: $185.11 (6.17%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $320.89, P&L: $-46.49)
+  JPM: 10 akcji @ $93.89 (Obecna: $92.38, P&L: $-15.11)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-16 00:00:00]
+Gotówka: $1,298.68
+Wartość całkowita: $3,235.07
+Zwrot całkowity: $235.07 (7.84%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $334.64, P&L: $-5.23)
+  JPM: 10 akcji @ $93.89 (Obecna: $93.25, P&L: $-6.42)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-17 00:00:00]
+Gotówka: $1,298.68
+Wartość całkowita: $3,236.29
+Zwrot całkowity: $236.29 (7.88%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $335.05, P&L: $-4.01)
+  JPM: 10 akcji @ $93.89 (Obecna: $93.25, P&L: $-6.42)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-20 00:00:00]
+Gotówka: $1,298.68
+Wartość całkowita: $3,247.66
+Zwrot całkowity: $247.66 (8.26%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $339.25, P&L: $8.58)
+  JPM: 10 akcji @ $93.89 (Obecna: $93.12, P&L: $-7.64)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-21 00:00:00]
+Gotówka: $2,228.06
+Wartość całkowita: $3,254.59
+Zwrot całkowity: $254.59 (8.49%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $342.18, P&L: $17.38)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-22 00:00:00]
+Gotówka: $1,288.85
+Wartość całkowita: $3,238.62
+Zwrot całkowity: $238.62 (7.95%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $338.56, P&L: $6.52)
+  JPM: 10 akcji @ $93.73 (Obecna: $93.41, P&L: $-3.25)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-23 00:00:00]
+Gotówka: $2,221.07
+Wartość całkowita: $3,229.35
+Zwrot całkowity: $229.35 (7.64%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $336.09, P&L: $-0.88)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-24 00:00:00]
+Gotówka: $1,285.20
+Wartość całkowita: $3,230.72
+Zwrot całkowity: $230.72 (7.69%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $337.93, P&L: $4.64)
+  JPM: 10 akcji @ $93.40 (Obecna: $93.17, P&L: $-2.28)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-27 00:00:00]
+Gotówka: $1,285.20
+Wartość całkowita: $3,259.86
+Zwrot całkowity: $259.86 (8.66%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $342.15, P&L: $17.29)
+  JPM: 10 akcji @ $93.40 (Obecna: $94.82, P&L: $14.22)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-28 00:00:00]
+Gotówka: $1,285.20
+Wartość całkowita: $3,247.89
+Zwrot całkowity: $247.89 (8.26%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $339.70, P&L: $9.95)
+  JPM: 10 akcji @ $93.40 (Obecna: $94.36, P&L: $9.59)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-29 00:00:00]
+Gotówka: $1,285.20
+Wartość całkowita: $3,241.84
+Zwrot całkowity: $241.84 (8.06%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $338.71, P&L: $6.99)
+  JPM: 10 akcji @ $93.40 (Obecna: $94.05, P&L: $6.50)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-30 00:00:00]
+Gotówka: $1,285.20
+Wartość całkowita: $3,227.67
+Zwrot całkowity: $227.67 (7.59%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $335.53, P&L: $-2.56)
+  JPM: 10 akcji @ $93.40 (Obecna: $93.59, P&L: $1.87)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-08-31 00:00:00]
+Gotówka: $2,219.20
+Wartość całkowita: $3,213.87
+Zwrot całkowity: $213.87 (7.13%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $331.56, P&L: $-14.48)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-04 00:00:00]
+Gotówka: $1,284.39
+Wartość całkowita: $3,224.64
+Zwrot całkowity: $224.64 (7.49%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $334.90, P&L: $-4.44)
+  JPM: 10 akcji @ $93.29 (Obecna: $93.55, P&L: $2.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-05 00:00:00]
+Gotówka: $1,284.39
+Wartość całkowita: $3,221.34
+Zwrot całkowity: $221.34 (7.38%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $335.32, P&L: $-3.20)
+  JPM: 10 akcji @ $93.29 (Obecna: $93.10, P&L: $-1.95)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-06 00:00:00]
+Gotówka: $1,284.39
+Wartość całkowita: $3,230.68
+Zwrot całkowity: $230.68 (7.69%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $339.76, P&L: $10.12)
+  JPM: 10 akcji @ $93.29 (Obecna: $92.70, P&L: $-5.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-07 00:00:00]
+Gotówka: $1,284.39
+Wartość całkowita: $3,226.69
+Zwrot całkowity: $226.69 (7.56%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $337.83, P&L: $4.35)
+  JPM: 10 akcji @ $93.29 (Obecna: $92.88, P&L: $-4.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-10 00:00:00]
+Gotówka: $1,284.39
+Wartość całkowita: $3,200.20
+Zwrot całkowity: $200.20 (6.67%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $330.66, P&L: $-17.18)
+  JPM: 10 akcji @ $93.29 (Obecna: $92.38, P&L: $-9.10)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-11 00:00:00]
+Gotówka: $2,206.38
+Wartość całkowita: $3,208.19
+Zwrot całkowity: $208.19 (6.94%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $333.94, P&L: $-7.35)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-12 00:00:00]
+Gotówka: $1,282.07
+Wartość całkowita: $3,226.29
+Zwrot całkowity: $226.29 (7.54%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $341.83, P&L: $16.33)
+  JPM: 10 akcji @ $92.25 (Obecna: $91.87, P&L: $-3.74)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-13 00:00:00]
+Gotówka: $1,282.07
+Wartość całkowita: $3,235.81
+Zwrot całkowity: $235.81 (7.86%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $343.81, P&L: $22.28)
+  JPM: 10 akcji @ $92.25 (Obecna: $92.23, P&L: $-0.16)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-14 00:00:00]
+Gotówka: $1,282.07
+Wartość całkowita: $3,248.24
+Zwrot całkowity: $248.24 (8.27%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $348.01, P&L: $34.87)
+  JPM: 10 akcji @ $92.25 (Obecna: $92.21, P&L: $-0.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-17 00:00:00]
+Gotówka: $1,282.07
+Wartość całkowita: $3,239.86
+Zwrot całkowity: $239.86 (8.00%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $344.30, P&L: $23.73)
+  JPM: 10 akcji @ $92.25 (Obecna: $92.49, P&L: $2.44)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-18 00:00:00]
+Gotówka: $1,282.07
+Wartość całkowita: $3,265.71
+Zwrot całkowity: $265.71 (8.86%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $351.67, P&L: $45.84)
+  JPM: 10 akcji @ $92.25 (Obecna: $92.86, P&L: $6.17)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-19 00:00:00]
+Gotówka: $2,208.86
+Wartość całkowita: $3,268.61
+Zwrot całkowity: $268.61 (8.95%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $353.25, P&L: $50.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-20 00:00:00]
+Gotówka: $1,277.22
+Wartość całkowita: $3,307.29
+Zwrot całkowity: $307.29 (10.24%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $355.42, P&L: $57.10)
+  JPM: 10 akcji @ $92.98 (Obecna: $96.38, P&L: $34.04)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-21 00:00:00]
+Gotówka: $1,277.22
+Wartość całkowita: $3,314.80
+Zwrot całkowity: $314.80 (10.49%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $360.03, P&L: $70.94)
+  JPM: 10 akcji @ $92.98 (Obecna: $95.75, P&L: $27.70)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-24 00:00:00]
+Gotówka: $1,277.22
+Wartość całkowita: $3,293.31
+Zwrot całkowity: $293.31 (9.78%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $355.93, P&L: $58.64)
+  JPM: 10 akcji @ $92.98 (Obecna: $94.83, P&L: $18.52)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-25 00:00:00]
+Gotówka: $1,277.22
+Wartość całkowita: $3,288.43
+Zwrot całkowity: $288.43 (9.61%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $355.20, P&L: $56.43)
+  JPM: 10 akcji @ $92.98 (Obecna: $94.56, P&L: $15.84)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-26 00:00:00]
+Gotówka: $1,277.22
+Wartość całkowita: $3,270.91
+Zwrot całkowity: $270.91 (9.03%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $353.07, P&L: $50.05)
+  JPM: 10 akcji @ $92.98 (Obecna: $93.45, P&L: $4.71)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-27 00:00:00]
+Gotówka: $2,209.84
+Wartość całkowita: $3,275.89
+Zwrot całkowity: $275.89 (9.20%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $355.35, P&L: $56.90)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-09-28 00:00:00]
+Gotówka: $1,270.23
+Wartość całkowita: $3,266.14
+Zwrot całkowity: $266.14 (8.87%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $359.71, P&L: $69.98)
+  JPM: 10 akcji @ $93.77 (Obecna: $91.68, P&L: $-20.96)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-01 00:00:00]
+Gotówka: $1,270.23
+Wartość całkowita: $3,301.65
+Zwrot całkowity: $301.65 (10.06%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $369.76, P&L: $100.13)
+  JPM: 10 akcji @ $93.77 (Obecna: $92.21, P&L: $-15.60)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-02 00:00:00]
+Gotówka: $1,270.23
+Wartość całkowita: $3,317.31
+Zwrot całkowity: $317.31 (10.58%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $373.71, P&L: $111.97)
+  JPM: 10 akcji @ $93.77 (Obecna: $92.60, P&L: $-11.78)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-03 00:00:00]
+Gotówka: $1,270.23
+Wartość całkowita: $3,343.21
+Zwrot całkowity: $343.21 (11.44%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $379.44, P&L: $129.18)
+  JPM: 10 akcji @ $93.77 (Obecna: $93.47, P&L: $-3.09)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-04 00:00:00]
+Gotówka: $1,270.23
+Wartość całkowita: $3,344.94
+Zwrot całkowity: $344.94 (11.50%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $377.21, P&L: $122.48)
+  JPM: 10 akcji @ $93.77 (Obecna: $94.31, P&L: $5.34)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-05 00:00:00]
+Gotówka: $2,211.42
+Wartość całkowita: $3,332.84
+Zwrot całkowity: $332.84 (11.09%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $373.81, P&L: $112.26)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-08 00:00:00]
+Gotówka: $1,261.86
+Wartość całkowita: $3,324.74
+Zwrot całkowity: $324.74 (10.82%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $373.13, P&L: $110.23)
+  JPM: 10 akcji @ $94.77 (Obecna: $94.35, P&L: $-4.17)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-09 00:00:00]
+Gotówka: $1,261.86
+Wartość całkowita: $3,317.23
+Zwrot całkowity: $317.23 (10.57%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $372.81, P&L: $109.27)
+  JPM: 10 akcji @ $94.77 (Obecna: $93.69, P&L: $-10.72)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-10 00:00:00]
+Gotówka: $1,261.86
+Wartość całkowita: $3,240.14
+Zwrot całkowity: $240.14 (8.00%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $355.43, P&L: $57.13)
+  JPM: 10 akcji @ $94.77 (Obecna: $91.20, P&L: $-35.67)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-11 00:00:00]
+Gotówka: $1,261.86
+Wartość całkowita: $3,185.65
+Zwrot całkowity: $185.65 (6.19%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $346.37, P&L: $29.97)
+  JPM: 10 akcji @ $94.77 (Obecna: $88.47, P&L: $-63.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-12 00:00:00]
+Gotówka: $1,261.86
+Wartość całkowita: $3,181.80
+Zwrot całkowity: $181.80 (6.06%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $348.31, P&L: $35.77)
+  JPM: 10 akcji @ $94.77 (Obecna: $87.50, P&L: $-72.65)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-15 00:00:00]
+Gotówka: $2,135.12
+Wartość całkowita: $3,176.48
+Zwrot całkowity: $176.48 (5.88%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $347.12, P&L: $32.20)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-16 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,213.53
+Zwrot całkowity: $213.53 (7.12%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $356.18, P&L: $59.39)
+  JPM: 10 akcji @ $87.71 (Obecna: $88.87, P&L: $11.62)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-17 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,215.45
+Zwrot całkowity: $215.45 (7.18%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $353.52, P&L: $51.41)
+  JPM: 10 akcji @ $87.71 (Obecna: $89.86, P&L: $21.52)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-18 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,183.37
+Zwrot całkowity: $183.37 (6.11%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $347.57, P&L: $33.57)
+  JPM: 10 akcji @ $87.71 (Obecna: $88.43, P&L: $7.28)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-19 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,172.93
+Zwrot całkowity: $172.93 (5.76%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $344.59, P&L: $24.60)
+  JPM: 10 akcji @ $87.71 (Obecna: $88.29, P&L: $5.81)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-22 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,159.44
+Zwrot całkowity: $159.44 (5.31%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $344.31, P&L: $23.79)
+  JPM: 10 akcji @ $87.71 (Obecna: $87.02, P&L: $-6.87)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-23 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,133.15
+Zwrot całkowity: $133.15 (4.44%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $338.58, P&L: $6.58)
+  JPM: 10 akcji @ $87.71 (Obecna: $86.11, P&L: $-15.95)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-24 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,130.46
+Zwrot całkowity: $130.46 (4.35%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $343.03, P&L: $19.93)
+  JPM: 10 akcji @ $87.71 (Obecna: $84.51, P&L: $-31.99)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-25 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,169.77
+Zwrot całkowity: $169.77 (5.66%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $351.85, P&L: $46.39)
+  JPM: 10 akcji @ $87.71 (Obecna: $85.79, P&L: $-19.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-26 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,144.93
+Zwrot całkowity: $144.93 (4.83%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $347.50, P&L: $33.34)
+  JPM: 10 akcji @ $87.71 (Obecna: $84.61, P&L: $-30.93)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-29 00:00:00]
+Gotówka: $1,256.31
+Wartość całkowita: $3,087.92
+Zwrot całkowity: $87.92 (2.93%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $324.59, P&L: $-35.38)
+  JPM: 10 akcji @ $87.71 (Obecna: $85.78, P&L: $-19.23)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-30 00:00:00]
+Gotówka: $2,112.43
+Wartość całkowita: $3,127.76
+Zwrot całkowity: $127.76 (4.26%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $338.44, P&L: $6.18)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-10-31 00:00:00]
+Gotówka: $1,245.83
+Wartość całkowita: $3,167.47
+Zwrot całkowity: $167.47 (5.58%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $343.23, P&L: $20.54)
+  JPM: 10 akcji @ $86.49 (Obecna: $89.19, P&L: $27.08)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-01 00:00:00]
+Gotówka: $1,245.83
+Wartość całkowita: $3,190.97
+Zwrot całkowity: $190.97 (6.37%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $351.17, P&L: $44.36)
+  JPM: 10 akcji @ $86.49 (Obecna: $89.16, P&L: $26.75)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-02 00:00:00]
+Gotówka: $1,245.83
+Wartość całkowita: $3,170.62
+Zwrot całkowity: $170.62 (5.69%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $346.03, P&L: $28.93)
+  JPM: 10 akcji @ $86.49 (Obecna: $88.67, P&L: $21.84)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-05 00:00:00]
+Gotówka: $1,245.83
+Wartość całkowita: $3,188.70
+Zwrot całkowity: $188.70 (6.29%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $350.12, P&L: $41.20)
+  JPM: 10 akcji @ $86.49 (Obecna: $89.25, P&L: $27.65)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-06 00:00:00]
+Gotówka: $1,245.83
+Wartość całkowita: $3,205.90
+Zwrot całkowity: $205.90 (6.86%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $354.46, P&L: $54.23)
+  JPM: 10 akcji @ $86.49 (Obecna: $89.67, P&L: $31.83)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-07 00:00:00]
+Gotówka: $2,140.73
+Wartość całkowita: $3,220.21
+Zwrot całkowity: $220.21 (7.34%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $359.83, P&L: $70.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-08 00:00:00]
+Gotówka: $1,235.93
+Wartość całkowita: $3,236.19
+Zwrot całkowity: $236.19 (7.87%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $360.28, P&L: $71.67)
+  JPM: 10 akcji @ $90.30 (Obecna: $91.94, P&L: $16.44)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-09 00:00:00]
+Gotówka: $1,235.93
+Wartość całkowita: $3,223.11
+Zwrot całkowity: $223.11 (7.44%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $358.89, P&L: $67.50)
+  JPM: 10 akcji @ $90.30 (Obecna: $91.05, P&L: $7.53)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-12 00:00:00]
+Gotówka: $1,235.93
+Wartość całkowita: $3,168.08
+Zwrot całkowity: $168.08 (5.60%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $346.92, P&L: $31.62)
+  JPM: 10 akcji @ $90.30 (Obecna: $89.14, P&L: $-11.62)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-13 00:00:00]
+Gotówka: $1,235.93
+Wartość całkowita: $3,151.39
+Zwrot całkowity: $151.39 (5.05%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $339.62, P&L: $9.70)
+  JPM: 10 akcji @ $90.30 (Obecna: $89.66, P&L: $-6.38)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-14 00:00:00]
+Gotówka: $1,235.93
+Wartość całkowita: $3,118.94
+Zwrot całkowity: $118.94 (3.96%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $334.96, P&L: $-4.26)
+  JPM: 10 akcji @ $90.30 (Obecna: $87.81, P&L: $-24.87)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-15 00:00:00]
+Gotówka: $2,112.29
+Wartość całkowita: $3,108.00
+Zwrot całkowity: $108.00 (3.60%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $331.90, P&L: $-13.45)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-16 00:00:00]
+Gotówka: $1,224.96
+Wartość całkowita: $3,104.17
+Zwrot całkowity: $104.17 (3.47%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $326.44, P&L: $-29.83)
+  JPM: 10 akcji @ $88.56 (Obecna: $89.99, P&L: $14.32)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-19 00:00:00]
+Gotówka: $1,224.96
+Wartość całkowita: $3,067.28
+Zwrot całkowity: $67.28 (2.24%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $311.86, P&L: $-73.59)
+  JPM: 10 akcji @ $88.56 (Obecna: $90.68, P&L: $21.19)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-20 00:00:00]
+Gotówka: $1,224.96
+Wartość całkowita: $3,038.37
+Zwrot całkowity: $38.37 (1.28%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $308.71, P&L: $-83.03)
+  JPM: 10 akcji @ $88.56 (Obecna: $88.73, P&L: $1.72)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-21 00:00:00]
+Gotówka: $1,224.96
+Wartość całkowita: $3,030.63
+Zwrot całkowity: $30.63 (1.02%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $308.34, P&L: $-84.14)
+  JPM: 10 akcji @ $88.56 (Obecna: $88.07, P&L: $-4.91)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-23 00:00:00]
+Gotówka: $1,224.96
+Wartość całkowita: $3,007.96
+Zwrot całkowity: $7.96 (0.27%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $303.48, P&L: $-98.71)
+  JPM: 10 akcji @ $88.56 (Obecna: $87.26, P&L: $-13.01)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-26 00:00:00]
+Gotówka: $2,095.77
+Wartość całkowita: $3,017.99
+Zwrot całkowity: $17.99 (0.60%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $307.41, P&L: $-86.94)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-27 00:00:00]
+Gotówka: $1,212.70
+Wartość całkowita: $3,037.46
+Zwrot całkowity: $37.46 (1.25%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $309.03, P&L: $-82.07)
+  JPM: 10 akcji @ $88.13 (Obecna: $89.77, P&L: $16.36)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-28 00:00:00]
+Gotówka: $1,212.70
+Wartość całkowita: $3,092.53
+Zwrot całkowity: $92.53 (3.08%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $324.06, P&L: $-36.97)
+  JPM: 10 akcji @ $88.13 (Obecna: $90.77, P&L: $26.34)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-29 00:00:00]
+Gotówka: $1,212.70
+Wartość całkowita: $3,111.74
+Zwrot całkowity: $111.74 (3.72%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $332.86, P&L: $-10.56)
+  JPM: 10 akcji @ $88.13 (Obecna: $90.05, P&L: $19.14)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-11-30 00:00:00]
+Gotówka: $1,212.70
+Wartość całkowita: $3,133.23
+Zwrot całkowity: $133.23 (4.44%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $336.95, P&L: $1.68)
+  JPM: 10 akcji @ $88.13 (Obecna: $90.97, P&L: $28.39)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-03 00:00:00]
+Gotówka: $1,212.70
+Wartość całkowita: $3,180.30
+Zwrot całkowity: $180.30 (6.01%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $349.77, P&L: $40.16)
+  JPM: 10 akcji @ $88.13 (Obecna: $91.83, P&L: $36.98)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-04 00:00:00]
+Gotówka: $2,129.15
+Wartość całkowita: $3,127.57
+Zwrot całkowity: $127.57 (4.25%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $332.81, P&L: $-10.74)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-06 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $3,042.40
+Zwrot całkowity: $42.40 (1.41%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $322.51, P&L: $-41.64)
+  JPM: 10 akcji @ $91.31 (Obecna: $86.06, P&L: $-52.44)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-07 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $3,001.55
+Zwrot całkowity: $1.55 (0.05%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $314.07, P&L: $-66.94)
+  JPM: 10 akcji @ $91.31 (Obecna: $84.51, P&L: $-67.99)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-10 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,994.89
+Zwrot całkowity: $-5.11 (-0.17%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $317.11, P&L: $-57.81)
+  JPM: 10 akcji @ $91.31 (Obecna: $82.93, P&L: $-83.78)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-11 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,974.19
+Zwrot całkowity: $-25.81 (-0.86%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $312.92, P&L: $-70.41)
+  JPM: 10 akcji @ $91.31 (Obecna: $82.12, P&L: $-91.88)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-12 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,993.10
+Zwrot całkowity: $-6.90 (-0.23%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $317.44, P&L: $-56.82)
+  JPM: 10 akcji @ $91.31 (Obecna: $82.65, P&L: $-86.56)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-13 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,990.36
+Zwrot całkowity: $-9.64 (-0.32%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $316.26, P&L: $-60.38)
+  JPM: 10 akcji @ $91.31 (Obecna: $82.73, P&L: $-85.74)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-14 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,963.98
+Zwrot całkowity: $-36.02 (-1.20%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $309.73, P&L: $-79.97)
+  JPM: 10 akcji @ $91.31 (Obecna: $82.05, P&L: $-92.53)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-17 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,945.87
+Zwrot całkowity: $-54.13 (-1.80%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $307.18, P&L: $-87.61)
+  JPM: 10 akcji @ $91.31 (Obecna: $81.00, P&L: $-103.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-18 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,976.80
+Zwrot całkowity: $-23.20 (-0.77%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $318.77, P&L: $-52.83)
+  JPM: 10 akcji @ $91.31 (Obecna: $80.62, P&L: $-106.85)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-19 00:00:00]
+Gotówka: $1,214.27
+Wartość całkowita: $2,941.76
+Zwrot całkowity: $-58.24 (-1.94%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $310.51, P&L: $-77.64)
+  JPM: 10 akcji @ $91.31 (Obecna: $79.60, P&L: $-117.08)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-20 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,898.30
+Zwrot całkowity: $-101.70 (-3.39%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $304.19, P&L: $-96.59)
+  JPM: 20 akcji @ $85.91 (Obecna: $78.91, P&L: $-139.98)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-21 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,836.21
+Zwrot całkowity: $-163.79 (-5.46%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $295.93, P&L: $-121.36)
+  JPM: 20 akcji @ $85.91 (Obecna: $77.04, P&L: $-177.29)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-24 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,772.71
+Zwrot całkowity: $-227.29 (-7.58%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $285.83, P&L: $-151.65)
+  JPM: 20 akcji @ $85.91 (Obecna: $75.38, P&L: $-210.51)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-26 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,892.85
+Zwrot całkowity: $-107.15 (-3.57%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $305.04, P&L: $-94.02)
+  JPM: 20 akcji @ $85.91 (Obecna: $78.51, P&L: $-148.00)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-27 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,919.88
+Zwrot całkowity: $-80.12 (-2.67%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $308.16, P&L: $-84.66)
+  JPM: 20 akcji @ $85.91 (Obecna: $79.39, P&L: $-130.33)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-28 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,914.22
+Zwrot całkowity: $-85.78 (-2.86%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $307.43, P&L: $-86.88)
+  JPM: 20 akcji @ $85.91 (Obecna: $79.22, P&L: $-133.77)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2018-12-31 00:00:00]
+Gotówka: $407.52
+Wartość całkowita: $2,944.99
+Zwrot całkowity: $-55.01 (-1.83%)
+
+Pozycje:
+  BA: 3 akcji @ $336.38 (Obecna: $313.37, P&L: $-69.04)
+  JPM: 20 akcji @ $85.91 (Obecna: $79.87, P&L: $-120.84)
+
+Przewidywania:
+  BA: BUY (wartość: 1)
+  JPM: BUY (wartość: 1)
+  TSLA: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+
+================================================================================
+KOŃCOWE PODSUMOWANIE PORTFOLIO
+================================================================================
+Końcowa wartość portfolio: $2,944.99
+Całkowity zwrot: $-55.01
+Procentowy zwrot: -1.83%
+================================================================================

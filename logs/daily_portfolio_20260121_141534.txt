@@ -1,0 +1,21 @@
+================================================================================
+TRADING SIMULATOR - DZIENNY STAN PORTFOLIO
+Utworzony: 2026-01-21 14:15:34
+================================================================================
+
+[2018-01-01 00:00:00]
+Gotówka: $5,000.00
+Wartość całkowita: $5,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  KGH.WA: BUY (wartość: 1)
+  MBK.WA: HOLD/SELL (wartość: 0)
+  CDR.WA: HOLD/SELL (wartość: 0)
+  WPL.WA: HOLD/SELL (wartość: 0)
+  PZU.WA: BUY (wartość: 1)
+------------------------------------------------------------
+

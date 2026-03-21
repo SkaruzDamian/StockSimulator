@@ -7,32 +7,32 @@ Opis: Mniejsze pozycje, dłuższe trzymanie, stop-loss
 
 WYNIKI FINANSOWE:
 ----------------------------------------
-Kapitał początkowy: $10,000.00
-Wartość końcowa: $45,861.70
-Całkowity zwrot: $35,861.70
-Zwrot procentowy: 358.62%
+Kapitał początkowy $6,000.00
+Wartość końcowa: $4,590.34
+Całkowity zwrot: $-1,409.66
+Zwrot procentowy: -23.49%
 
 STATYSTYKI TRANSAKCJI:
 ----------------------------------------
-Łączne transakcje: 2872
-Transakcje kupna: 1436
-Transakcje sprzedaży: 1436
-Zyskowne transakcje: 1012
-Stratne transakcje: 424
-Najlepszy trade: $897.55
-Najgorszy trade: $-479.94
+Wszystkie transakcje: 324
+Transakcje kupna: 162
+Transakcje sprzedaży: 162
+Zyskowne transakcje: 49
+Stratne transakcje: 113
+Najlepszy trade: $194.81
+Najgorszy trade: $-154.60
 
-SKUTECZNOŚĆ MODELU:
+SKUTECZNOÅšÄ† MODELU:
 ----------------------------------------
-Dokładność przewidywań: 70.47%
-Poprawne przewidywania: 1012
-Łączne przewidywania: 1436
-Błędne przewidywania: 424
+Dokładność przewidywań: 30.25%
+Poprawne przewidywania: 49
+Wszystkie przewidywania: 162
+Błędne przewidywania: 113
 
 CZAS SYMULACJI:
 ----------------------------------------
-Rozpoczęcie: 2025-12-08 15:30:09
-Zakończenie: 2025-12-08 15:30:41
-Czas trwania: 0:00:32.095678
+Rozpoczęcie: 2026-01-28 18:57:59
+Zakończenie: 2026-01-28 18:58:18
+Czas trwania: 0:00:18.970688
 
 ================================================================================

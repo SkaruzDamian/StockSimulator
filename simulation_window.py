@@ -17,7 +17,7 @@ class SimulationWindow:
         
     def show(self):
         self.window = tk.Toplevel(self.parent)
-        self.window.title("Trading Simulator")
+        self.window.title("Symulator giełdowy")
         self.window.geometry("1400x900")
         self.window.state('zoomed')
         self.create_widgets()
@@ -36,7 +36,7 @@ class SimulationWindow:
         
         date_frame = ttk.Frame(top_frame)
         date_frame.pack(side=tk.LEFT)
-        ttk.Label(date_frame, text="DziÅ›:", font=("Arial", 12, "bold")).pack(side=tk.LEFT)
+        ttk.Label(date_frame, text="Dziś:", font=("Arial", 12, "bold")).pack(side=tk.LEFT)
         self.date_label = ttk.Label(date_frame, text="", font=("Arial", 12))
         self.date_label.pack(side=tk.LEFT, padx=(5, 20))
         
@@ -69,13 +69,13 @@ class SimulationWindow:
         self.skip_days_button = ttk.Button(bottom_frame, text="Przeskocz dni", command=self.skip_days)
         self.skip_days_button.pack(side=tk.LEFT, padx=(0, 10))
         
-        self.next_day_button = ttk.Button(bottom_frame, text="NastÄ™pny dzieÅ„", command=self.next_day, style="Accent.TButton")
+        self.next_day_button = ttk.Button(bottom_frame, text="Następny dzień", command=self.next_day, style="Accent.TButton")
         self.next_day_button.pack(side=tk.LEFT, padx=(0, 10))
         
         ttk.Button(bottom_frame, text="Resetuj", command=self.reset_simulation).pack(side=tk.LEFT, padx=(0, 10))
-        ttk.Button(bottom_frame, text="WyÅ›wietl historiÄ™", command=self.show_history).pack(side=tk.LEFT, padx=(0, 10))
-        ttk.Button(bottom_frame, text="PokaÅ¼ wykresy", command=self.show_results).pack(side=tk.LEFT, padx=(0, 10))
-        ttk.Button(bottom_frame, text="PokaÅ¼ logi", command=self.show_logs_info).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(bottom_frame, text="Wyświetl historię", command=self.show_history).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(bottom_frame, text="Pokaż wykresy", command=self.show_results).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(bottom_frame, text="Pokaż logi", command=self.show_logs_info).pack(side=tk.LEFT, padx=(0, 10))
         ttk.Button(bottom_frame, text="Zamknij", command=self.window.destroy).pack(side=tk.RIGHT)
     
     def create_left_panel(self, parent):
@@ -89,7 +89,7 @@ class SimulationWindow:
         self.create_portfolio_tab(portfolio_frame)
     
     def create_trading_tab(self, parent):
-        ttk.Label(parent, text="Select Ticker:", font=("Arial", 11, "bold")).pack(anchor=tk.W, pady=(10, 5))
+        ttk.Label(parent, text="Wybierz spółke:", font=("Arial", 11, "bold")).pack(anchor=tk.W, pady=(10, 5))
         self.ticker_combo = ttk.Combobox(parent, values=self.simulator.tickers, state="readonly", width=30)
         self.ticker_combo.pack(fill=tk.X, pady=(0, 15))
         self.ticker_combo.bind('<<ComboboxSelected>>', self.on_ticker_changed)
@@ -183,14 +183,14 @@ class SimulationWindow:
         if current_date:
             self.date_label.config(text=current_date.strftime("%Y-%m-%d"))
         stats = self.simulator.get_simulation_stats()
-        progress_text = f"DzieÅ„ {stats['current_day']} of {stats['total_days']} ({stats['progress_percentage']:.1f}%)"
+        progress_text = f"Dzień„ {stats['current_day']} of {stats['total_days']} ({stats['progress_percentage']:.1f}%)"
         self.progress_label.config(text=progress_text)
         self.update_predictions()
         self.update_current_price()
         self.update_portfolio()
         self.update_button_states()
         if not self.simulator.can_go_next_day():
-            self.next_day_button.config(state='disabled', text="Simulation Complete")
+            self.next_day_button.config(state='disabled', text="Koniec symulacji")
             self.skip_days_button.config(state='disabled')
     
     def update_predictions(self):
@@ -231,12 +231,12 @@ class SimulationWindow:
             return
         
         if not self.current_ticker:
-            messagebox.showwarning("Warning", "Please select a ticker")
+            messagebox.showwarning("Warning", "Wybierz ticker")
             return
         try:
             shares = int(self.shares_entry.get())
             if shares <= 0:
-                raise ValueError("Shares must be positive")
+                raise ValueError("Akcje muszą być dodatnie")
             success, message = self.simulator.buy_stock(self.current_ticker, shares)
             if success:
                 self.record_action('BUY')
@@ -246,7 +246,7 @@ class SimulationWindow:
             else:
                 messagebox.showerror("Error", message)
         except ValueError:
-            messagebox.showerror("Error", "Please enter a valid number of shares")
+            messagebox.showerror("Error", "Podaj liczbę akcji")
     
     def sell_stock(self):
         if not self.can_sell():
@@ -259,7 +259,7 @@ class SimulationWindow:
         try:
             shares = int(self.shares_entry.get())
             if shares <= 0:
-                raise ValueError("Shares must be positive")
+                raise ValueError("Akcje muszą być dodatnie")
             success, message = self.simulator.sell_stock(self.current_ticker, shares)
             if success:
                 self.record_action('SELL')
@@ -269,7 +269,7 @@ class SimulationWindow:
             else:
                 messagebox.showerror("Error", message)
         except ValueError:
-            messagebox.showerror("Error", "Please enter a valid number of shares")
+            messagebox.showerror("Error", "Wprowadź poprawną liczbę akcji")
     
     def skip_days(self):
         try:
@@ -285,27 +285,27 @@ class SimulationWindow:
             self.update_display()
             self.update_chart()
             if skipped < days_to_skip:
-                messagebox.showinfo("Info", f"Przeskoczono {skipped} dni. OsiÄ…gniÄ™to koniec symulacji.")
+                messagebox.showinfo("Info", f"Przeskoczono {skipped} dni. Osiągnięto koniec symulacji.")
             else:
                 messagebox.showinfo("Success", f"Przeskoczono {skipped} dni")
         except ValueError:
-            messagebox.showerror("Error", "WprowadÅº poprawnÄ… liczbÄ™ dni")
+            messagebox.showerror("Error", "Wprowadź poprawną liczbę dni")
     
     def next_day(self):
         if self.simulator.next_day():
             self.update_display()
             self.update_chart()
         else:
-            messagebox.showinfo("Simulation Complete", "The simulation has reached the end date.")
+            messagebox.showinfo("Simulation Complete", "Symulacja zakończona")
     
     def reset_simulation(self):
-        result = messagebox.askyesno("Reset Simulation", "Are you sure you want to reset the simulation?")
+        result = messagebox.askyesno("Reset Simulation", "Jesteś pewny resetu?")
         if result:
             self.simulator.reset_simulation()
             self.daily_actions = {}
             self.update_display()
             self.update_chart()
-            self.next_day_button.config(state='normal', text="Next Day")
+            self.next_day_button.config(state='normal', text="Następny dzień")
             self.skip_days_button.config(state='normal')
     
     def show_results(self):
@@ -317,14 +317,14 @@ class SimulationWindow:
     
     def show_history(self):
         history_window = tk.Toplevel(self.window)
-        history_window.title("Transaction History")
+        history_window.title("Historia transakcji")
         history_window.geometry("800x600")
         notebook = ttk.Notebook(history_window)
         notebook.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
         transactions_frame = ttk.Frame(notebook)
         performance_frame = ttk.Frame(notebook)
-        notebook.add(transactions_frame, text="Transactions")
-        notebook.add(performance_frame, text="Performance")
+        notebook.add(transactions_frame, text="Transakcje")
+        notebook.add(performance_frame, text="Wydajność")
         self.create_transaction_history(transactions_frame)
         self.create_performance_history(performance_frame)
     
@@ -347,9 +347,9 @@ class SimulationWindow:
     
     def create_performance_history(self, parent):
         tree = ttk.Treeview(parent, columns=('Date', 'Portfolio Value', 'Return %'), show='headings')
-        tree.heading('Date', text='Date')
-        tree.heading('Portfolio Value', text='Portfolio Value')
-        tree.heading('Return %', text='Return %')
+        tree.heading('Date', text='Data')
+        tree.heading('Portfolio Value', text='Wartość portfolio')
+        tree.heading('Return %', text='Zwrot %')
         scrollbar = ttk.Scrollbar(parent, orient=tk.VERTICAL, command=tree.yview)
         tree.configure(yscrollcommand=scrollbar.set)
         tree.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)

@@ -21,20 +21,20 @@ class ChartWidget:
         self.create_widget()
         
     def create_widget(self):
-        chart_frame = ttk.LabelFrame(self.parent, text="Price Chart & Technical Indicators", padding=5)
+        chart_frame = ttk.LabelFrame(self.parent, text="Wykres ceny zamknięcia oraz wskaźników technicznych", padding=5)
         chart_frame.pack(fill=tk.BOTH, expand=True)
         
         controls_frame = ttk.Frame(chart_frame)
         controls_frame.pack(fill=tk.X, pady=(0, 5))
         
-        ttk.Label(controls_frame, text="Chart Period:").pack(side=tk.LEFT)
-        self.period_combo = ttk.Combobox(controls_frame, values=['30 days', '60 days', '90 days', '180 days', 'All'], 
+        ttk.Label(controls_frame, text="Zakres danych:").pack(side=tk.LEFT)
+        self.period_combo = ttk.Combobox(controls_frame, values=['30 dni', '60 dni', '90 dni', '180 dni', 'Wszystko'], 
                                         state="readonly", width=15)
-        self.period_combo.set('90 days')
+        self.period_combo.set('90 dni')
         self.period_combo.pack(side=tk.LEFT, padx=(5, 15))
         self.period_combo.bind('<<ComboboxSelected>>', self.on_period_changed)
         
-        ttk.Label(controls_frame, text="Indicators:").pack(side=tk.LEFT)
+        ttk.Label(controls_frame, text="Wskaźniki techniczne:").pack(side=tk.LEFT)
         self.indicators_frame = ttk.Frame(controls_frame)
         self.indicators_frame.pack(side=tk.LEFT, padx=(5, 0))
         
@@ -76,11 +76,11 @@ class ChartWidget:
     
     def get_period_days(self):
         period_map = {
-            '30 days': 30,
-            '60 days': 60,
-            '90 days': 90,
-            '180 days': 180,
-            'All': None
+            '30 dni': 30,
+            '60 dni': 60,
+            '90 dni': 90,
+            '180 dni': 180,
+            'Wszystko': None
         }
         return period_map.get(self.period_combo.get(), 90)
     
@@ -179,8 +179,8 @@ class ChartWidget:
         if current_date and current_date in dates.values if hasattr(dates, 'values') else current_date in dates:
             ax1.axvline(x=current_date, color='red', linestyle='--', alpha=0.7, label='Current Date')
         
-        ax1.set_title(f'{ticker} - Price Chart', fontsize=14, fontweight='bold')
-        ax1.set_ylabel('Price ($)', fontsize=10)
+        ax1.set_title(f'{ticker} - Wykres ceny zamknięcia', fontsize=14, fontweight='bold')
+        ax1.set_ylabel('Cena ($)', fontsize=10)
         ax1.legend(loc='upper left', fontsize=8)
         ax1.grid(True, alpha=0.3)
         
@@ -222,7 +222,7 @@ class ChartWidget:
         if not has_oscillators and 'Volume' not in selected_indicators:
             ax2.remove()
         
-        self.figure.suptitle(f'{ticker} Technical Analysis', fontsize=16, fontweight='bold')
+        self.figure.suptitle(f'{ticker} Analiza techniczna', fontsize=16, fontweight='bold')
         
         plt.setp(self.figure.get_axes()[-1].xaxis.get_majorticklabels(), rotation=45)
         

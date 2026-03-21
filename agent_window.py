@@ -28,7 +28,7 @@ class AgentWindow:
         
     def show(self):
         self.window = tk.Toplevel(self.parent)
-        self.window.title("Agent Simulation")
+        self.window.title("Symulacja Agenta")
         self.window.geometry("800x500")
         self.window.resizable(True, True)
         self.create_widgets()
@@ -38,7 +38,7 @@ class AgentWindow:
         main_frame = ttk.Frame(self.window, padding="20")
         main_frame.pack(fill=tk.BOTH, expand=True)
         
-        title_label = ttk.Label(main_frame, text="Agent Simulation", font=("Arial", 16, "bold"))
+        title_label = ttk.Label(main_frame, text="Symulacja Agenta", font=("Arial", 16, "bold"))
         title_label.pack(pady=(0, 20))
         
         config_frame = ttk.LabelFrame(main_frame, text="Konfiguracja", padding=15)
@@ -54,14 +54,12 @@ class AgentWindow:
         self.strategy_combo.bind('<<ComboboxSelected>>', self.update_strategy_description)
         self.update_strategy_description()
         
-        info_text = f"""
-    Parametry symulacji:
-    - KapitaÅ‚ poczÄ…tkowy: {format_currency(self.trading_simulator.initial_capital)}
-    - Prowizja: {self.trading_simulator.commission*100:.2f}%
-    - Dni do przodu: {self.trading_simulator.days_ahead}
-    - SpÃ³Å‚ki: {', '.join(self.trading_simulator.tickers)}
-    - Okres: {self.trading_simulator.start_date.strftime('%Y-%m-%d')} - {self.trading_simulator.end_date.strftime('%Y-%m-%d')}
-        """
+        info_text = f"""Parametry symulacji:
+- Kapitał początkowy: {format_currency(self.trading_simulator.initial_capital)}
+- Prowizja: {self.trading_simulator.commission*100:.2f}%
+- Dni do przodu: {self.trading_simulator.days_ahead}
+- Spółki: {', '.join(self.trading_simulator.tickers)}
+- Okres: {self.trading_simulator.start_date.strftime('%Y-%m-%d')} - {self.trading_simulator.end_date.strftime('%Y-%m-%d')}"""
         
         info_label = ttk.Label(config_frame, text=info_text.strip(), foreground="blue")
         info_label.grid(row=2, column=0, columnspan=2, sticky=tk.W, pady=10)
@@ -73,17 +71,20 @@ class AgentWindow:
         buttons_frame = ttk.Frame(control_frame)
         buttons_frame.pack(fill=tk.X)
         
-        self.start_button = ttk.Button(buttons_frame, text="Rozpocznij symulacjÄ™", command=self.start_simulation, style="Accent.TButton")
+        self.start_button = ttk.Button(buttons_frame, text="Rozpocznij symulację", command=self.start_simulation, style="Accent.TButton")
         self.start_button.pack(side=tk.LEFT, padx=(0, 10))
         
-        self.compare_button = ttk.Button(buttons_frame, text="PorÃ³wnaj wszystkie strategie", command=self.start_comparison, style="Accent.TButton")
+        self.compare_button = ttk.Button(buttons_frame, text="Porównaj wszystkie strategie", command=self.start_comparison, style="Accent.TButton")
         self.compare_button.pack(side=tk.LEFT, padx=(0, 10))
         
         self.stop_button = ttk.Button(buttons_frame, text="Zatrzymaj", command=self.stop_simulation, state="disabled")
         self.stop_button.pack(side=tk.LEFT, padx=(0, 10))
         
-        ttk.Button(buttons_frame, text="PokaÅ¼ logi agenta", command=self.show_agent_logs).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(buttons_frame, text="Pokaż logi agenta", command=self.show_agent_logs).pack(side=tk.LEFT, padx=(0, 10))
         ttk.Button(buttons_frame, text="Zamknij", command=self.window.destroy).pack(side=tk.RIGHT)
+    
+        self.status_label = ttk.Label(control_frame, text="Gotowy do rozpoczęcia", foreground="green")
+        self.status_label.pack(pady=(10, 0))
     
     def update_strategy_description(self, event=None):
         selected_strategy = self.strategy_combo.get()
@@ -121,6 +122,7 @@ class AgentWindow:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
+                self.status_label.config(text="Gotowy do rozpoczęcia", foreground="green")
                 
                 if success:
                     result = messagebox.askyesno("Sukces", f"{message}\n\nCzy chcesz zobaczyć wykresy wyników?")
@@ -137,6 +139,7 @@ class AgentWindow:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
+                self.status_label.config(text="Błąd!", foreground="red")
                 messagebox.showerror("Błąd", f"Nieoczekiwany błąd: {str(e)}")
             self.window.after(0, show_error)
         
@@ -164,6 +167,7 @@ class AgentWindow:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
+                self.status_label.config(text="Gotowy do rozpoczęcia", foreground="green")
                 
                 result = messagebox.askyesno("Sukces", "Porównanie strategii zakończone!\n\nCzy chcesz zobaczyć wyniki?")
                 if result:
@@ -177,6 +181,7 @@ class AgentWindow:
                 self.compare_button.config(state="normal")
                 self.stop_button.config(state="disabled")
                 self.strategy_combo.config(state="readonly")
+                self.status_label.config(text="Błąd!", foreground="red")
                 messagebox.showerror("Błąd", f"Nieoczekiwany błąd: {str(e)}")
             self.window.after(0, show_error)
     

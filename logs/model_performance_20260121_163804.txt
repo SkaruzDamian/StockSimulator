@@ -1,0 +1,34 @@
+================================================================================
+TRADING SIMULATOR - SKUTECZNOŚĆ MODELU
+Utworzony: 2026-01-21 16:38:04
+================================================================================
+
+
+PODSUMOWANIE SKUTECZNOŚCI MODELU - 2026-01-21 16:50:36
+============================================================
+
+BA:
+  Dokładność: 49.60%
+  Poprawne przewidywania: 124
+  Błędne przewidywania: 126
+  Łączne przewidywania: 250
+
+JPM:
+  Dokładność: 48.40%
+  Poprawne przewidywania: 121
+  Błędne przewidywania: 129
+  Łączne przewidywania: 250
+
+TSLA:
+  Dokładność: 52.80%
+  Poprawne przewidywania: 132
+  Błędne przewidywania: 118
+  Łączne przewidywania: 250
+
+OGÓŁEM:
+  Dokładność ogólna: 50.27%
+  Poprawne przewidywania: 377
+  Błędne przewidywania: 373
+  Łączne przewidywania: 750
+
+============================================================

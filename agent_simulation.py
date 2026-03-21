@@ -121,13 +121,10 @@ class AgentSimulation:
         try:
             agent_logs_dir = "agent_logs"
             if os.path.exists(agent_logs_dir):
-                print(f"DEBUG: Usuwam stare pliki z {agent_logs_dir}")
                 shutil.rmtree(agent_logs_dir)
-                print(f"DEBUG: Folder {agent_logs_dir} został wyczyszczony")
             os.makedirs(agent_logs_dir, exist_ok=True)
-            print(f"DEBUG: Utworzono czysty folder {agent_logs_dir}")
         except Exception as e:
-            print(f"BŁĄD czyszczenia agent_logs: {e}")
+            print(f"BÅÄ„D czyszczenia agent_logs: {e}")
     
     def run_simulation(self):
         if self.is_running:
@@ -140,7 +137,6 @@ class AgentSimulation:
         self.is_completed = False
         self.stats['start_time'] = datetime.now()
         
-        print(f"Rozpoczynam symulację agenta ze strategią: {self.strategy.name}")
         
         self.trading_simulator.reset_simulation()
         
@@ -171,17 +167,40 @@ class AgentSimulation:
             
             self._finalize_simulation()
             
-            print(f"DEBUG: Końcowa liczba rekordów w daily_portfolio_value: {len(self.agent_portfolio.daily_portfolio_value)}")
-            
             return True, "Symulacja agenta zakończona pomyślnie"
             
         except Exception as e:
             self.is_running = False
             return False, f"Błąd podczas symulacji: {str(e)}"
     
+    
+    def _update_actual_outcomes(self, current_date, current_prices):
+        current_idx = self.trading_simulator.current_date_index
+        if current_idx <= 0:
+            return
+        
+        prev_date = self.trading_simulator.trading_dates[current_idx - 1]
+        
+        for ticker in self.trading_simulator.tickers:
+            if ticker not in current_prices:
+                continue
+            
+            prev_ticker_data = self.trading_simulator.get_ticker_data_for_date(ticker, prev_date)
+            if prev_ticker_data is None or 'Close' not in prev_ticker_data:
+                continue
+            
+            prev_price = prev_ticker_data['Close']
+            current_price = current_prices[ticker]
+            
+            price_change = current_price - prev_price
+            
+            self.agent_logger.update_actual_outcome(ticker, prev_date, price_change)
+    
     def _execute_daily_logic(self, current_date):
         predictions = self.trading_simulator.current_predictions
         prices = self.trading_simulator.current_prices
+        
+        self._update_actual_outcomes(current_date, prices)
         
         self._check_sell_signals(current_date, prices)
         self._check_buy_signals(current_date, predictions, prices)
@@ -275,7 +294,6 @@ class AgentSimulation:
             
             self.agent_logger.log_prediction(date, ticker, prediction)
             
-            print(f"Agent kupił {shares} akcji {ticker} po ${buy_price:.2f} (Open)")
     
     def _execute_sell(self, ticker, shares, price, date):
         sell_price = price
@@ -315,9 +333,6 @@ class AgentSimulation:
                 date, ticker, "SELL", shares, sell_price, commission, total_revenue - commission, True
             )
             
-            self.agent_logger.update_actual_outcome(ticker, position_info['buy_date'], price_change)
-            
-            print(f"Agent sprzedał {shares} akcji {ticker} po ${sell_price:.2f} (Close) (P&L: ${profit_loss:.2f})")
             
             del self.positions_with_dates[ticker]
     
@@ -340,7 +355,6 @@ class AgentSimulation:
             if ticker in final_prices:
                 position = self.agent_portfolio.get_position(ticker)
                 if position['shares'] > 0:
-                    print(f"Finalna sprzedaż: {ticker} po ${final_prices[ticker]:.2f}")
                     self._execute_sell(ticker, position['shares'], final_prices[ticker], last_date)
     
     def _finalize_simulation(self):
@@ -371,14 +385,14 @@ class AgentSimulation:
             
             f.write("WYNIKI FINANSOWE:\n")
             f.write("-" * 40 + "\n")
-            f.write(f"Kapitał początkowy: {format_currency(self.trading_simulator.initial_capital)}\n")
+            f.write(f"Kapitał początkowy {format_currency(self.trading_simulator.initial_capital)}\n")
             f.write(f"Wartość końcowa: {format_currency(self.stats['final_portfolio_value'])}\n")
             f.write(f"Całkowity zwrot: {format_currency(self.stats['total_return'])}\n")
             f.write(f"Zwrot procentowy: {format_percentage(self.stats['return_percentage'])}\n\n")
             
             f.write("STATYSTYKI TRANSAKCJI:\n")
             f.write("-" * 40 + "\n")
-            f.write(f"Łączne transakcje: {self.stats['total_transactions']}\n")
+            f.write(f"Wszystkie transakcje: {self.stats['total_transactions']}\n")
             f.write(f"Transakcje kupna: {self.stats['buy_transactions']}\n")
             f.write(f"Transakcje sprzedaży: {self.stats['sell_transactions']}\n")
             f.write(f"Zyskowne transakcje: {self.stats['profitable_trades']}\n")
@@ -386,11 +400,11 @@ class AgentSimulation:
             f.write(f"Najlepszy trade: {format_currency(self.stats['best_trade'])}\n")
             f.write(f"Najgorszy trade: {format_currency(self.stats['worst_trade'])}\n\n")
             
-            f.write("SKUTECZNOŚĆ MODELU:\n")
+            f.write("SKUTECZNOÅšÄ† MODELU:\n")
             f.write("-" * 40 + "\n")
             f.write(f"Dokładność przewidywań: {self.stats['accuracy']:.2f}%\n")
             f.write(f"Poprawne przewidywania: {self.stats['correct_predictions']}\n")
-            f.write(f"Łączne przewidywania: {self.stats['total_predictions']}\n")
+            f.write(f"Wszystkie przewidywania: {self.stats['total_predictions']}\n")
             f.write(f"Błędne przewidywania: {self.stats['total_predictions'] - self.stats['correct_predictions']}\n\n")
             
             duration = self.stats['end_time'] - self.stats['start_time']

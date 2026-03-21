@@ -43,10 +43,8 @@ class AgentResultsWindow:
         
         if not performance_data or len(performance_data) == 0:
             ttk.Label(parent, text="Brak danych do wyświetlenia").pack()
-            print(f"DEBUG: daily_portfolio_value jest puste: {performance_data}")
             return
         
-        print(f"DEBUG: Znaleziono {len(performance_data)} rekordów w daily_portfolio_value")
         
         df = pd.DataFrame(performance_data)
         

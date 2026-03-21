@@ -43,8 +43,8 @@ def check_dependencies():
         missing_packages.append('matplotlib')
     
     if missing_packages:
-        error_msg = f"Missing required packages: {', '.join(missing_packages)}\n\n"
-        error_msg += "Please install them using:\n"
+        error_msg = f"Brak pakietów: {', '.join(missing_packages)}\n\n"
+        error_msg += "Zainstaluj je używając:\n"
         error_msg += "pip install -r requirements.txt"
         
         root = tk.Tk()
@@ -59,7 +59,7 @@ def setup_matplotlib():
         import matplotlib.pyplot as plt
         plt.style.use('default')
     except Exception as e:
-        print(f"Warning: Could not setup matplotlib properly: {e}")
+        print(f"Ostrzeżenie: Nie można ustawić matplotlib: {e}")
 
 def main():
     try:
@@ -72,8 +72,8 @@ def main():
         app.run()
         
     except ImportError as e:
-        error_msg = f"Import error: {str(e)}\n\n"
-        error_msg += "Please make sure all required packages are installed:\n"
+        error_msg = f"Błąd importowania: {str(e)}\n\n"
+        error_msg += "Upewnij się że pakiety są zainstalowane:\n"
         error_msg += "pip install -r requirements.txt"
         
         root = tk.Tk()
@@ -82,8 +82,8 @@ def main():
         sys.exit(1)
         
     except Exception as e:
-        error_msg = f"An unexpected error occurred: {str(e)}\n\n"
-        error_msg += "Please check your installation and try again."
+        error_msg = f"Niespodziewany błąd: {str(e)}\n\n"
+        error_msg += "Spróbuj ponownie."
         
         root = tk.Tk()
         root.withdraw()

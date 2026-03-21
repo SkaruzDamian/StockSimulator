@@ -1,0 +1,485 @@
+================================================================================
+TRADING SIMULATOR - DZIENNY STAN PORTFOLIO
+Utworzony: 2026-01-20 21:41:46
+================================================================================
+
+[2023-07-01 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-02 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-02 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-03 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-03 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-04 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-04 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2023-07-05 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-05 00:00:00]
+Gotówka: $10,000.00
+Wartość całkowita: $10,000.00
+Zwrot całkowity: $0.00 (0.00%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-06 00:00:00]
+Gotówka: $9,521.10
+Wartość całkowita: $10,187.13
+Zwrot całkowity: $187.13 (1.87%)
+
+Pozycje:
+  AAPL: 5 akcji @ $95.69 (Obecna: $133.21, P&L: $187.61)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-06 00:00:00]
+Gotówka: $9,521.10
+Wartość całkowita: $10,187.13
+Zwrot całkowity: $187.13 (1.87%)
+
+Pozycje:
+  AAPL: 5 akcji @ $95.69 (Obecna: $133.21, P&L: $187.61)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-07 00:00:00]
+Gotówka: $9,039.82
+Wartość całkowita: $10,378.98
+Zwrot całkowity: $378.98 (3.79%)
+
+Pozycje:
+  AAPL: 10 akcji @ $95.92 (Obecna: $133.92, P&L: $379.94)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-07 00:00:00]
+Gotówka: $9,039.82
+Wartość całkowita: $10,378.98
+Zwrot całkowity: $378.98 (3.79%)
+
+Pozycje:
+  AAPL: 10 akcji @ $95.92 (Obecna: $133.92, P&L: $379.94)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-08 00:00:00]
+Gotówka: $8,558.91
+Wartość całkowita: $10,571.30
+Zwrot całkowity: $571.30 (5.71%)
+
+Pozycje:
+  AAPL: 15 akcji @ $95.98 (Obecna: $134.16, P&L: $572.74)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-08 00:00:00]
+Gotówka: $8,558.91
+Wartość całkowita: $10,571.30
+Zwrot całkowity: $571.30 (5.71%)
+
+Pozycje:
+  AAPL: 15 akcji @ $95.98 (Obecna: $134.16, P&L: $572.74)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-09 00:00:00]
+Gotówka: $8,082.24
+Wartość całkowita: $10,754.15
+Zwrot całkowity: $754.15 (7.54%)
+
+Pozycje:
+  AAPL: 20 akcji @ $95.79 (Obecna: $133.60, P&L: $756.06)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-09 00:00:00]
+Gotówka: $8,082.24
+Wartość całkowita: $10,754.15
+Zwrot całkowity: $754.15 (7.54%)
+
+Pozycje:
+  AAPL: 20 akcji @ $95.79 (Obecna: $133.60, P&L: $756.06)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-10 00:00:00]
+Gotówka: $7,613.16
+Wartość całkowita: $10,921.03
+Zwrot całkowity: $921.03 (9.21%)
+
+Pozycje:
+  AAPL: 25 akcji @ $95.38 (Obecna: $132.31, P&L: $923.41)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-10 00:00:00]
+Gotówka: $7,613.16
+Wartość całkowita: $10,921.03
+Zwrot całkowity: $921.03 (9.21%)
+
+Pozycje:
+  AAPL: 25 akcji @ $95.38 (Obecna: $132.31, P&L: $923.41)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-11 00:00:00]
+Gotówka: $7,146.30
+Wartość całkowita: $11,141.92
+Zwrot całkowity: $1,141.92 (11.42%)
+
+Pozycje:
+  AAPL: 30 akcji @ $95.03 (Obecna: $133.19, P&L: $1,144.77)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-11 00:00:00]
+Gotówka: $7,146.30
+Wartość całkowita: $11,141.92
+Zwrot całkowity: $1,141.92 (11.42%)
+
+Pozycje:
+  AAPL: 30 akcji @ $95.03 (Obecna: $133.19, P&L: $1,144.77)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-12 00:00:00]
+Gotówka: $6,675.16
+Wartość całkowita: $11,359.47
+Zwrot całkowity: $1,359.47 (13.59%)
+
+Pozycje:
+  AAPL: 35 akcji @ $94.90 (Obecna: $133.84, P&L: $1,362.80)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-12 00:00:00]
+Gotówka: $6,675.16
+Wartość całkowita: $11,359.47
+Zwrot całkowity: $1,359.47 (13.59%)
+
+Pozycje:
+  AAPL: 35 akcji @ $94.90 (Obecna: $133.84, P&L: $1,362.80)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-13 00:00:00]
+Gotówka: $6,202.95
+Wartość całkowita: $11,552.48
+Zwrot całkowity: $1,552.48 (15.52%)
+
+Pozycje:
+  AAPL: 40 akcji @ $94.83 (Obecna: $133.74, P&L: $1,556.28)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-13 00:00:00]
+Gotówka: $6,202.95
+Wartość całkowita: $11,552.48
+Zwrot całkowity: $1,552.48 (15.52%)
+
+Pozycje:
+  AAPL: 40 akcji @ $94.83 (Obecna: $133.74, P&L: $1,556.28)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-14 00:00:00]
+Gotówka: $5,736.97
+Wartość całkowita: $11,838.30
+Zwrot całkowity: $1,838.30 (18.38%)
+
+Pozycje:
+  AAPL: 45 akcji @ $94.64 (Obecna: $135.58, P&L: $1,842.55)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-14 00:00:00]
+Gotówka: $5,736.97
+Wartość całkowita: $11,838.30
+Zwrot całkowity: $1,838.30 (18.38%)
+
+Pozycje:
+  AAPL: 45 akcji @ $94.64 (Obecna: $135.58, P&L: $1,842.55)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-15 00:00:00]
+Gotówka: $5,270.13
+Wartość całkowita: $11,995.87
+Zwrot całkowity: $1,995.87 (19.96%)
+
+Pozycje:
+  AAPL: 50 akcji @ $94.50 (Obecna: $134.51, P&L: $2,000.60)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-15 00:00:00]
+Gotówka: $5,270.13
+Wartość całkowita: $11,995.87
+Zwrot całkowity: $1,995.87 (19.96%)
+
+Pozycje:
+  AAPL: 50 akcji @ $94.50 (Obecna: $134.51, P&L: $2,000.60)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-16 00:00:00]
+Gotówka: $4,801.36
+Wartość całkowita: $12,115.77
+Zwrot całkowity: $2,115.77 (21.16%)
+
+Pozycje:
+  AAPL: 55 akcji @ $94.43 (Obecna: $132.99, P&L: $2,120.97)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-16 00:00:00]
+Gotówka: $4,801.36
+Wartość całkowita: $12,115.77
+Zwrot całkowity: $2,115.77 (21.16%)
+
+Pozycje:
+  AAPL: 55 akcji @ $94.43 (Obecna: $132.99, P&L: $2,120.97)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-17 00:00:00]
+Gotówka: $4,337.01
+Wartość całkowita: $12,274.86
+Zwrot całkowity: $2,274.86 (22.75%)
+
+Pozycje:
+  AAPL: 60 akcji @ $94.29 (Obecna: $132.30, P&L: $2,280.51)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-17 00:00:00]
+Gotówka: $4,337.01
+Wartość całkowita: $12,274.86
+Zwrot całkowity: $2,274.86 (22.75%)
+
+Pozycje:
+  AAPL: 60 akcji @ $94.29 (Obecna: $132.30, P&L: $2,280.51)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-18 00:00:00]
+Gotówka: $3,871.89
+Wartość całkowita: $12,468.26
+Zwrot całkowity: $2,468.26 (24.68%)
+
+Pozycje:
+  AAPL: 65 akcji @ $94.18 (Obecna: $132.25, P&L: $2,474.38)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-18 00:00:00]
+Gotówka: $3,871.89
+Wartość całkowita: $12,468.26
+Zwrot całkowity: $2,468.26 (24.68%)
+
+Pozycje:
+  AAPL: 65 akcji @ $94.18 (Obecna: $132.25, P&L: $2,474.38)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-19 00:00:00]
+Gotówka: $3,406.48
+Wartość całkowita: $12,681.15
+Zwrot całkowity: $2,681.15 (26.81%)
+
+Pozycje:
+  AAPL: 70 akcji @ $94.10 (Obecna: $132.50, P&L: $2,687.73)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-19 00:00:00]
+Gotówka: $3,406.48
+Wartość całkowita: $12,681.15
+Zwrot całkowity: $2,681.15 (26.81%)
+
+Pozycje:
+  AAPL: 70 akcji @ $94.10 (Obecna: $132.50, P&L: $2,687.73)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-20 00:00:00]
+Gotówka: $2,946.80
+Wartość całkowita: $12,865.84
+Zwrot całkowity: $2,865.84 (28.66%)
+
+Pozycje:
+  AAPL: 75 akcji @ $93.95 (Obecna: $132.25, P&L: $2,872.89)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-20 00:00:00]
+Gotówka: $2,946.80
+Wartość całkowita: $12,865.84
+Zwrot całkowity: $2,865.84 (28.66%)
+
+Pozycje:
+  AAPL: 75 akcji @ $93.95 (Obecna: $132.25, P&L: $2,872.89)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2023-07-21 00:00:00]
+Gotówka: $2,485.32
+Wartość całkowita: $13,093.80
+Zwrot całkowity: $3,093.80 (30.94%)
+
+Pozycje:
+  AAPL: 80 akcji @ $93.84 (Obecna: $132.61, P&L: $3,101.30)
+
+Przewidywania:
+  AAPL: BUY (wartość: 1)
+------------------------------------------------------------
+

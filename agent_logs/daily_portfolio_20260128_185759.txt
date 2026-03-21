@@ -1,0 +1,3968 @@
+================================================================================
+TRADING SIMULATOR - DZIENNY STAN PORTFOLIO
+Utworzony: 2026-01-28 18:57:59
+================================================================================
+
+[2020-01-02 00:00:00]
+Gotówka: $4,032.06
+Wartość całkowita: $6,024.07
+Zwrot całkowity: $24.07 (0.40%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $331.35, P&L: $14.23)
+  F: 142 akcji @ $6.93 (Obecna: $7.03, P&L: $13.77)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-03 00:00:00]
+Gotówka: $3,382.83
+Wartość całkowita: $5,989.68
+Zwrot całkowity: $-10.32 (-0.17%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $330.79, P&L: $12.56)
+  F: 142 akcji @ $6.93 (Obecna: $6.87, P&L: $-8.48)
+  XOM: 12 akcji @ $53.99 (Obecna: $53.23, P&L: $-9.17)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-06 00:00:00]
+Gotówka: $3,382.83
+Wartość całkowita: $5,992.21
+Zwrot całkowity: $-7.79 (-0.13%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $331.77, P&L: $15.48)
+  F: 142 akcji @ $6.93 (Obecna: $6.83, P&L: $-13.77)
+  XOM: 12 akcji @ $53.99 (Obecna: $53.64, P&L: $-4.27)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-07 00:00:00]
+Gotówka: $3,382.83
+Wartość całkowita: $6,007.04
+Zwrot całkowity: $7.04 (0.12%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $335.29, P&L: $26.04)
+  F: 142 akcji @ $6.93 (Obecna: $6.90, P&L: $-4.24)
+  XOM: 12 akcji @ $53.99 (Obecna: $53.20, P&L: $-9.54)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-08 00:00:00]
+Gotówka: $3,382.83
+Wartość całkowita: $5,979.78
+Zwrot całkowity: $-20.22 (-0.34%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $329.41, P&L: $8.41)
+  F: 142 akcji @ $6.93 (Obecna: $6.90, P&L: $-4.24)
+  XOM: 12 akcji @ $53.99 (Obecna: $52.40, P&L: $-19.16)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-09 00:00:00]
+Gotówka: $3,382.83
+Wartość całkowita: $6,000.48
+Zwrot całkowity: $0.48 (0.01%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $334.35, P&L: $23.23)
+  F: 142 akcji @ $6.93 (Obecna: $6.91, P&L: $-3.18)
+  XOM: 12 akcji @ $53.99 (Obecna: $52.80, P&L: $-14.35)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-10 00:00:00]
+Gotówka: $4,009.53
+Wartość całkowita: $5,973.39
+Zwrot całkowity: $-26.61 (-0.44%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $327.97, P&L: $4.09)
+  F: 142 akcji @ $6.93 (Obecna: $6.90, P&L: $-4.24)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-13 00:00:00]
+Gotówka: $3,379.77
+Wartość całkowita: $5,977.41
+Zwrot całkowity: $-22.59 (-0.38%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $328.27, P&L: $4.98)
+  F: 142 akcji @ $6.93 (Obecna: $6.89, P&L: $-5.30)
+  XOM: 12 akcji @ $52.38 (Obecna: $52.83, P&L: $5.45)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-14 00:00:00]
+Gotówka: $3,379.77
+Wartość całkowita: $5,983.61
+Zwrot całkowity: $-16.39 (-0.27%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $330.38, P&L: $11.33)
+  F: 142 akcji @ $6.93 (Obecna: $6.93, P&L: $-0.00)
+  XOM: 12 akcji @ $52.38 (Obecna: $52.38, P&L: $0.00)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-15 00:00:00]
+Gotówka: $3,379.77
+Wartość całkowita: $5,964.42
+Zwrot całkowity: $-35.58 (-0.59%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $327.85, P&L: $3.73)
+  F: 142 akcji @ $6.93 (Obecna: $6.86, P&L: $-10.59)
+  XOM: 12 akcji @ $52.38 (Obecna: $52.29, P&L: $-1.00)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-16 00:00:00]
+Gotówka: $3,379.77
+Wartość całkowita: $5,966.41
+Zwrot całkowity: $-33.59 (-0.56%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $330.04, P&L: $10.29)
+  F: 142 akcji @ $6.93 (Obecna: $6.84, P&L: $-12.71)
+  XOM: 12 akcji @ $52.38 (Obecna: $52.09, P&L: $-3.45)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-17 00:00:00]
+Gotówka: $3,379.77
+Wartość całkowita: $5,939.58
+Zwrot całkowity: $-60.42 (-1.01%)
+
+Pozycje:
+  BA: 3 akcji @ $326.61 (Obecna: $322.23, P&L: $-13.12)
+  F: 142 akcji @ $6.93 (Obecna: $6.83, P&L: $-13.77)
+  XOM: 12 akcji @ $52.38 (Obecna: $51.89, P&L: $-5.81)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-21 00:00:00]
+Gotówka: $3,669.78
+Wartość całkowita: $5,882.32
+Zwrot całkowity: $-117.68 (-1.96%)
+
+Pozycje:
+  F: 142 akcji @ $6.93 (Obecna: $6.87, P&L: $-8.48)
+  XOM: 12 akcji @ $52.38 (Obecna: $51.15, P&L: $-14.71)
+  BA: 2 akcji @ $320.69 (Obecna: $311.52, P&L: $-18.35)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-22 00:00:00]
+Gotówka: $3,665.69
+Wartość całkowita: $5,860.70
+Zwrot całkowity: $-139.30 (-2.32%)
+
+Pozycje:
+  F: 142 akcji @ $6.93 (Obecna: $6.83, P&L: $-13.77)
+  XOM: 12 akcji @ $52.38 (Obecna: $50.85, P&L: $-18.26)
+  BA: 2 akcji @ $307.99 (Obecna: $307.17, P&L: $-1.63)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-23 00:00:00]
+Gotówka: $4,270.91
+Wartość całkowita: $5,871.03
+Zwrot całkowity: $-128.97 (-2.15%)
+
+Pozycje:
+  F: 142 akcji @ $6.93 (Obecna: $6.82, P&L: $-15.89)
+  BA: 2 akcji @ $307.99 (Obecna: $315.91, P&L: $15.85)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-24 00:00:00]
+Gotówka: $4,343.95
+Wartość całkowita: $5,852.41
+Zwrot całkowity: $-147.59 (-2.46%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $321.14, P&L: $26.30)
+  F: 129 akcji @ $6.80 (Obecna: $6.71, P&L: $-10.59)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-27 00:00:00]
+Gotówka: $3,649.37
+Wartość całkowita: $5,820.41
+Zwrot całkowity: $-179.59 (-2.99%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $314.73, P&L: $13.48)
+  F: 129 akcji @ $6.80 (Obecna: $6.63, P&L: $-21.17)
+  XOM: 14 akcji @ $49.51 (Obecna: $49.00, P&L: $-7.21)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-28 00:00:00]
+Gotówka: $3,649.37
+Wartość całkowita: $5,827.07
+Zwrot całkowity: $-172.93 (-2.88%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $314.69, P&L: $13.40)
+  F: 129 akcji @ $6.80 (Obecna: $6.69, P&L: $-13.47)
+  XOM: 14 akcji @ $49.51 (Obecna: $48.93, P&L: $-8.16)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-29 00:00:00]
+Gotówka: $3,649.37
+Wartość całkowita: $5,836.12
+Zwrot całkowity: $-163.88 (-2.73%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $320.12, P&L: $24.26)
+  F: 129 akcji @ $6.80 (Obecna: $6.72, P&L: $-9.56)
+  XOM: 14 akcji @ $49.51 (Obecna: $48.52, P&L: $-13.88)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-01-30 00:00:00]
+Gotówka: $3,649.37
+Wartość całkowita: $5,843.92
+Zwrot całkowity: $-156.08 (-2.60%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $321.39, P&L: $26.80)
+  F: 129 akcji @ $6.80 (Obecna: $6.71, P&L: $-11.52)
+  XOM: 14 akcji @ $49.51 (Obecna: $49.04, P&L: $-6.68)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-01-31 00:00:00]
+Gotówka: $4,306.28
+Wartość całkowita: $5,802.35
+Zwrot całkowity: $-197.65 (-3.29%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $316.39, P&L: $16.80)
+  F: 129 akcji @ $6.80 (Obecna: $6.69, P&L: $-13.47)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-03 00:00:00]
+Gotówka: $3,608.04
+Wartość całkowita: $5,804.72
+Zwrot całkowity: $-195.28 (-3.25%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $314.13, P&L: $12.29)
+  F: 129 akcji @ $6.80 (Obecna: $6.81, P&L: $2.19)
+  XOM: 15 akcji @ $46.46 (Obecna: $45.96, P&L: $-7.38)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-04 00:00:00]
+Gotówka: $3,608.04
+Wartość całkowita: $5,819.53
+Zwrot całkowity: $-180.47 (-3.01%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $316.06, P&L: $16.14)
+  F: 129 akcji @ $6.80 (Obecna: $6.97, P&L: $21.76)
+  XOM: 15 akcji @ $46.46 (Obecna: $45.39, P&L: $-16.01)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-05 00:00:00]
+Gotówka: $3,678.10
+Wartość całkowita: $5,776.88
+Zwrot całkowity: $-223.12 (-3.72%)
+
+Pozycje:
+  BA: 2 akcji @ $307.99 (Obecna: $327.60, P&L: $39.23)
+  XOM: 15 akcji @ $46.46 (Obecna: $47.48, P&L: $15.33)
+  F: 116 akcji @ $6.38 (Obecna: $6.31, P&L: $-8.80)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-06 00:00:00]
+Gotówka: $4,355.57
+Wartość całkowita: $5,784.21
+Zwrot całkowity: $-215.79 (-3.60%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.83, P&L: $5.68)
+  F: 116 akcji @ $6.38 (Obecna: $6.26, P&L: $-14.08)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-07 00:00:00]
+Gotówka: $4,389.87
+Wartość całkowita: $5,757.26
+Zwrot całkowity: $-242.74 (-4.05%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.52, P&L: $1.02)
+  BA: 2 akcji @ $338.36 (Obecna: $334.76, P&L: $-7.20)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-02-10 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,756.04
+Zwrot całkowity: $-243.96 (-4.07%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.03, P&L: $-6.35)
+  BA: 2 akcji @ $338.36 (Obecna: $342.63, P&L: $8.55)
+  F: 119 akcji @ $6.18 (Obecna: $6.12, P&L: $-8.13)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-11 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,765.71
+Zwrot całkowity: $-234.29 (-3.90%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.47, P&L: $0.22)
+  BA: 2 akcji @ $338.36 (Obecna: $342.38, P&L: $8.05)
+  F: 119 akcji @ $6.18 (Obecna: $6.15, P&L: $-4.51)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-12 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,792.90
+Zwrot całkowity: $-207.10 (-3.45%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $47.04, P&L: $8.74)
+  BA: 2 akcji @ $338.36 (Obecna: $345.40, P&L: $14.08)
+  F: 119 akcji @ $6.18 (Obecna: $6.25, P&L: $8.13)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-13 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,784.74
+Zwrot całkowity: $-215.26 (-3.59%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.78, P&L: $4.82)
+  BA: 2 akcji @ $338.36 (Obecna: $342.82, P&L: $8.93)
+  F: 119 akcji @ $6.18 (Obecna: $6.26, P&L: $9.03)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-02-14 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,763.31
+Zwrot całkowity: $-236.69 (-3.94%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.56, P&L: $1.60)
+  BA: 2 akcji @ $338.36 (Obecna: $340.49, P&L: $4.27)
+  F: 119 akcji @ $6.18 (Obecna: $6.15, P&L: $-4.51)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-02-18 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,747.61
+Zwrot całkowity: $-252.39 (-4.21%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $45.97, P&L: $-7.27)
+  BA: 2 akcji @ $338.36 (Obecna: $338.88, P&L: $1.05)
+  F: 119 akcji @ $6.18 (Obecna: $6.12, P&L: $-8.13)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-19 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,746.33
+Zwrot całkowity: $-253.67 (-4.23%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $46.32, P&L: $-1.97)
+  BA: 2 akcji @ $338.36 (Obecna: $338.30, P&L: $-0.11)
+  F: 119 akcji @ $6.18 (Obecna: $6.07, P&L: $-13.54)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-02-20 00:00:00]
+Gotówka: $3,652.53
+Wartość całkowita: $5,739.47
+Zwrot całkowity: $-260.53 (-4.34%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $45.96, P&L: $-7.50)
+  BA: 2 akcji @ $338.36 (Obecna: $336.28, P&L: $-4.15)
+  F: 119 akcji @ $6.18 (Obecna: $6.09, P&L: $-10.83)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-21 00:00:00]
+Gotówka: $3,625.72
+Wartość całkowita: $5,691.79
+Zwrot całkowity: $-308.21 (-5.14%)
+
+Pozycje:
+  XOM: 15 akcji @ $46.46 (Obecna: $45.40, P&L: $-15.91)
+  BA: 2 akcji @ $338.36 (Obecna: $330.38, P&L: $-15.95)
+  F: 121 akcji @ $6.09 (Obecna: $5.99, P&L: $-11.94)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-24 00:00:00]
+Gotówka: $4,011.96
+Wartość całkowita: $5,578.24
+Zwrot całkowity: $-421.76 (-7.03%)
+
+Pozycje:
+  BA: 2 akcji @ $320.00 (Obecna: $317.90, P&L: $-4.20)
+  F: 162 akcji @ $5.84 (Obecna: $5.74, P&L: $-15.98)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-25 00:00:00]
+Gotówka: $5,505.94
+Wartość całkowita: $5,505.94
+Zwrot całkowity: $-494.06 (-8.23%)
+
+Pozycje:
+  Brak pozycji
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-02-26 00:00:00]
+Gotówka: $4,579.09
+Wartość całkowita: $5,492.68
+Zwrot całkowity: $-507.32 (-8.46%)
+
+Pozycje:
+  F: 167 akcji @ $5.54 (Obecna: $5.47, P&L: $-11.40)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-27 00:00:00]
+Gotówka: $3,625.23
+Wartość całkowita: $5,398.13
+Zwrot całkowity: $-601.87 (-10.03%)
+
+Pozycje:
+  BA: 3 akcji @ $300.37 (Obecna: $287.76, P&L: $-37.83)
+  F: 172 akcji @ $5.41 (Obecna: $5.29, P&L: $-20.88)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-02-28 00:00:00]
+Gotówka: $3,216.35
+Wartość całkowita: $5,385.74
+Zwrot całkowity: $-614.26 (-10.24%)
+
+Pozycje:
+  F: 172 akcji @ $5.41 (Obecna: $5.28, P&L: $-22.19)
+  XOM: 18 akcji @ $37.44 (Obecna: $39.49, P&L: $36.90)
+  BA: 2 akcji @ $278.07 (Obecna: $275.11, P&L: $-5.92)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-02 00:00:00]
+Gotówka: $3,959.44
+Wartość całkowita: $5,477.61
+Zwrot całkowity: $-522.39 (-8.71%)
+
+Pozycje:
+  F: 172 akcji @ $5.41 (Obecna: $5.46, P&L: $9.14)
+  BA: 2 akcji @ $278.07 (Obecna: $289.27, P&L: $22.40)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-03 00:00:00]
+Gotówka: $3,295.41
+Wartość całkowita: $5,396.42
+Zwrot całkowity: $-603.58 (-10.06%)
+
+Pozycje:
+  F: 172 akcji @ $5.41 (Obecna: $5.29, P&L: $-20.88)
+  BA: 2 akcji @ $278.07 (Obecna: $280.62, P&L: $5.10)
+  XOM: 16 akcji @ $41.42 (Obecna: $39.38, P&L: $-32.55)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-04 00:00:00]
+Gotówka: $3,295.41
+Wartość całkowita: $5,429.53
+Zwrot całkowity: $-570.47 (-9.51%)
+
+Pozycje:
+  F: 172 akcji @ $5.41 (Obecna: $5.37, P&L: $-6.53)
+  BA: 2 akcji @ $278.07 (Obecna: $283.12, P&L: $10.10)
+  XOM: 16 akcji @ $41.42 (Obecna: $40.24, P&L: $-18.79)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-05 00:00:00]
+Gotówka: $2,714.80
+Wartość całkowita: $5,221.87
+Zwrot całkowity: $-778.13 (-12.97%)
+
+Pozycje:
+  XOM: 22 akcji @ $38.71 (Obecna: $38.47, P&L: $-5.24)
+  BA: 3 akcji @ $275.79 (Obecna: $260.37, P&L: $-46.26)
+  F: 172 akcji @ $5.28 (Obecna: $5.11, P&L: $-28.71)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-06 00:00:00]
+Gotówka: $4,285.24
+Wartość całkowita: $5,127.34
+Zwrot całkowity: $-872.66 (-14.54%)
+
+Pozycje:
+  XOM: 23 akcji @ $37.50 (Obecna: $36.61, P&L: $-20.31)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-09 00:00:00]
+Gotówka: $2,624.50
+Wartość całkowita: $4,978.70
+Zwrot całkowity: $-1,021.30 (-17.02%)
+
+Pozycje:
+  XOM: 26 akcji @ $32.02 (Obecna: $32.14, P&L: $2.99)
+  BA: 3 akcji @ $238.00 (Obecna: $227.17, P&L: $-32.49)
+  F: 187 akcji @ $4.53 (Obecna: $4.48, P&L: $-9.93)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-10 00:00:00]
+Gotówka: $2,624.50
+Wartość całkowita: $5,072.24
+Zwrot całkowity: $-927.76 (-15.46%)
+
+Pozycje:
+  XOM: 26 akcji @ $32.02 (Obecna: $33.33, P&L: $33.93)
+  BA: 3 akcji @ $238.00 (Obecna: $231.01, P&L: $-20.97)
+  F: 187 akcji @ $4.53 (Obecna: $4.75, P&L: $41.15)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-11 00:00:00]
+Gotówka: $3,190.60
+Wartość całkowita: $4,865.69
+Zwrot całkowity: $-1,134.31 (-18.91%)
+
+Pozycje:
+  XOM: 26 akcji @ $32.02 (Obecna: $32.23, P&L: $5.39)
+  F: 187 akcji @ $4.53 (Obecna: $4.48, P&L: $-9.93)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-12 00:00:00]
+Gotówka: $3,055.86
+Wartość całkowita: $4,600.75
+Zwrot całkowity: $-1,399.25 (-23.32%)
+
+Pozycje:
+  XOM: 27 akcji @ $30.63 (Obecna: $28.54, P&L: $-56.38)
+  BA: 5 akcji @ $160.53 (Obecna: $154.84, P&L: $-28.45)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-13 00:00:00]
+Gotówka: $2,533.16
+Wartość całkowita: $4,635.23
+Zwrot całkowity: $-1,364.77 (-22.75%)
+
+Pozycje:
+  BA: 5 akcji @ $160.53 (Obecna: $170.20, P&L: $48.35)
+  XOM: 21 akcji @ $30.72 (Obecna: $29.27, P&L: $-30.47)
+  F: 149 akcji @ $4.45 (Obecna: $4.27, P&L: $-27.13)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-16 00:00:00]
+Gotówka: $2,865.26
+Wartość całkowita: $4,294.85
+Zwrot całkowity: $-1,705.15 (-28.42%)
+
+Pozycje:
+  XOM: 27 akcji @ $26.41 (Obecna: $26.48, P&L: $1.87)
+  F: 188 akcji @ $3.82 (Obecna: $3.80, P&L: $-4.28)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-17 00:00:00]
+Gotówka: $2,466.94
+Wartość całkowita: $4,317.03
+Zwrot całkowity: $-1,682.97 (-28.05%)
+
+Pozycje:
+  XOM: 27 akcji @ $26.41 (Obecna: $28.26, P&L: $49.96)
+  F: 188 akcji @ $3.82 (Obecna: $3.80, P&L: $-4.28)
+  BA: 3 akcji @ $132.51 (Obecna: $124.14, P&L: $-25.11)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-18 00:00:00]
+Gotówka: $2,806.39
+Wartość całkowita: $4,078.83
+Zwrot całkowity: $-1,921.17 (-32.02%)
+
+Pozycje:
+  XOM: 26 akcji @ $26.53 (Obecna: $25.43, P&L: $-28.54)
+  BA: 6 akcji @ $99.86 (Obecna: $101.89, P&L: $12.18)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-19 00:00:00]
+Gotówka: $2,806.39
+Wartość całkowita: $4,079.90
+Zwrot całkowity: $-1,920.10 (-32.00%)
+
+Pozycje:
+  XOM: 26 akcji @ $26.53 (Obecna: $26.43, P&L: $-2.40)
+  BA: 6 akcji @ $99.86 (Obecna: $97.71, P&L: $-12.90)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-20 00:00:00]
+Gotówka: $1,926.21
+Wartość całkowita: $3,915.02
+Zwrot całkowity: $-2,084.98 (-34.75%)
+
+Pozycje:
+  XOM: 26 akcji @ $26.75 (Obecna: $25.14, P&L: $-41.92)
+  BA: 7 akcji @ $99.85 (Obecna: $95.01, P&L: $-33.88)
+  F: 204 akcji @ $3.44 (Obecna: $3.29, P&L: $-32.50)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-23 00:00:00]
+Gotówka: $2,646.67
+Wartość całkowita: $3,893.06
+Zwrot całkowity: $-2,106.94 (-35.12%)
+
+Pozycje:
+  BA: 7 akcji @ $99.85 (Obecna: $105.62, P&L: $40.39)
+  XOM: 21 akcji @ $24.97 (Obecna: $24.15, P&L: $-17.41)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-24 00:00:00]
+Gotówka: $2,509.38
+Wartość całkowita: $4,181.14
+Zwrot całkowity: $-1,818.86 (-30.31%)
+
+Pozycje:
+  XOM: 21 akcji @ $24.97 (Obecna: $27.21, P&L: $46.92)
+  BA: 4 akcji @ $123.68 (Obecna: $127.68, P&L: $16.00)
+  F: 157 akcji @ $3.39 (Obecna: $3.76, P&L: $57.18)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-25 00:00:00]
+Gotówka: $2,280.00
+Wartość całkowita: $4,358.60
+Zwrot całkowity: $-1,641.40 (-27.36%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $28.63, P&L: $14.97)
+  BA: 4 akcji @ $154.90 (Obecna: $158.73, P&L: $15.32)
+  F: 178 akcji @ $4.38 (Obecna: $4.09, P&L: $-51.32)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-03-26 00:00:00]
+Gotówka: $3,190.48
+Wartość całkowita: $4,477.22
+Zwrot całkowity: $-1,522.78 (-25.38%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $29.80, P&L: $44.34)
+  BA: 3 akcji @ $172.29 (Obecna: $180.55, P&L: $24.78)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-27 00:00:00]
+Gotówka: $3,158.48
+Wartość całkowita: $4,353.67
+Zwrot całkowity: $-1,646.33 (-27.44%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $28.37, P&L: $8.44)
+  BA: 3 akcji @ $172.00 (Obecna: $162.00, P&L: $-30.00)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-30 00:00:00]
+Gotówka: $3,152.05
+Wartość całkowita: $4,328.64
+Zwrot całkowity: $-1,671.36 (-27.86%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $28.79, P&L: $19.00)
+  BA: 3 akcji @ $153.81 (Obecna: $152.28, P&L: $-4.59)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-03-31 00:00:00]
+Gotówka: $2,975.24
+Wartość całkowita: $4,301.37
+Zwrot całkowity: $-1,698.63 (-28.31%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $29.15, P&L: $28.02)
+  F: 163 akcji @ $3.82 (Obecna: $3.66, P&L: $-24.74)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-01 00:00:00]
+Gotówka: $2,345.57
+Wartość całkowita: $4,172.93
+Zwrot całkowity: $-1,827.07 (-30.45%)
+
+Pozycje:
+  XOM: 25 akcji @ $28.03 (Obecna: $28.81, P&L: $19.58)
+  BA: 4 akcji @ $138.91 (Obecna: $130.70, P&L: $-32.84)
+  F: 175 akcji @ $3.51 (Obecna: $3.34, P&L: $-30.54)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-02 00:00:00]
+Gotówka: $2,185.60
+Wartość całkowita: $4,182.33
+Zwrot całkowity: $-1,817.67 (-30.29%)
+
+Pozycje:
+  XOM: 22 akcji @ $29.74 (Obecna: $31.02, P&L: $28.04)
+  BA: 5 akcji @ $128.51 (Obecna: $123.27, P&L: $-26.20)
+  F: 211 akcji @ $3.33 (Obecna: $3.31, P&L: $-4.80)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-03 00:00:00]
+Gotówka: $2,983.40
+Wartość całkowita: $4,143.74
+Zwrot całkowity: $-1,856.26 (-30.94%)
+
+Pozycje:
+  XOM: 22 akcji @ $29.74 (Obecna: $30.10, P&L: $7.94)
+  BA: 4 akcji @ $125.00 (Obecna: $124.52, P&L: $-1.92)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-06 00:00:00]
+Gotówka: $2,444.29
+Wartość całkowita: $4,317.54
+Zwrot całkowity: $-1,682.46 (-28.04%)
+
+Pozycje:
+  XOM: 22 akcji @ $29.74 (Obecna: $31.07, P&L: $29.22)
+  BA: 4 akcji @ $133.70 (Obecna: $148.77, P&L: $60.28)
+  F: 173 akcji @ $3.44 (Obecna: $3.44, P&L: $-1.31)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-07 00:00:00]
+Gotówka: $2,444.29
+Wartość całkowita: $4,325.41
+Zwrot całkowity: $-1,674.59 (-27.91%)
+
+Pozycje:
+  XOM: 22 akcji @ $29.74 (Obecna: $31.66, P&L: $42.23)
+  BA: 4 akcji @ $133.70 (Obecna: $141.58, P&L: $31.52)
+  F: 173 akcji @ $3.44 (Obecna: $3.57, P&L: $22.31)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-08 00:00:00]
+Gotówka: $2,612.19
+Wartość całkowita: $4,476.66
+Zwrot całkowity: $-1,523.34 (-25.39%)
+
+Pozycje:
+  BA: 4 akcji @ $133.70 (Obecna: $146.87, P&L: $52.68)
+  XOM: 19 akcji @ $32.21 (Obecna: $33.66, P&L: $27.72)
+  F: 167 akcji @ $3.69 (Obecna: $3.82, P&L: $21.54)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-09 00:00:00]
+Gotówka: $2,611.27
+Wartość całkowita: $4,495.61
+Zwrot całkowity: $-1,504.39 (-25.07%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.21 (Obecna: $33.11, P&L: $17.21)
+  BA: 4 akcji @ $154.71 (Obecna: $151.84, P&L: $-11.48)
+  F: 159 akcji @ $4.18 (Obecna: $4.07, P&L: $-16.89)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-13 00:00:00]
+Gotówka: $3,820.68
+Wartość całkowita: $4,444.41
+Zwrot całkowity: $-1,555.59 (-25.93%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.21 (Obecna: $32.83, P&L: $11.82)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-14 00:00:00]
+Gotówka: $3,820.68
+Wartość całkowita: $4,439.60
+Zwrot całkowity: $-1,560.40 (-26.01%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.21 (Obecna: $32.57, P&L: $7.00)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-15 00:00:00]
+Gotówka: $2,988.16
+Wartość całkowita: $4,432.85
+Zwrot całkowity: $-1,567.15 (-26.12%)
+
+Pozycje:
+  XOM: 23 akcji @ $31.48 (Obecna: $31.08, P&L: $-9.18)
+  BA: 5 akcji @ $139.00 (Obecna: $145.98, P&L: $34.90)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-16 00:00:00]
+Gotówka: $2,149.41
+Wartość całkowita: $4,265.38
+Zwrot całkowity: $-1,734.62 (-28.91%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $30.06, P&L: $-24.51)
+  BA: 5 akcji @ $141.46 (Obecna: $134.24, P&L: $-36.10)
+  F: 193 akcji @ $3.84 (Obecna: $3.75, P&L: $-17.57)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-17 00:00:00]
+Gotówka: $2,149.41
+Wartość całkowita: $4,465.53
+Zwrot całkowity: $-1,534.47 (-25.57%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $33.18, P&L: $50.49)
+  BA: 5 akcji @ $141.46 (Obecna: $154.00, P&L: $62.70)
+  F: 193 akcji @ $3.84 (Obecna: $3.88, P&L: $8.79)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-20 00:00:00]
+Gotówka: $2,149.41
+Wartość całkowita: $4,355.49
+Zwrot całkowity: $-1,644.51 (-27.41%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $31.62, P&L: $12.90)
+  BA: 5 akcji @ $141.46 (Obecna: $143.61, P&L: $10.75)
+  F: 193 akcji @ $3.84 (Obecna: $3.78, P&L: $-11.72)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-21 00:00:00]
+Gotówka: $2,924.54
+Wartość całkowita: $4,265.57
+Zwrot całkowity: $-1,734.43 (-28.91%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $31.45, P&L: $8.84)
+  F: 162 akcji @ $3.71 (Obecna: $3.62, P&L: $-14.75)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-22 00:00:00]
+Gotówka: $2,502.44
+Wartość całkowita: $4,269.93
+Zwrot całkowity: $-1,730.07 (-28.83%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $32.34, P&L: $30.40)
+  F: 162 akcji @ $3.71 (Obecna: $3.62, P&L: $-14.75)
+  BA: 3 akcji @ $140.42 (Obecna: $134.97, P&L: $-16.35)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-23 00:00:00]
+Gotówka: $2,502.44
+Wartość całkowita: $4,317.32
+Zwrot całkowity: $-1,682.68 (-28.04%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $33.36, P&L: $54.72)
+  F: 162 akcji @ $3.71 (Obecna: $3.71, P&L: $-0.00)
+  BA: 3 akcji @ $140.42 (Obecna: $137.74, P&L: $-8.04)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-24 00:00:00]
+Gotówka: $2,476.78
+Wartość całkowita: $4,268.08
+Zwrot całkowity: $-1,731.92 (-28.87%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $33.57, P&L: $59.88)
+  F: 162 akcji @ $3.71 (Obecna: $3.70, P&L: $-2.46)
+  BA: 3 akcji @ $137.00 (Obecna: $128.98, P&L: $-24.06)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-27 00:00:00]
+Gotówka: $2,471.36
+Wartość całkowita: $4,302.50
+Zwrot całkowity: $-1,697.50 (-28.29%)
+
+Pozycje:
+  XOM: 24 akcji @ $31.08 (Obecna: $33.73, P&L: $63.75)
+  F: 162 akcji @ $3.71 (Obecna: $3.92, P&L: $34.42)
+  BA: 3 akcji @ $129.97 (Obecna: $128.68, P&L: $-3.87)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-04-28 00:00:00]
+Gotówka: $3,958.27
+Wartość całkowita: $4,352.17
+Zwrot całkowity: $-1,647.83 (-27.46%)
+
+Pozycje:
+  BA: 3 akcji @ $129.97 (Obecna: $131.30, P&L: $3.99)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-29 00:00:00]
+Gotówka: $3,958.27
+Wartość całkowita: $4,375.27
+Zwrot całkowity: $-1,624.73 (-27.08%)
+
+Pozycje:
+  BA: 3 akcji @ $129.97 (Obecna: $139.00, P&L: $27.09)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-04-30 00:00:00]
+Gotówka: $3,958.27
+Wartość całkowita: $4,381.33
+Zwrot całkowity: $-1,618.67 (-26.98%)
+
+Pozycje:
+  BA: 3 akcji @ $129.97 (Obecna: $141.02, P&L: $33.15)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-01 00:00:00]
+Gotówka: $3,286.56
+Wartość całkowita: $4,343.69
+Zwrot całkowity: $-1,656.31 (-27.61%)
+
+Pozycje:
+  BA: 3 akcji @ $129.97 (Obecna: $133.37, P&L: $10.20)
+  F: 176 akcji @ $3.81 (Obecna: $3.73, P&L: $-13.35)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-04 00:00:00]
+Gotówka: $2,656.25
+Wartość całkowita: $4,357.98
+Zwrot całkowity: $-1,642.02 (-27.37%)
+
+Pozycje:
+  BA: 3 akcji @ $129.97 (Obecna: $131.46, P&L: $4.47)
+  XOM: 19 akcji @ $32.64 (Obecna: $34.46, P&L: $34.57)
+  F: 177 akcji @ $3.70 (Obecna: $3.69, P&L: $-2.69)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-05 00:00:00]
+Gotówka: $2,499.12
+Wartość całkowita: $4,322.11
+Zwrot całkowity: $-1,677.89 (-27.96%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $34.42, P&L: $33.84)
+  F: 177 akcji @ $3.70 (Obecna: $3.77, P&L: $12.09)
+  BA: 4 akcji @ $132.88 (Obecna: $125.40, P&L: $-29.92)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-06 00:00:00]
+Gotówka: $2,985.58
+Wartość całkowita: $4,281.29
+Zwrot całkowity: $-1,718.71 (-28.65%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $33.77, P&L: $21.59)
+  F: 177 akcji @ $3.70 (Obecna: $3.70, P&L: $-1.34)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-07 00:00:00]
+Gotówka: $2,985.58
+Wartość całkowita: $4,284.94
+Zwrot całkowity: $-1,715.06 (-28.58%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $33.96, P&L: $25.24)
+  F: 177 akcji @ $3.70 (Obecna: $3.70, P&L: $-1.34)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-08 00:00:00]
+Gotówka: $2,587.08
+Wartość całkowita: $4,364.74
+Zwrot całkowity: $-1,635.26 (-27.25%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $35.45, P&L: $53.53)
+  F: 177 akcji @ $3.70 (Obecna: $3.98, P&L: $48.35)
+  BA: 3 akcji @ $132.57 (Obecna: $133.44, P&L: $2.61)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-11 00:00:00]
+Gotówka: $2,587.08
+Wartość całkowita: $4,328.62
+Zwrot całkowity: $-1,671.38 (-27.86%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $35.12, P&L: $47.12)
+  F: 177 akcji @ $3.70 (Obecna: $3.88, P&L: $32.23)
+  BA: 3 akcji @ $132.57 (Obecna: $128.91, P&L: $-10.98)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-12 00:00:00]
+Gotówka: $2,572.05
+Wartość całkowita: $4,272.57
+Zwrot całkowity: $-1,727.43 (-28.79%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $34.53, P&L: $35.96)
+  F: 177 akcji @ $3.70 (Obecna: $3.78, P&L: $13.43)
+  BA: 3 akcji @ $129.72 (Obecna: $125.22, P&L: $-13.50)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-13 00:00:00]
+Gotówka: $3,568.44
+Wartość całkowita: $4,191.93
+Zwrot całkowity: $-1,808.07 (-30.13%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $32.82, P&L: $3.40)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-14 00:00:00]
+Gotówka: $3,091.57
+Wartość całkowita: $4,210.64
+Zwrot całkowity: $-1,789.36 (-29.82%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $33.10, P&L: $8.90)
+  BA: 4 akcji @ $118.98 (Obecna: $122.52, P&L: $14.16)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-15 00:00:00]
+Gotówka: $2,587.97
+Wartość całkowita: $4,205.56
+Zwrot całkowity: $-1,794.44 (-29.91%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $32.87, P&L: $4.44)
+  BA: 4 akcji @ $118.98 (Obecna: $120.00, P&L: $4.08)
+  F: 138 akcji @ $3.64 (Obecna: $3.72, P&L: $10.47)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-18 00:00:00]
+Gotówka: $3,177.80
+Wartość całkowita: $4,393.75
+Zwrot całkowity: $-1,606.25 (-26.77%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $35.48, P&L: $54.10)
+  BA: 4 akcji @ $126.18 (Obecna: $135.44, P&L: $37.04)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-19 00:00:00]
+Gotówka: $3,177.80
+Wartość całkowita: $4,352.93
+Zwrot całkowity: $-1,647.07 (-27.45%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $34.39, P&L: $33.29)
+  BA: 4 akcji @ $126.18 (Obecna: $130.44, P&L: $17.04)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-20 00:00:00]
+Gotówka: $2,658.34
+Wartość całkowita: $4,395.28
+Zwrot całkowity: $-1,604.72 (-26.75%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $35.51, P&L: $54.55)
+  BA: 4 akcji @ $126.18 (Obecna: $133.32, P&L: $28.56)
+  F: 127 akcji @ $4.08 (Obecna: $4.17, P&L: $10.60)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-21 00:00:00]
+Gotówka: $2,801.40
+Wartość całkowita: $4,423.51
+Zwrot całkowity: $-1,576.49 (-26.27%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $34.87, P&L: $42.51)
+  F: 127 akcji @ $4.08 (Obecna: $4.27, P&L: $24.09)
+  BA: 3 akcji @ $137.00 (Obecna: $139.00, P&L: $6.00)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-22 00:00:00]
+Gotówka: $2,801.40
+Wartość całkowita: $4,421.62
+Zwrot całkowity: $-1,578.38 (-26.31%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.64 (Obecna: $34.90, P&L: $43.10)
+  F: 127 akcji @ $4.08 (Obecna: $4.29, P&L: $26.02)
+  BA: 3 akcji @ $137.00 (Obecna: $137.53, P&L: $1.59)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-26 00:00:00]
+Gotówka: $2,908.81
+Wartość całkowita: $4,480.63
+Zwrot całkowity: $-1,519.37 (-25.32%)
+
+Pozycje:
+  F: 127 akcji @ $4.08 (Obecna: $4.43, P&L: $44.33)
+  BA: 3 akcji @ $137.00 (Obecna: $144.73, P&L: $23.19)
+  XOM: 16 akcji @ $35.80 (Obecna: $35.93, P&L: $2.13)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-27 00:00:00]
+Gotówka: $2,908.42
+Wartość całkowita: $4,517.05
+Zwrot całkowity: $-1,482.95 (-24.72%)
+
+Pozycje:
+  BA: 3 akcji @ $137.00 (Obecna: $149.52, P&L: $37.56)
+  XOM: 16 akcji @ $35.80 (Obecna: $36.19, P&L: $6.26)
+  F: 127 akcji @ $4.56 (Obecna: $4.58, P&L: $1.93)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-05-28 00:00:00]
+Gotówka: $2,908.42
+Wartość całkowita: $4,485.58
+Zwrot całkowity: $-1,514.42 (-25.24%)
+
+Pozycje:
+  BA: 3 akcji @ $137.00 (Obecna: $149.82, P&L: $38.46)
+  XOM: 16 akcji @ $35.80 (Obecna: $35.25, P&L: $-8.77)
+  F: 127 akcji @ $4.56 (Obecna: $4.44, P&L: $-15.42)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-05-29 00:00:00]
+Gotówka: $3,457.54
+Wartość całkowita: $4,464.46
+Zwrot całkowity: $-1,535.54 (-25.59%)
+
+Pozycje:
+  BA: 3 akcji @ $137.00 (Obecna: $145.85, P&L: $26.55)
+  XOM: 16 akcji @ $35.80 (Obecna: $35.59, P&L: $-3.38)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-01 00:00:00]
+Gotówka: $3,274.78
+Wartość całkowita: $4,504.55
+Zwrot całkowity: $-1,495.45 (-24.92%)
+
+Pozycje:
+  XOM: 16 akcji @ $35.80 (Obecna: $36.22, P&L: $6.76)
+  F: 146 akcji @ $4.35 (Obecna: $4.45, P&L: $15.51)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-02 00:00:00]
+Gotówka: $3,274.78
+Wartość całkowita: $4,520.77
+Zwrot całkowity: $-1,479.23 (-24.65%)
+
+Pozycje:
+  XOM: 16 akcji @ $35.80 (Obecna: $37.03, P&L: $19.66)
+  F: 146 akcji @ $4.35 (Obecna: $4.48, P&L: $18.83)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-03 00:00:00]
+Gotówka: $2,802.53
+Wartość całkowita: $4,624.31
+Zwrot całkowity: $-1,375.69 (-22.93%)
+
+Pozycje:
+  XOM: 16 akcji @ $35.80 (Obecna: $38.54, P&L: $43.83)
+  F: 146 akcji @ $4.35 (Obecna: $4.70, P&L: $50.96)
+  BA: 3 akcji @ $157.10 (Obecna: $173.16, P&L: $48.18)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-04 00:00:00]
+Gotówka: $2,894.70
+Wartość całkowita: $4,740.38
+Zwrot całkowity: $-1,259.62 (-20.99%)
+
+Pozycje:
+  XOM: 16 akcji @ $35.80 (Obecna: $38.43, P&L: $42.07)
+  BA: 3 akcji @ $181.28 (Obecna: $184.30, P&L: $9.06)
+  F: 136 akcji @ $4.70 (Obecna: $4.98, P&L: $38.18)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-05 00:00:00]
+Gotówka: $2,734.06
+Wartość całkowita: $4,958.31
+Zwrot całkowity: $-1,041.69 (-17.36%)
+
+Pozycje:
+  XOM: 19 akcji @ $40.42 (Obecna: $41.54, P&L: $21.26)
+  BA: 3 akcji @ $205.00 (Obecna: $205.43, P&L: $1.29)
+  F: 147 akcji @ $5.49 (Obecna: $5.57, P&L: $11.15)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-08 00:00:00]
+Gotówka: $2,977.41
+Wartość całkowita: $5,092.24
+Zwrot całkowity: $-907.76 (-15.13%)
+
+Pozycje:
+  XOM: 19 akcji @ $40.42 (Obecna: $42.84, P&L: $45.95)
+  F: 147 akcji @ $5.49 (Obecna: $5.71, P&L: $32.35)
+  BA: 2 akcji @ $222.94 (Obecna: $230.50, P&L: $15.12)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-09 00:00:00]
+Gotówka: $2,977.41
+Wartość całkowita: $5,014.24
+Zwrot całkowity: $-985.76 (-16.43%)
+
+Pozycje:
+  XOM: 19 akcji @ $40.42 (Obecna: $41.89, P&L: $27.81)
+  F: 147 akcji @ $5.49 (Obecna: $5.49, P&L: $-0.00)
+  BA: 2 akcji @ $222.94 (Obecna: $216.74, P&L: $-12.40)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-10 00:00:00]
+Gotówka: $2,765.50
+Wartość całkowita: $4,816.11
+Zwrot całkowity: $-1,183.89 (-19.73%)
+
+Pozycje:
+  XOM: 19 akcji @ $40.42 (Obecna: $39.64, P&L: $-14.87)
+  BA: 3 akcji @ $211.17 (Obecna: $203.41, P&L: $-23.28)
+  F: 133 akcji @ $5.56 (Obecna: $5.17, P&L: $-52.48)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-11 00:00:00]
+Gotówka: $3,101.49
+Wartość całkowita: $4,544.28
+Zwrot całkowity: $-1,455.72 (-24.26%)
+
+Pozycje:
+  BA: 4 akcji @ $179.35 (Obecna: $170.00, P&L: $-37.40)
+  F: 164 akcji @ $4.61 (Obecna: $4.65, P&L: $7.47)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-12 00:00:00]
+Gotówka: $2,574.08
+Wartość całkowita: $4,652.80
+Zwrot całkowity: $-1,347.20 (-22.45%)
+
+Pozycje:
+  BA: 4 akcji @ $179.35 (Obecna: $189.51, P&L: $40.64)
+  F: 164 akcji @ $4.61 (Obecna: $4.90, P&L: $48.53)
+  XOM: 14 akcji @ $37.60 (Obecna: $36.92, P&L: $-9.53)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-15 00:00:00]
+Gotówka: $2,574.08
+Wartość całkowita: $4,663.16
+Zwrot całkowity: $-1,336.84 (-22.28%)
+
+Pozycje:
+  BA: 4 akcji @ $179.35 (Obecna: $190.94, P&L: $46.36)
+  F: 164 akcji @ $4.61 (Obecna: $4.93, P&L: $53.51)
+  XOM: 14 akcji @ $37.60 (Obecna: $36.89, P&L: $-9.86)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-16 00:00:00]
+Gotówka: $2,948.45
+Wartość całkowita: $4,687.15
+Zwrot całkowity: $-1,312.85 (-21.88%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.97, P&L: $59.73)
+  XOM: 14 akcji @ $37.60 (Obecna: $37.72, P&L: $1.75)
+  BA: 2 akcji @ $207.15 (Obecna: $197.77, P&L: $-18.76)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-17 00:00:00]
+Gotówka: $2,942.94
+Wartość całkowita: $4,626.60
+Zwrot całkowity: $-1,373.40 (-22.89%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.80, P&L: $32.35)
+  XOM: 14 akcji @ $37.60 (Obecna: $36.49, P&L: $-15.45)
+  BA: 2 akcji @ $194.52 (Obecna: $192.54, P&L: $-3.96)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-18 00:00:00]
+Gotówka: $2,942.94
+Wartość całkowita: $4,629.28
+Zwrot całkowity: $-1,370.72 (-22.85%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.80, P&L: $32.35)
+  XOM: 14 akcji @ $37.60 (Obecna: $36.72, P&L: $-12.27)
+  BA: 2 akcji @ $194.52 (Obecna: $192.29, P&L: $-4.46)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-19 00:00:00]
+Gotówka: $2,581.30
+Wartość całkowita: $4,529.33
+Zwrot całkowity: $-1,470.67 (-24.51%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.73, P&L: $19.91)
+  XOM: 17 akcji @ $37.74 (Obecna: $35.98, P&L: $-29.80)
+  BA: 3 akcji @ $197.90 (Obecna: $187.02, P&L: $-32.64)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-22 00:00:00]
+Gotówka: $2,598.20
+Wartość całkowita: $4,562.81
+Zwrot całkowity: $-1,437.19 (-23.95%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.76, P&L: $26.13)
+  XOM: 17 akcji @ $35.76 (Obecna: $36.33, P&L: $9.71)
+  BA: 3 akcji @ $184.56 (Obecna: $188.52, P&L: $11.88)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-23 00:00:00]
+Gotówka: $2,598.20
+Wartość całkowita: $4,548.44
+Zwrot całkowity: $-1,451.56 (-24.19%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.67, P&L: $9.95)
+  XOM: 17 akcji @ $35.76 (Obecna: $36.55, P&L: $13.44)
+  BA: 3 akcji @ $184.56 (Obecna: $187.88, P&L: $9.96)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-24 00:00:00]
+Gotówka: $2,759.26
+Wartość całkowita: $4,445.08
+Zwrot całkowity: $-1,554.92 (-25.92%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.51, P&L: $-14.93)
+  XOM: 17 akcji @ $35.76 (Obecna: $34.83, P&L: $-15.83)
+  BA: 2 akcji @ $183.61 (Obecna: $176.69, P&L: $-13.84)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-25 00:00:00]
+Gotówka: $2,767.90
+Wartość całkowita: $4,468.96
+Zwrot całkowity: $-1,531.04 (-25.52%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.58, P&L: $-4.98)
+  XOM: 17 akcji @ $35.76 (Obecna: $35.35, P&L: $-6.92)
+  BA: 2 akcji @ $169.87 (Obecna: $174.88, P&L: $10.02)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-26 00:00:00]
+Gotówka: $2,783.97
+Wartość całkowita: $4,405.61
+Zwrot całkowity: $-1,594.39 (-26.57%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.48, P&L: $-19.91)
+  BA: 2 akcji @ $169.87 (Obecna: $170.01, P&L: $0.28)
+  XOM: 16 akcji @ $35.12 (Obecna: $34.14, P&L: $-15.78)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-06-29 00:00:00]
+Gotówka: $2,809.45
+Wartość całkowita: $4,501.26
+Zwrot całkowity: $-1,498.74 (-24.98%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.56, P&L: $-7.47)
+  XOM: 16 akcji @ $35.12 (Obecna: $34.69, P&L: $-7.01)
+  BA: 2 akcji @ $181.00 (Obecna: $194.49, P&L: $26.98)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-06-30 00:00:00]
+Gotówka: $2,809.45
+Wartość całkowita: $4,492.59
+Zwrot całkowity: $-1,507.41 (-25.12%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.61, P&L: $1.24)
+  XOM: 16 akcji @ $35.12 (Obecna: $35.00, P&L: $-2.00)
+  BA: 2 akcji @ $181.00 (Obecna: $183.30, P&L: $4.60)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-01 00:00:00]
+Gotówka: $2,809.45
+Wartość całkowita: $4,461.54
+Zwrot całkowity: $-1,538.46 (-25.64%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.54, P&L: $-11.20)
+  XOM: 16 akcji @ $35.12 (Obecna: $34.21, P&L: $-14.65)
+  BA: 2 akcji @ $181.00 (Obecna: $180.32, P&L: $-1.36)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-02 00:00:00]
+Gotówka: $2,809.45
+Wartość całkowita: $4,475.87
+Zwrot całkowity: $-1,524.13 (-25.40%)
+
+Pozycje:
+  F: 164 akcji @ $4.61 (Obecna: $4.59, P&L: $-2.49)
+  XOM: 16 akcji @ $35.12 (Obecna: $34.50, P&L: $-10.02)
+  BA: 2 akcji @ $181.00 (Obecna: $180.81, P&L: $-0.38)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-06 00:00:00]
+Gotówka: $3,578.16
+Wartość całkowita: $4,509.83
+Zwrot całkowity: $-1,490.17 (-24.84%)
+
+Pozycje:
+  XOM: 16 akcji @ $35.12 (Obecna: $34.74, P&L: $-6.14)
+  BA: 2 akcji @ $181.00 (Obecna: $187.91, P&L: $13.82)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-07 00:00:00]
+Gotówka: $3,430.02
+Wartość całkowita: $4,464.58
+Zwrot całkowity: $-1,535.42 (-25.59%)
+
+Pozycje:
+  BA: 2 akcji @ $181.00 (Obecna: $178.88, P&L: $-4.24)
+  XOM: 20 akcji @ $34.36 (Obecna: $33.84, P&L: $-10.33)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-08 00:00:00]
+Gotówka: $3,430.02
+Wartość całkowita: $4,465.42
+Zwrot całkowity: $-1,534.58 (-25.58%)
+
+Pozycje:
+  BA: 2 akcji @ $181.00 (Obecna: $180.08, P&L: $-1.84)
+  XOM: 20 akcji @ $34.36 (Obecna: $33.76, P&L: $-11.90)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-09 00:00:00]
+Gotówka: $3,653.38
+Wartość całkowita: $4,388.95
+Zwrot całkowity: $-1,611.05 (-26.85%)
+
+Pozycje:
+  F: 166 akcji @ $4.62 (Obecna: $4.43, P&L: $-31.49)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-10 00:00:00]
+Gotówka: $2,556.83
+Wartość całkowita: $4,461.28
+Zwrot całkowity: $-1,538.72 (-25.65%)
+
+Pozycje:
+  F: 166 akcji @ $4.62 (Obecna: $4.63, P&L: $1.26)
+  XOM: 18 akcji @ $32.18 (Obecna: $33.38, P&L: $21.55)
+  BA: 3 akcji @ $171.70 (Obecna: $178.44, P&L: $20.22)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-13 00:00:00]
+Gotówka: $2,556.83
+Wartość całkowita: $4,448.01
+Zwrot całkowity: $-1,551.99 (-25.87%)
+
+Pozycje:
+  F: 166 akcji @ $4.62 (Obecna: $4.60, P&L: $-3.78)
+  XOM: 18 akcji @ $32.18 (Obecna: $33.39, P&L: $21.69)
+  BA: 3 akcji @ $171.70 (Obecna: $175.65, P&L: $11.85)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-14 00:00:00]
+Gotówka: $2,556.83
+Wartość całkowita: $4,518.59
+Zwrot całkowity: $-1,481.41 (-24.69%)
+
+Pozycje:
+  F: 166 akcji @ $4.62 (Obecna: $4.83, P&L: $34.01)
+  XOM: 18 akcji @ $32.18 (Obecna: $34.49, P&L: $41.56)
+  BA: 3 akcji @ $171.70 (Obecna: $179.96, P&L: $24.78)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-15 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,612.18
+Zwrot całkowity: $-1,387.82 (-23.13%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.93, P&L: $49.45)
+  BA: 3 akcji @ $171.70 (Obecna: $187.94, P&L: $48.72)
+  F: 110 akcji @ $4.96 (Obecna: $5.11, P&L: $16.69)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-16 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,589.55
+Zwrot całkowity: $-1,410.45 (-23.51%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.65, P&L: $44.52)
+  BA: 3 akcji @ $171.70 (Obecna: $178.70, P&L: $21.00)
+  F: 110 akcji @ $4.96 (Obecna: $5.21, P&L: $26.71)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-17 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,564.71
+Zwrot całkowity: $-1,435.29 (-23.92%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.06, P&L: $33.81)
+  BA: 3 akcji @ $171.70 (Obecna: $175.66, P&L: $11.88)
+  F: 110 akcji @ $4.96 (Obecna: $5.16, P&L: $21.70)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-20 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,534.94
+Zwrot całkowity: $-1,465.06 (-24.42%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $33.26, P&L: $19.44)
+  BA: 3 akcji @ $171.70 (Obecna: $174.42, P&L: $8.16)
+  F: 110 akcji @ $4.96 (Obecna: $5.05, P&L: $10.02)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-21 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,579.53
+Zwrot całkowity: $-1,420.47 (-23.67%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.94, P&L: $49.73)
+  BA: 3 akcji @ $171.70 (Obecna: $178.63, P&L: $20.79)
+  F: 110 akcji @ $4.96 (Obecna: $5.07, P&L: $11.68)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-22 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,581.71
+Zwrot całkowity: $-1,418.29 (-23.64%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.13, P&L: $35.08)
+  BA: 3 akcji @ $171.70 (Obecna: $179.79, P&L: $24.27)
+  F: 110 akcji @ $4.96 (Obecna: $5.19, P&L: $25.04)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-23 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,584.64
+Zwrot całkowity: $-1,415.36 (-23.59%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.20, P&L: $36.34)
+  BA: 3 akcji @ $171.70 (Obecna: $176.45, P&L: $14.25)
+  F: 110 akcji @ $4.96 (Obecna: $5.30, P&L: $36.72)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-24 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,564.42
+Zwrot całkowity: $-1,435.58 (-23.93%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $33.99, P&L: $32.54)
+  BA: 3 akcji @ $171.70 (Obecna: $173.76, P&L: $6.18)
+  F: 110 akcji @ $4.96 (Obecna: $5.22, P&L: $28.38)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-27 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,566.96
+Zwrot całkowity: $-1,433.04 (-23.88%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.49, P&L: $41.56)
+  BA: 3 akcji @ $171.70 (Obecna: $170.21, P&L: $-4.47)
+  F: 110 akcji @ $4.96 (Obecna: $5.26, P&L: $32.55)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-28 00:00:00]
+Gotówka: $2,857.12
+Wartość całkowita: $4,568.20
+Zwrot całkowity: $-1,431.80 (-23.86%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.08, P&L: $34.23)
+  BA: 3 akcji @ $171.70 (Obecna: $170.84, P&L: $-2.58)
+  F: 110 akcji @ $4.96 (Obecna: $5.32, P&L: $39.23)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-29 00:00:00]
+Gotówka: $2,834.41
+Wartość całkowita: $4,530.26
+Zwrot całkowity: $-1,469.74 (-24.50%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $34.46, P&L: $40.99)
+  F: 110 akcji @ $4.96 (Obecna: $5.25, P&L: $31.72)
+  BA: 3 akcji @ $172.90 (Obecna: $166.01, P&L: $-20.67)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-07-30 00:00:00]
+Gotówka: $3,319.29
+Wartość całkowita: $4,471.66
+Zwrot całkowity: $-1,528.34 (-25.47%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $32.77, P&L: $10.57)
+  F: 110 akcji @ $4.96 (Obecna: $5.11, P&L: $16.69)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-07-31 00:00:00]
+Gotówka: $3,319.29
+Wartość całkowita: $4,463.77
+Zwrot całkowity: $-1,536.23 (-25.60%)
+
+Pozycje:
+  XOM: 18 akcji @ $32.18 (Obecna: $32.93, P&L: $13.52)
+  F: 110 akcji @ $4.96 (Obecna: $5.02, P&L: $5.84)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-03 00:00:00]
+Gotówka: $2,659.47
+Wartość całkowita: $4,495.16
+Zwrot całkowity: $-1,504.84 (-25.08%)
+
+Pozycje:
+  F: 110 akcji @ $4.96 (Obecna: $5.08, P&L: $12.52)
+  XOM: 19 akcji @ $32.91 (Obecna: $33.07, P&L: $2.97)
+  BA: 4 akcji @ $156.51 (Obecna: $162.27, P&L: $23.04)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-04 00:00:00]
+Gotówka: $2,659.47
+Wartość całkowita: $4,538.69
+Zwrot całkowity: $-1,461.31 (-24.36%)
+
+Pozycje:
+  F: 110 akcji @ $4.96 (Obecna: $5.21, P&L: $26.71)
+  XOM: 19 akcji @ $32.91 (Obecna: $34.02, P&L: $21.12)
+  BA: 4 akcji @ $156.51 (Obecna: $165.07, P&L: $34.24)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-05 00:00:00]
+Gotówka: $2,851.39
+Wartość całkowita: $4,607.16
+Zwrot całkowity: $-1,392.84 (-23.21%)
+
+Pozycje:
+  F: 110 akcji @ $4.96 (Obecna: $5.28, P&L: $35.05)
+  XOM: 19 akcji @ $32.91 (Obecna: $34.32, P&L: $26.77)
+  BA: 3 akcji @ $167.60 (Obecna: $174.28, P&L: $20.04)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-06 00:00:00]
+Gotówka: $2,851.39
+Wartość całkowita: $4,595.30
+Zwrot całkowity: $-1,404.70 (-23.41%)
+
+Pozycje:
+  F: 110 akcji @ $4.96 (Obecna: $5.26, P&L: $32.55)
+  XOM: 19 akcji @ $32.91 (Obecna: $34.15, P&L: $23.64)
+  BA: 3 akcji @ $167.60 (Obecna: $172.20, P&L: $13.80)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-07 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,576.83
+Zwrot całkowity: $-1,423.17 (-23.72%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $34.00, P&L: $20.67)
+  BA: 3 akcji @ $167.60 (Obecna: $170.02, P&L: $7.26)
+  F: 109 akcji @ $5.21 (Obecna: $5.21, P&L: $-0.83)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-10 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,639.94
+Zwrot całkowity: $-1,360.06 (-22.67%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $34.83, P&L: $36.58)
+  BA: 3 akcji @ $167.60 (Obecna: $179.41, P&L: $35.43)
+  F: 109 akcji @ $5.21 (Obecna: $5.38, P&L: $18.19)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-11 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,660.51
+Zwrot całkowity: $-1,339.49 (-22.32%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $35.19, P&L: $43.42)
+  BA: 3 akcji @ $167.60 (Obecna: $180.13, P&L: $37.59)
+  F: 109 akcji @ $5.21 (Obecna: $5.49, P&L: $29.77)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-12 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,636.37
+Zwrot całkowity: $-1,363.63 (-22.73%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $35.19, P&L: $43.27)
+  BA: 3 akcji @ $167.60 (Obecna: $175.44, P&L: $23.52)
+  F: 109 akcji @ $5.21 (Obecna: $5.39, P&L: $19.85)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-13 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,611.25
+Zwrot całkowity: $-1,388.75 (-23.15%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $34.32, P&L: $26.89)
+  BA: 3 akcji @ $167.60 (Obecna: $174.73, P&L: $21.39)
+  F: 109 akcji @ $5.21 (Obecna: $5.33, P&L: $13.23)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-14 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,625.00
+Zwrot całkowity: $-1,375.00 (-22.92%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $34.48, P&L: $29.77)
+  BA: 3 akcji @ $167.60 (Obecna: $178.08, P&L: $31.44)
+  F: 109 akcji @ $5.21 (Obecna: $5.34, P&L: $14.06)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-17 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,593.34
+Zwrot całkowity: $-1,406.66 (-23.44%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $34.03, P&L: $21.28)
+  BA: 3 akcji @ $167.60 (Obecna: $172.01, P&L: $13.23)
+  F: 109 akcji @ $5.21 (Obecna: $5.30, P&L: $9.10)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-18 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,577.37
+Zwrot całkowity: $-1,422.63 (-23.71%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $33.86, P&L: $18.10)
+  BA: 3 akcji @ $167.60 (Obecna: $170.23, P&L: $7.89)
+  F: 109 akcji @ $5.21 (Obecna: $5.23, P&L: $1.65)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-19 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,565.71
+Zwrot całkowity: $-1,434.29 (-23.90%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $33.49, P&L: $10.97)
+  BA: 3 akcji @ $167.60 (Obecna: $169.27, P&L: $5.01)
+  F: 109 akcji @ $5.21 (Obecna: $5.21, P&L: $-0.00)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-20 00:00:00]
+Gotówka: $2,853.48
+Wartość całkowita: $4,554.46
+Zwrot całkowity: $-1,445.54 (-24.09%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $32.98, P&L: $1.27)
+  BA: 3 akcji @ $167.60 (Obecna: $169.58, P&L: $5.94)
+  F: 109 akcji @ $5.21 (Obecna: $5.19, P&L: $-2.48)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-21 00:00:00]
+Gotówka: $2,825.87
+Wartość całkowita: $4,516.18
+Zwrot całkowity: $-1,483.82 (-24.73%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $32.73, P&L: $-3.43)
+  BA: 3 akcji @ $167.60 (Obecna: $167.50, P&L: $-0.30)
+  F: 112 akcji @ $5.14 (Obecna: $5.05, P&L: $-10.20)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-24 00:00:00]
+Gotówka: $2,825.87
+Wartość całkowita: $4,594.03
+Zwrot całkowity: $-1,405.97 (-23.43%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $33.69, P&L: $14.91)
+  BA: 3 akcji @ $167.60 (Obecna: $178.27, P&L: $32.01)
+  F: 112 akcji @ $5.14 (Obecna: $5.30, P&L: $17.00)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-08-25 00:00:00]
+Gotówka: $2,825.87
+Wartość całkowita: $4,559.69
+Zwrot całkowity: $-1,440.31 (-24.01%)
+
+Pozycje:
+  XOM: 19 akcji @ $32.91 (Obecna: $32.62, P&L: $-5.41)
+  BA: 3 akcji @ $167.60 (Obecna: $174.73, P&L: $21.39)
+  F: 112 akcji @ $5.14 (Obecna: $5.27, P&L: $13.60)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-26 00:00:00]
+Gotówka: $2,878.87
+Wartość całkowita: $4,516.95
+Zwrot całkowity: $-1,483.05 (-24.72%)
+
+Pozycje:
+  BA: 3 akcji @ $167.60 (Obecna: $171.90, P&L: $12.90)
+  F: 112 akcji @ $5.14 (Obecna: $5.17, P&L: $3.40)
+  XOM: 17 akcji @ $32.43 (Obecna: $31.93, P&L: $-8.55)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-27 00:00:00]
+Gotówka: $2,878.87
+Wartość całkowita: $4,527.83
+Zwrot całkowity: $-1,472.17 (-24.54%)
+
+Pozycje:
+  BA: 3 akcji @ $167.60 (Obecna: $174.20, P&L: $19.80)
+  F: 112 akcji @ $5.14 (Obecna: $5.24, P&L: $11.05)
+  XOM: 17 akcji @ $32.43 (Obecna: $31.71, P&L: $-12.21)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-28 00:00:00]
+Gotówka: $2,878.83
+Wartość całkowita: $4,548.04
+Zwrot całkowity: $-1,451.96 (-24.20%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.27, P&L: $13.60)
+  XOM: 17 akcji @ $32.43 (Obecna: $32.47, P&L: $0.68)
+  BA: 3 akcji @ $175.11 (Obecna: $175.80, P&L: $2.07)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-08-31 00:00:00]
+Gotówka: $2,878.83
+Wartość całkowita: $4,515.72
+Zwrot całkowity: $-1,484.28 (-24.74%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.17, P&L: $3.40)
+  XOM: 17 akcji @ $32.43 (Obecna: $31.87, P&L: $-9.50)
+  BA: 3 akcji @ $175.11 (Obecna: $171.82, P&L: $-9.87)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-01 00:00:00]
+Gotówka: $2,878.83
+Wartość całkowita: $4,510.49
+Zwrot całkowity: $-1,489.51 (-24.83%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.18, P&L: $4.25)
+  XOM: 17 akcji @ $32.43 (Obecna: $31.47, P&L: $-16.42)
+  BA: 3 akcji @ $175.11 (Obecna: $172.10, P&L: $-9.03)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-02 00:00:00]
+Gotówka: $2,844.79
+Wartość całkowita: $4,522.71
+Zwrot całkowity: $-1,477.29 (-24.62%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.27, P&L: $14.45)
+  BA: 3 akcji @ $175.11 (Obecna: $174.78, P&L: $-0.99)
+  XOM: 18 akcji @ $31.31 (Obecna: $31.28, P&L: $-0.57)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-03 00:00:00]
+Gotówka: $3,350.09
+Wartość całkowita: $4,491.47
+Zwrot całkowity: $-1,508.53 (-25.14%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.17, P&L: $3.40)
+  XOM: 18 akcji @ $31.31 (Obecna: $31.21, P&L: $-1.72)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-04 00:00:00]
+Gotówka: $2,835.13
+Wartość całkowita: $4,496.03
+Zwrot całkowity: $-1,503.97 (-25.07%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.24, P&L: $10.20)
+  XOM: 18 akcji @ $31.31 (Obecna: $31.19, P&L: $-2.15)
+  BA: 3 akcji @ $171.31 (Obecna: $171.05, P&L: $-0.78)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-08 00:00:00]
+Gotówka: $2,819.01
+Wartość całkowita: $4,448.12
+Zwrot całkowity: $-1,551.88 (-25.86%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.33, P&L: $21.24)
+  XOM: 18 akcji @ $31.31 (Obecna: $30.47, P&L: $-15.08)
+  BA: 3 akcji @ $165.80 (Obecna: $161.08, P&L: $-14.16)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-09 00:00:00]
+Gotówka: $3,358.65
+Wartość całkowita: $4,433.30
+Zwrot całkowity: $-1,566.70 (-26.11%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.29, P&L: $16.15)
+  BA: 3 akcji @ $161.61 (Obecna: $160.78, P&L: $-2.49)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-10 00:00:00]
+Gotówka: $3,358.65
+Wartość całkowita: $4,418.93
+Zwrot całkowity: $-1,581.07 (-26.35%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.24, P&L: $11.05)
+  BA: 3 akcji @ $161.61 (Obecna: $157.69, P&L: $-11.76)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-11 00:00:00]
+Gotówka: $2,794.52
+Wartość całkowita: $4,429.59
+Zwrot całkowity: $-1,570.41 (-26.17%)
+
+Pozycje:
+  F: 112 akcji @ $5.14 (Obecna: $5.31, P&L: $18.70)
+  BA: 3 akcji @ $161.61 (Obecna: $160.23, P&L: $-4.14)
+  XOM: 19 akcji @ $29.63 (Obecna: $29.45, P&L: $-3.49)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-14 00:00:00]
+Gotówka: $2,844.10
+Wartość całkowita: $4,457.87
+Zwrot całkowity: $-1,542.13 (-25.70%)
+
+Pozycje:
+  BA: 3 akcji @ $161.61 (Obecna: $165.35, P&L: $11.22)
+  XOM: 19 akcji @ $29.63 (Obecna: $29.26, P&L: $-7.13)
+  F: 104 akcji @ $5.32 (Obecna: $5.40, P&L: $8.68)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-15 00:00:00]
+Gotówka: $2,844.10
+Wartość całkowita: $4,440.06
+Zwrot całkowity: $-1,559.94 (-26.00%)
+
+Pozycje:
+  BA: 3 akcji @ $161.61 (Obecna: $163.49, P&L: $5.64)
+  XOM: 19 akcji @ $29.63 (Obecna: $28.95, P&L: $-13.04)
+  F: 104 akcji @ $5.32 (Obecna: $5.34, P&L: $2.37)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-16 00:00:00]
+Gotówka: $2,844.10
+Wartość całkowita: $4,473.75
+Zwrot całkowity: $-1,526.25 (-25.44%)
+
+Pozycje:
+  BA: 3 akcji @ $161.61 (Obecna: $167.46, P&L: $17.55)
+  XOM: 19 akcji @ $29.63 (Obecna: $30.17, P&L: $10.31)
+  F: 104 akcji @ $5.32 (Obecna: $5.33, P&L: $0.79)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-17 00:00:00]
+Gotówka: $2,844.10
+Wartość całkowita: $4,494.32
+Zwrot całkowity: $-1,505.68 (-25.09%)
+
+Pozycje:
+  BA: 3 akcji @ $161.61 (Obecna: $167.53, P&L: $17.76)
+  XOM: 19 akcji @ $29.63 (Obecna: $30.17, P&L: $10.16)
+  F: 104 akcji @ $5.32 (Obecna: $5.52, P&L: $21.31)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-18 00:00:00]
+Gotówka: $2,844.10
+Wartość całkowita: $4,461.96
+Zwrot całkowity: $-1,538.04 (-25.63%)
+
+Pozycje:
+  BA: 3 akcji @ $161.61 (Obecna: $161.14, P&L: $-1.41)
+  XOM: 19 akcji @ $29.63 (Obecna: $29.68, P&L: $0.91)
+  F: 104 akcji @ $5.32 (Obecna: $5.49, P&L: $17.36)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-21 00:00:00]
+Gotówka: $2,837.78
+Wartość całkowita: $4,401.33
+Zwrot całkowity: $-1,598.67 (-26.64%)
+
+Pozycje:
+  XOM: 19 akcji @ $29.63 (Obecna: $29.07, P&L: $-10.61)
+  F: 104 akcji @ $5.32 (Obecna: $5.21, P&L: $-11.05)
+  BA: 3 akcji @ $157.83 (Obecna: $156.35, P&L: $-4.44)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-22 00:00:00]
+Gotówka: $3,249.36
+Wartość całkowita: $4,367.95
+Zwrot całkowity: $-1,632.05 (-27.20%)
+
+Pozycje:
+  BA: 3 akcji @ $157.83 (Obecna: $156.80, P&L: $-3.09)
+  F: 126 akcji @ $5.23 (Obecna: $5.14, P&L: $-10.52)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-23 00:00:00]
+Gotówka: $2,964.58
+Wartość całkowita: $4,289.75
+Zwrot całkowity: $-1,710.25 (-28.50%)
+
+Pozycje:
+  BA: 4 akcji @ $157.33 (Obecna: $151.18, P&L: $-24.60)
+  F: 143 akcji @ $5.17 (Obecna: $5.04, P&L: $-18.45)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-24 00:00:00]
+Gotówka: $2,969.94
+Wartość całkowita: $4,267.73
+Zwrot całkowity: $-1,732.27 (-28.87%)
+
+Pozycje:
+  F: 143 akcji @ $5.17 (Obecna: $5.05, P&L: $-16.28)
+  XOM: 21 akcji @ $27.45 (Obecna: $27.39, P&L: $-1.34)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-25 00:00:00]
+Gotówka: $3,674.87
+Wartość całkowita: $4,255.41
+Zwrot całkowity: $-1,744.59 (-29.08%)
+
+Pozycje:
+  XOM: 21 akcji @ $27.45 (Obecna: $27.64, P&L: $4.02)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-09-28 00:00:00]
+Gotówka: $2,591.70
+Wartość całkowita: $4,290.83
+Zwrot całkowity: $-1,709.17 (-28.49%)
+
+Pozycje:
+  XOM: 21 akcji @ $27.45 (Obecna: $28.18, P&L: $15.25)
+  BA: 3 akcji @ $160.33 (Obecna: $166.08, P&L: $17.25)
+  F: 120 akcji @ $5.00 (Obecna: $5.08, P&L: $9.11)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-29 00:00:00]
+Gotówka: $2,591.70
+Wartość całkowita: $4,257.93
+Zwrot całkowity: $-1,742.07 (-29.03%)
+
+Pozycje:
+  XOM: 21 akcji @ $27.45 (Obecna: $27.36, P&L: $-2.01)
+  BA: 3 akcji @ $160.33 (Obecna: $163.60, P&L: $9.81)
+  F: 120 akcji @ $5.00 (Obecna: $5.01, P&L: $0.91)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-09-30 00:00:00]
+Gotówka: $2,591.70
+Wartość całkowita: $4,269.22
+Zwrot całkowity: $-1,730.78 (-28.85%)
+
+Pozycje:
+  XOM: 21 akcji @ $27.45 (Obecna: $27.40, P&L: $-1.17)
+  BA: 3 akcji @ $160.33 (Obecna: $165.26, P&L: $14.79)
+  F: 120 akcji @ $5.00 (Obecna: $5.05, P&L: $6.37)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-01 00:00:00]
+Gotówka: $2,632.44
+Wartość całkowita: $4,252.96
+Zwrot całkowity: $-1,747.04 (-29.12%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.86, P&L: $22.59)
+  F: 120 akcji @ $5.00 (Obecna: $5.12, P&L: $14.57)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.44, P&L: $-10.01)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-02 00:00:00]
+Gotówka: $2,632.44
+Wartość całkowita: $4,264.09
+Zwrot całkowity: $-1,735.91 (-28.93%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $168.08, P&L: $23.25)
+  F: 120 akcji @ $5.00 (Obecna: $5.23, P&L: $27.31)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.32, P&L: $-12.28)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-05 00:00:00]
+Gotówka: $2,632.44
+Wartość całkowita: $4,296.81
+Zwrot całkowity: $-1,703.19 (-28.39%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $171.20, P&L: $32.61)
+  F: 120 akcji @ $5.00 (Obecna: $5.33, P&L: $39.15)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.93, P&L: $-0.76)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-06 00:00:00]
+Gotówka: $2,632.44
+Wartość całkowita: $4,252.88
+Zwrot całkowity: $-1,747.12 (-29.12%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $159.54, P&L: $-2.37)
+  F: 120 akcji @ $5.00 (Obecna: $5.30, P&L: $35.51)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.65, P&L: $-6.07)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-07 00:00:00]
+Gotówka: $2,632.44
+Wartość całkowita: $4,292.52
+Zwrot całkowity: $-1,707.48 (-28.46%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $164.61, P&L: $12.84)
+  F: 120 akcji @ $5.00 (Obecna: $5.49, P&L: $58.27)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.73, P&L: $-4.40)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-08 00:00:00]
+Gotówka: $3,300.32
+Wartość całkowita: $4,338.97
+Zwrot całkowity: $-1,661.03 (-27.68%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $168.00, P&L: $23.01)
+  XOM: 19 akcji @ $26.97 (Obecna: $28.14, P&L: $22.29)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-09 00:00:00]
+Gotówka: $3,300.32
+Wartość całkowita: $4,329.07
+Zwrot całkowity: $-1,670.93 (-27.85%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.33, P&L: $21.00)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.72, P&L: $14.41)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-12 00:00:00]
+Gotówka: $3,300.32
+Wartość całkowita: $4,327.46
+Zwrot całkowity: $-1,672.54 (-27.88%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.35, P&L: $21.06)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.64, P&L: $12.74)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-13 00:00:00]
+Gotówka: $3,300.32
+Wartość całkowita: $4,305.62
+Zwrot całkowity: $-1,694.38 (-28.24%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $162.14, P&L: $5.43)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.31, P&L: $6.52)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-14 00:00:00]
+Gotówka: $2,742.01
+Wartość całkowita: $4,295.21
+Zwrot całkowity: $-1,704.79 (-28.41%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $163.24, P&L: $8.73)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.25, P&L: $5.46)
+  F: 95 akcji @ $5.87 (Obecna: $5.74, P&L: $-11.53)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-15 00:00:00]
+Gotówka: $2,742.01
+Wartość całkowita: $4,306.36
+Zwrot całkowity: $-1,693.64 (-28.23%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $164.24, P&L: $11.73)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.49, P&L: $10.01)
+  F: 95 akcji @ $5.87 (Obecna: $5.78, P&L: $-7.93)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-16 00:00:00]
+Gotówka: $2,742.01
+Wartość całkowita: $4,313.99
+Zwrot całkowity: $-1,686.01 (-28.10%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.35, P&L: $21.06)
+  XOM: 19 akcji @ $26.97 (Obecna: $27.21, P&L: $4.70)
+  F: 95 akcji @ $5.87 (Obecna: $5.82, P&L: $-4.32)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-19 00:00:00]
+Gotówka: $2,742.01
+Wartość całkowita: $4,297.19
+Zwrot całkowity: $-1,702.81 (-28.38%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.11, P&L: $20.34)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.67, P&L: $-5.61)
+  F: 95 akcji @ $5.87 (Obecna: $5.76, P&L: $-10.09)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-20 00:00:00]
+Gotówka: $2,742.01
+Wartość całkowita: $4,312.64
+Zwrot całkowity: $-1,687.36 (-28.12%)
+
+Pozycje:
+  BA: 3 akcji @ $160.33 (Obecna: $167.24, P&L: $20.73)
+  XOM: 19 akcji @ $26.97 (Obecna: $26.89, P&L: $-1.36)
+  F: 95 akcji @ $5.87 (Obecna: $5.87, P&L: $0.72)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-21 00:00:00]
+Gotówka: $3,232.61
+Wartość całkowita: $4,301.25
+Zwrot całkowity: $-1,698.75 (-28.31%)
+
+Pozycje:
+  XOM: 19 akcji @ $26.97 (Obecna: $26.46, P&L: $-9.55)
+  F: 95 akcji @ $5.87 (Obecna: $5.96, P&L: $8.65)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-22 00:00:00]
+Gotówka: $2,737.52
+Wartość całkowita: $4,365.10
+Zwrot całkowity: $-1,634.90 (-27.25%)
+
+Pozycje:
+  XOM: 19 akcji @ $26.97 (Obecna: $27.82, P&L: $16.22)
+  F: 95 akcji @ $5.87 (Obecna: $6.23, P&L: $34.60)
+  BA: 3 akcji @ $164.70 (Obecna: $169.07, P&L: $13.11)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-23 00:00:00]
+Gotówka: $2,737.52
+Wartość całkowita: $4,345.75
+Zwrot całkowity: $-1,654.25 (-27.57%)
+
+Pozycje:
+  XOM: 19 akcji @ $26.97 (Obecna: $27.26, P&L: $5.61)
+  F: 95 akcji @ $5.87 (Obecna: $6.19, P&L: $30.99)
+  BA: 3 akcji @ $164.70 (Obecna: $167.36, P&L: $7.98)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-26 00:00:00]
+Gotówka: $2,704.67
+Wartość całkowita: $4,298.28
+Zwrot całkowity: $-1,701.72 (-28.36%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $6.09, P&L: $21.62)
+  BA: 3 akcji @ $164.70 (Obecna: $160.83, P&L: $-11.61)
+  XOM: 20 akcji @ $26.82 (Obecna: $26.62, P&L: $-4.15)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-27 00:00:00]
+Gotówka: $2,691.02
+Wartość całkowita: $4,251.47
+Zwrot całkowity: $-1,748.53 (-29.14%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $6.01, P&L: $13.70)
+  XOM: 20 akcji @ $26.82 (Obecna: $26.19, P&L: $-12.61)
+  BA: 3 akcji @ $159.16 (Obecna: $155.24, P&L: $-11.76)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-28 00:00:00]
+Gotówka: $3,024.22
+Wartość całkowita: $4,171.80
+Zwrot całkowity: $-1,828.20 (-30.47%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.84, P&L: $-2.16)
+  BA: 4 akcji @ $153.00 (Obecna: $148.14, P&L: $-19.44)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-10-29 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,211.78
+Zwrot całkowity: $-1,788.22 (-29.80%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.99, P&L: $12.25)
+  XOM: 22 akcji @ $25.07 (Obecna: $26.31, P&L: $27.39)
+  BA: 4 akcji @ $148.03 (Obecna: $148.29, P&L: $1.04)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-10-30 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,177.78
+Zwrot całkowity: $-1,822.22 (-30.37%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.87, P&L: $-0.00)
+  XOM: 22 akcji @ $25.07 (Obecna: $26.03, P&L: $21.24)
+  BA: 4 akcji @ $148.03 (Obecna: $144.39, P&L: $-14.56)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-02 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,217.23
+Zwrot całkowity: $-1,782.77 (-29.71%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.85, P&L: $-1.44)
+  XOM: 22 akcji @ $25.07 (Obecna: $27.13, P&L: $45.30)
+  BA: 4 akcji @ $148.03 (Obecna: $148.60, P&L: $2.28)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-03 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,239.50
+Zwrot całkowity: $-1,760.50 (-29.34%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.98, P&L: $10.81)
+  XOM: 22 akcji @ $25.07 (Obecna: $26.66, P&L: $35.11)
+  BA: 4 akcji @ $148.03 (Obecna: $153.65, P&L: $22.48)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-04 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,210.96
+Zwrot całkowity: $-1,789.04 (-29.82%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $5.80, P&L: $-6.49)
+  XOM: 22 akcji @ $25.07 (Obecna: $26.52, P&L: $31.95)
+  BA: 4 akcji @ $148.03 (Obecna: $151.63, P&L: $14.40)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-05 00:00:00]
+Gotówka: $2,470.31
+Wartość całkowita: $4,256.97
+Zwrot całkowity: $-1,743.03 (-29.05%)
+
+Pozycje:
+  F: 95 akcji @ $5.87 (Obecna: $6.06, P&L: $18.74)
+  XOM: 22 akcji @ $25.07 (Obecna: $26.47, P&L: $30.90)
+  BA: 4 akcji @ $148.03 (Obecna: $157.09, P&L: $36.24)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-06 00:00:00]
+Gotówka: $3,030.70
+Wartość całkowita: $4,237.19
+Zwrot całkowity: $-1,762.81 (-29.38%)
+
+Pozycje:
+  XOM: 22 akcji @ $25.07 (Obecna: $26.16, P&L: $24.05)
+  BA: 4 akcji @ $148.03 (Obecna: $157.74, P&L: $38.84)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-09 00:00:00]
+Gotówka: $2,256.01
+Wartość całkowita: $4,408.73
+Zwrot całkowity: $-1,591.27 (-26.52%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $29.47, P&L: $9.77)
+  BA: 4 akcji @ $179.00 (Obecna: $179.36, P&L: $1.44)
+  F: 117 akcji @ $6.15 (Obecna: $6.22, P&L: $7.99)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-10 00:00:00]
+Gotówka: $2,256.01
+Wartość całkowita: $4,477.72
+Zwrot całkowity: $-1,522.28 (-25.37%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $30.13, P&L: $25.46)
+  BA: 4 akcji @ $179.00 (Obecna: $188.69, P&L: $38.76)
+  F: 117 akcji @ $6.15 (Obecna: $6.36, P&L: $23.97)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-11 00:00:00]
+Gotówka: $2,256.01
+Wartość całkowita: $4,439.67
+Zwrot całkowity: $-1,560.33 (-26.01%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $29.82, P&L: $18.01)
+  BA: 4 akcji @ $179.00 (Obecna: $182.15, P&L: $12.60)
+  F: 117 akcji @ $6.15 (Obecna: $6.32, P&L: $19.53)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-12 00:00:00]
+Gotówka: $2,256.01
+Wartość całkowita: $4,382.78
+Zwrot całkowity: $-1,617.22 (-26.95%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $28.79, P&L: $-6.51)
+  BA: 4 akcji @ $179.00 (Obecna: $176.72, P&L: $-9.12)
+  F: 117 akcji @ $6.15 (Obecna: $6.23, P&L: $8.88)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-13 00:00:00]
+Gotówka: $2,256.01
+Wartość całkowita: $4,470.30
+Zwrot całkowity: $-1,529.70 (-25.49%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $29.49, P&L: $10.16)
+  BA: 4 akcji @ $179.00 (Obecna: $187.11, P&L: $32.44)
+  F: 117 akcji @ $6.15 (Obecna: $6.48, P&L: $38.17)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-16 00:00:00]
+Gotówka: $2,674.09
+Wartość całkowita: $4,608.63
+Zwrot całkowity: $-1,391.37 (-23.19%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $31.19, P&L: $50.96)
+  F: 117 akcji @ $6.15 (Obecna: $6.68, P&L: $61.25)
+  BA: 2 akcji @ $194.56 (Obecna: $202.40, P&L: $15.68)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-17 00:00:00]
+Gotówka: $2,674.09
+Wartość całkowita: $4,629.49
+Zwrot całkowity: $-1,370.51 (-22.84%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $31.61, P&L: $60.96)
+  F: 117 akcji @ $6.15 (Obecna: $6.64, P&L: $56.82)
+  BA: 2 akcji @ $194.56 (Obecna: $210.05, P&L: $30.98)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-18 00:00:00]
+Gotówka: $2,674.09
+Wartość całkowita: $4,593.57
+Zwrot całkowity: $-1,406.43 (-23.44%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $30.41, P&L: $32.33)
+  F: 117 akcji @ $6.15 (Obecna: $6.69, P&L: $63.03)
+  BA: 2 akcji @ $194.56 (Obecna: $203.30, P&L: $17.48)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-19 00:00:00]
+Gotówka: $2,674.09
+Wartość całkowita: $4,602.04
+Zwrot całkowity: $-1,397.96 (-23.30%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $30.57, P&L: $36.05)
+  F: 117 akcji @ $6.15 (Obecna: $6.69, P&L: $63.03)
+  BA: 2 akcji @ $194.56 (Obecna: $205.67, P&L: $22.22)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-20 00:00:00]
+Gotówka: $2,674.09
+Wartość całkowita: $4,573.81
+Zwrot całkowity: $-1,426.19 (-23.77%)
+
+Pozycje:
+  XOM: 24 akcji @ $29.07 (Obecna: $30.19, P&L: $27.03)
+  F: 117 akcji @ $6.15 (Obecna: $6.63, P&L: $55.93)
+  BA: 2 akcji @ $194.56 (Obecna: $199.62, P&L: $10.12)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-23 00:00:00]
+Gotówka: $2,922.54
+Wartość całkowita: $4,679.01
+Zwrot całkowity: $-1,320.99 (-22.02%)
+
+Pozycje:
+  F: 117 akcji @ $6.15 (Obecna: $6.72, P&L: $66.58)
+  BA: 2 akcji @ $194.56 (Obecna: $211.53, P&L: $33.94)
+  XOM: 17 akcji @ $30.65 (Obecna: $32.17, P&L: $25.84)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-24 00:00:00]
+Gotówka: $2,583.18
+Wartość całkowita: $4,823.69
+Zwrot całkowity: $-1,176.31 (-19.61%)
+
+Pozycje:
+  XOM: 23 akcji @ $33.11 (Obecna: $34.31, P&L: $27.63)
+  BA: 3 akcji @ $219.43 (Obecna: $218.49, P&L: $-2.82)
+  F: 111 akcji @ $6.94 (Obecna: $7.17, P&L: $25.27)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-11-25 00:00:00]
+Gotówka: $2,583.18
+Wartość całkowita: $4,767.90
+Zwrot całkowity: $-1,232.10 (-20.54%)
+
+Pozycje:
+  XOM: 23 akcji @ $33.11 (Obecna: $33.35, P&L: $5.64)
+  BA: 3 akcji @ $219.43 (Obecna: $217.61, P&L: $-5.46)
+  F: 111 akcji @ $6.94 (Obecna: $6.89, P&L: $-5.90)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-27 00:00:00]
+Gotówka: $2,583.18
+Wartość całkowita: $4,753.75
+Zwrot całkowity: $-1,246.25 (-20.77%)
+
+Pozycje:
+  XOM: 23 akcji @ $33.11 (Obecna: $32.85, P&L: $-6.02)
+  BA: 3 akcji @ $219.43 (Obecna: $216.50, P&L: $-8.79)
+  F: 111 akcji @ $6.94 (Obecna: $6.90, P&L: $-5.05)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-11-30 00:00:00]
+Gotówka: $2,596.52
+Wartość całkowita: $4,647.82
+Zwrot całkowity: $-1,352.18 (-22.54%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.89, P&L: $-5.90)
+  XOM: 21 akcji @ $32.53 (Obecna: $31.16, P&L: $-28.66)
+  BA: 3 akcji @ $215.70 (Obecna: $210.71, P&L: $-14.97)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-01 00:00:00]
+Gotówka: $2,713.59
+Wartość całkowita: $4,665.76
+Zwrot całkowity: $-1,334.24 (-22.24%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $7.01, P&L: $7.58)
+  BA: 3 akcji @ $215.70 (Obecna: $213.01, P&L: $-8.07)
+  XOM: 17 akcji @ $31.84 (Obecna: $31.47, P&L: $-6.39)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-02 00:00:00]
+Gotówka: $2,713.59
+Wartość całkowita: $4,714.91
+Zwrot całkowity: $-1,285.09 (-21.42%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.98, P&L: $4.21)
+  BA: 3 akcji @ $215.70 (Obecna: $223.85, P&L: $24.45)
+  XOM: 17 akcji @ $31.84 (Obecna: $32.64, P&L: $13.62)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-03 00:00:00]
+Gotówka: $2,713.59
+Wartość całkowita: $4,759.56
+Zwrot całkowity: $-1,240.44 (-20.67%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.99, P&L: $5.05)
+  BA: 3 akcji @ $215.70 (Obecna: $237.20, P&L: $64.50)
+  XOM: 17 akcji @ $31.84 (Obecna: $32.86, P&L: $17.37)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-04 00:00:00]
+Gotówka: $2,713.59
+Wartość całkowita: $4,777.46
+Zwrot całkowity: $-1,222.54 (-20.38%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $7.09, P&L: $16.00)
+  BA: 3 akcji @ $215.70 (Obecna: $232.71, P&L: $51.03)
+  XOM: 17 akcji @ $31.84 (Obecna: $34.07, P&L: $37.79)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-07 00:00:00]
+Gotówka: $3,426.67
+Wartość całkowita: $4,771.47
+Zwrot całkowity: $-1,228.53 (-20.48%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $7.00, P&L: $5.90)
+  XOM: 17 akcji @ $31.84 (Obecna: $33.43, P&L: $26.95)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: HOLD/SELL (wartość: 0)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-08 00:00:00]
+Gotówka: $2,948.32
+Wartość całkowita: $4,787.40
+Zwrot całkowity: $-1,212.60 (-20.21%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $7.02, P&L: $8.42)
+  XOM: 17 akcji @ $31.84 (Obecna: $34.52, P&L: $45.57)
+  BA: 2 akcji @ $238.70 (Obecna: $236.57, P&L: $-4.26)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-09 00:00:00]
+Gotówka: $2,948.32
+Wartość całkowita: $4,803.00
+Zwrot całkowity: $-1,197.00 (-19.95%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $7.17, P&L: $25.27)
+  XOM: 17 akcji @ $31.84 (Obecna: $34.98, P&L: $53.35)
+  BA: 2 akcji @ $238.70 (Obecna: $232.06, P&L: $-13.28)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-10 00:00:00]
+Gotówka: $3,558.58
+Wartość całkowita: $4,795.54
+Zwrot całkowity: $-1,204.46 (-20.07%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.92, P&L: $-2.53)
+  BA: 2 akcji @ $238.70 (Obecna: $234.43, P&L: $-8.54)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-11 00:00:00]
+Gotówka: $2,907.57
+Wartość całkowita: $4,772.27
+Zwrot całkowity: $-1,227.73 (-20.46%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.84, P&L: $-10.95)
+  XOM: 18 akcji @ $35.72 (Obecna: $35.80, P&L: $1.47)
+  BA: 2 akcji @ $232.82 (Obecna: $230.33, P&L: $-4.98)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-14 00:00:00]
+Gotówka: $2,910.14
+Wartość całkowita: $4,704.41
+Zwrot całkowity: $-1,295.59 (-21.59%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.76, P&L: $-20.21)
+  BA: 2 akcji @ $232.82 (Obecna: $228.62, P&L: $-8.40)
+  XOM: 17 akcji @ $36.24 (Obecna: $34.51, P&L: $-29.46)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-15 00:00:00]
+Gotówka: $2,910.14
+Wartość całkowita: $4,737.78
+Zwrot całkowity: $-1,262.22 (-21.04%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.94, P&L: $-0.00)
+  BA: 2 akcji @ $232.82 (Obecna: $229.50, P&L: $-6.64)
+  XOM: 17 akcji @ $36.24 (Obecna: $35.18, P&L: $-18.06)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-16 00:00:00]
+Gotówka: $2,910.14
+Wartość całkowita: $4,730.42
+Zwrot całkowity: $-1,269.58 (-21.16%)
+
+Pozycje:
+  F: 111 akcji @ $6.94 (Obecna: $6.86, P&L: $-9.26)
+  BA: 2 akcji @ $232.82 (Obecna: $225.87, P&L: $-13.90)
+  XOM: 17 akcji @ $36.24 (Obecna: $35.72, P&L: $-8.89)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-17 00:00:00]
+Gotówka: $2,747.68
+Wartość całkowita: $4,697.58
+Zwrot całkowity: $-1,302.42 (-21.71%)
+
+Pozycje:
+  XOM: 17 akcji @ $36.24 (Obecna: $35.54, P&L: $-11.95)
+  BA: 3 akcji @ $227.24 (Obecna: $221.24, P&L: $-18.00)
+  F: 99 akcji @ $6.90 (Obecna: $6.89, P&L: $-0.75)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-18 00:00:00]
+Gotówka: $2,657.37
+Wartość całkowita: $4,652.46
+Zwrot całkowity: $-1,347.54 (-22.46%)
+
+Pozycje:
+  F: 99 akcji @ $6.90 (Obecna: $6.79, P&L: $-10.52)
+  XOM: 19 akcji @ $35.37 (Obecna: $34.92, P&L: $-8.39)
+  BA: 3 akcji @ $222.05 (Obecna: $219.75, P&L: $-6.90)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-21 00:00:00]
+Gotówka: $2,768.83
+Wartość całkowita: $4,646.13
+Zwrot całkowity: $-1,353.87 (-22.56%)
+
+Pozycje:
+  F: 99 akcji @ $6.90 (Obecna: $6.78, P&L: $-12.02)
+  BA: 3 akcji @ $222.05 (Obecna: $219.31, P&L: $-8.22)
+  XOM: 16 akcji @ $33.60 (Obecna: $34.29, P&L: $10.98)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-22 00:00:00]
+Gotówka: $3,427.78
+Wartość całkowita: $4,623.42
+Zwrot całkowity: $-1,376.58 (-22.94%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $218.78, P&L: $-9.81)
+  XOM: 16 akcji @ $33.60 (Obecna: $33.71, P&L: $1.70)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-23 00:00:00]
+Gotówka: $3,427.78
+Wartość całkowita: $4,633.08
+Zwrot całkowity: $-1,366.92 (-22.78%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $219.69, P&L: $-7.08)
+  XOM: 16 akcji @ $33.60 (Obecna: $34.14, P&L: $8.63)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-24 00:00:00]
+Gotówka: $2,852.38
+Wartość całkowita: $4,612.53
+Zwrot całkowity: $-1,387.47 (-23.12%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $217.15, P&L: $-14.70)
+  XOM: 16 akcji @ $33.60 (Obecna: $34.00, P&L: $6.41)
+  F: 84 akcji @ $6.84 (Obecna: $6.72, P&L: $-9.56)
+
+Przewidywania:
+  XOM: HOLD/SELL (wartość: 0)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+[2020-12-28 00:00:00]
+Gotówka: $2,852.38
+Wartość całkowita: $4,613.09
+Zwrot całkowity: $-1,386.91 (-23.12%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $216.09, P&L: $-17.88)
+  XOM: 16 akcji @ $33.60 (Obecna: $34.11, P&L: $8.24)
+  F: 84 akcji @ $6.84 (Obecna: $6.75, P&L: $-7.65)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: HOLD/SELL (wartość: 0)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-29 00:00:00]
+Gotówka: $2,852.38
+Wartość całkowita: $4,602.96
+Zwrot całkowity: $-1,397.04 (-23.28%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $216.25, P&L: $-17.40)
+  XOM: 16 akcji @ $33.60 (Obecna: $33.73, P&L: $2.09)
+  F: 84 akcji @ $6.84 (Obecna: $6.69, P&L: $-12.11)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: HOLD/SELL (wartość: 0)
+------------------------------------------------------------
+
+[2020-12-30 00:00:00]
+Gotówka: $2,852.38
+Wartość całkowita: $4,611.09
+Zwrot całkowity: $-1,388.91 (-23.15%)
+
+Pozycje:
+  BA: 3 akcji @ $222.05 (Obecna: $216.67, P&L: $-16.14)
+  XOM: 16 akcji @ $33.60 (Obecna: $34.00, P&L: $6.41)
+  F: 84 akcji @ $6.84 (Obecna: $6.72, P&L: $-9.56)
+
+Przewidywania:
+  XOM: BUY (wartość: 1)
+  BA: BUY (wartość: 1)
+  F: BUY (wartość: 1)
+------------------------------------------------------------
+
+
+================================================================================
+KOŃCOWE PODSUMOWANIE PORTFOLIO
+================================================================================
+Końcowa wartość portfolio: $4,590.34
+Całkowity zwrot: $-1,409.66
+Procentowy zwrot: -23.49%
+================================================================================

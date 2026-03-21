@@ -8,21 +8,21 @@ class PortfolioWidget:
         self.create_widget()
         
     def create_widget(self):
-        summary_frame = ttk.LabelFrame(self.parent, text="Portfolio Summary", padding=10)
+        summary_frame = ttk.LabelFrame(self.parent, text="Portfolio - podsumowanie", padding=10)
         summary_frame.pack(fill=tk.X, pady=(0, 10))
         
-        self.cash_label = ttk.Label(summary_frame, text="Cash: $0.00", font=("Arial", 11))
+        self.cash_label = ttk.Label(summary_frame, text="Gotówka: $0.00", font=("Arial", 11))
         self.cash_label.grid(row=0, column=0, sticky=tk.W, pady=2)
         
-        self.total_value_label = ttk.Label(summary_frame, text="Total Value: $0.00", 
+        self.total_value_label = ttk.Label(summary_frame, text="Kapitał: $0.00", 
                                           font=("Arial", 11, "bold"))
         self.total_value_label.grid(row=1, column=0, sticky=tk.W, pady=2)
         
-        self.total_return_label = ttk.Label(summary_frame, text="Total Return: $0.00 (0.00%)", 
+        self.total_return_label = ttk.Label(summary_frame, text="Zwrot: $0.00 (0.00%)", 
                                            font=("Arial", 11))
         self.total_return_label.grid(row=2, column=0, sticky=tk.W, pady=2)
         
-        positions_frame = ttk.LabelFrame(self.parent, text="Current Positions", padding=5)
+        positions_frame = ttk.LabelFrame(self.parent, text="Obecna pozycja", padding=5)
         positions_frame.pack(fill=tk.BOTH, expand=True)
         
         self.positions_tree = ttk.Treeview(positions_frame, 
@@ -31,10 +31,10 @@ class PortfolioWidget:
                                           show='headings', height=8)
         
         self.positions_tree.heading('Ticker', text='Ticker')
-        self.positions_tree.heading('Shares', text='Shares')
-        self.positions_tree.heading('Avg Price', text='Avg Price')
-        self.positions_tree.heading('Current Price', text='Current Price')
-        self.positions_tree.heading('Market Value', text='Market Value')
+        self.positions_tree.heading('Shares', text='Akcje')
+        self.positions_tree.heading('Avg Price', text='Średnia cena')
+        self.positions_tree.heading('Current Price', text='Obecna cena zamknięcia')
+        self.positions_tree.heading('Market Value', text='Wartość rynkowa')
         self.positions_tree.heading('P&L', text='P&L')
         self.positions_tree.heading('P&L %', text='P&L %')
         
@@ -58,10 +58,10 @@ class PortfolioWidget:
         self.positions_tree.tag_configure('neutral', foreground='black')
         
     def update_display(self, portfolio_summary):
-        self.cash_label.config(text=f"Cash: {format_currency(portfolio_summary['cash'])}")
-        self.total_value_label.config(text=f"Total Value: {format_currency(portfolio_summary['total_value'])}")
+        self.cash_label.config(text=f"Gotówka: {format_currency(portfolio_summary['cash'])}")
+        self.total_value_label.config(text=f"Kapitał: {format_currency(portfolio_summary['total_value'])}")
         
-        return_text = f"Total Return: {format_currency(portfolio_summary['total_return'])} ({format_percentage(portfolio_summary['return_percentage'])})"
+        return_text = f"Zwrot: {format_currency(portfolio_summary['total_return'])} ({format_percentage(portfolio_summary['return_percentage'])})"
         
         if portfolio_summary['total_return'] > 0:
             self.total_return_label.config(text=return_text, foreground='green')

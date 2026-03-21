@@ -11,7 +11,7 @@ import threading
 class MainWindow:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Trading Simulator - Configuration")
+        self.root.title("Symulator giełdowy - Konfiguracja")
         self.root.geometry("700x850")  
         self.root.resizable(False, False)
         
@@ -23,39 +23,39 @@ class MainWindow:
         main_frame = ttk.Frame(self.root, padding="20")
         main_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
         
-        title_label = ttk.Label(main_frame, text="Trading Simulator Configuration", 
+        title_label = ttk.Label(main_frame, text="Symulator giełdowy - Konfiguracja", 
                                font=("Arial", 16, "bold"))
         title_label.grid(row=0, column=0, columnspan=2, pady=(0, 20))
         
         config_section = ttk.LabelFrame(main_frame, text="Podstawowa konfiguracja", padding=10)
         config_section.grid(row=1, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=(0, 20))
         
-        ttk.Label(config_section, text="Tickers (comma separated):").grid(row=0, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Symbole giełdowe (oddzielone przecinkiem):").grid(row=0, column=0, sticky=tk.W, pady=5)
         self.tickers_entry = ttk.Entry(config_section, width=50)
         self.tickers_entry.grid(row=0, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="Start Date (YYYY-MM-DD):").grid(row=1, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Data początkowa (YYYY-MM-DD):").grid(row=1, column=0, sticky=tk.W, pady=5)
         self.start_date_entry = ttk.Entry(config_section, width=50)
         self.start_date_entry.grid(row=1, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="End Date (YYYY-MM-DD):").grid(row=2, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Data końcowa (YYYY-MM-DD):").grid(row=2, column=0, sticky=tk.W, pady=5)
         self.end_date_entry = ttk.Entry(config_section, width=50)
         self.end_date_entry.grid(row=2, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="Model Type:").grid(row=3, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Typ modelu:").grid(row=3, column=0, sticky=tk.W, pady=5)
         self.model_combo = ttk.Combobox(config_section, values=list(AVAILABLE_MODELS.keys()), 
                                        state="readonly", width=47)
         self.model_combo.grid(row=3, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="Commission Rate (0.001 = 0.1%):").grid(row=4, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Prowizja (0.001 = 0.1%):").grid(row=4, column=0, sticky=tk.W, pady=5)
         self.commission_entry = ttk.Entry(config_section, width=50)
         self.commission_entry.grid(row=4, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="Days Ahead:").grid(row=5, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Dni w przód:").grid(row=5, column=0, sticky=tk.W, pady=5)
         self.days_ahead_entry = ttk.Entry(config_section, width=50)
         self.days_ahead_entry.grid(row=5, column=1, sticky=(tk.W, tk.E), pady=5)
         
-        ttk.Label(config_section, text="Initial Capital:").grid(row=6, column=0, sticky=tk.W, pady=5)
+        ttk.Label(config_section, text="Początkowy kapitał:").grid(row=6, column=0, sticky=tk.W, pady=5)
         self.capital_entry = ttk.Entry(config_section, width=50)
         self.capital_entry.grid(row=6, column=1, sticky=(tk.W, tk.E), pady=5)
         
@@ -127,7 +127,7 @@ class MainWindow:
         utility_buttons_frame = ttk.Frame(main_frame)
         utility_buttons_frame.grid(row=5, column=0, columnspan=2, pady=(20, 0))
         
-        ttk.Button(utility_buttons_frame, text="Reset to Defaults", 
+        ttk.Button(utility_buttons_frame, text="Resetuj do domyślnych", 
                   command=self.load_defaults).pack(side=tk.LEFT, padx=5)
         
         ttk.Button(utility_buttons_frame, text="Exit", 
@@ -182,15 +182,15 @@ class MainWindow:
     
     def validate_inputs(self):
         if not validate_date_format(self.start_date_entry.get()):
-            messagebox.showerror("Error", "Invalid start date format. Use YYYY-MM-DD")
+            messagebox.showerror("Error", "Zły format daty. Użyj YYYY-MM-DD")
             return False
         
         if not validate_date_format(self.end_date_entry.get()):
-            messagebox.showerror("Error", "Invalid end date format. Use YYYY-MM-DD")
+            messagebox.showerror("Error", "Zły format daty. Użyj YYYY-MM-DD")
             return False
         
         if not validate_date_range(self.start_date_entry.get(), self.end_date_entry.get()):
-            messagebox.showerror("Error", "Start date must be before end date")
+            messagebox.showerror("Error", "Data początkowa musi być wcześniej niż końcowa")
             return False
         
         is_valid, result = validate_tickers(self.tickers_entry.get())
@@ -199,24 +199,24 @@ class MainWindow:
             return False
         
         if not validate_numeric_input(self.commission_entry.get(), 0, 1):
-            messagebox.showerror("Error", "Commission rate must be a number between 0 and 1")
+            messagebox.showerror("Error", "Prowizja musi być liczbą pomiędzy 0, a 1")
             return False
         
         if not validate_numeric_input(self.days_ahead_entry.get(), 1, 30):
-            messagebox.showerror("Error", "Days ahead must be a number between 1 and 30")
+            messagebox.showerror("Error", "Dni w przód musi być liczbą pomiędzy 1 i 30")
             return False
         
         if not validate_numeric_input(self.capital_entry.get(), 1000):
-            messagebox.showerror("Error", "Initial capital must be at least 1000")
+            messagebox.showerror("Error", "Kapitał początkowy musi być minimum 1000")
             return False
         
         if not self.model_combo.get():
-            messagebox.showerror("Error", "Please select a model type")
+            messagebox.showerror("Error", "Wybierz typ modelu")
             return False
         
         selected_indicators = [indicator for indicator, var in self.indicator_vars.items() if var.get()]
         if not selected_indicators:
-            messagebox.showerror("Error", "Please select at least one technical indicator")
+            messagebox.showerror("Error", "Musisz wybrać przynajmniej jeden wskaźnik techniczny")
             return False
         
         selected_features = [feature for feature, var in self.price_feature_vars.items() if var.get()]
